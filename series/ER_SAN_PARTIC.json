@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries with high level of users/communities participating in planning programs in sanitation management",
+    "indicator_id": "6.b.1",
+    "target_id": "6.b",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "ER_SAN_PARTIC"
+}

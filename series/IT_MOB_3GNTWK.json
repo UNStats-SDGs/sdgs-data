@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of population covered by a 3G mobile network",
+    "indicator_id": "9.c.1",
+    "target_id": "9.c",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "IT_MOB_3GNTWK"
+}

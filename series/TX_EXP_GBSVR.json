@@ -1,0 +1,9 @@
+{
+    "description": "Share of global services exports",
+    "indicator_id": "17.11.1",
+    "target_id": "17.11",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "TX_EXP_GBSVR"
+}

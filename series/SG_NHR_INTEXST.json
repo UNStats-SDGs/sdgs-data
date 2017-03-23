@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles",
+    "indicator_id": "16.a.1",
+    "target_id": "16.a",
+    "goal_id": "16",
+    "is_official": false,
+    "show": true,
+    "id": "SG_NHR_INTEXST"
+}

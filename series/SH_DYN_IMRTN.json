@@ -1,0 +1,9 @@
+{
+    "description": "Number of infant deaths",
+    "indicator_id": "3.2.1",
+    "target_id": "3.2",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "SH_DYN_IMRTN"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Research and development (R&D) expenditure as a proportion of GDP",
+    "indicator_id": "9.5.1",
+    "target_id": "9.5",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "GB_XPD_RSDV"
+}

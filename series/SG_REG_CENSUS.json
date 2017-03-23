@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries that have conducted at least one population and housing census in the last 10 years",
+    "indicator_id": "17.19.2",
+    "target_id": "17.19",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "SG_REG_CENSUS"
+}

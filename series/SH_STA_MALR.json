@@ -1,0 +1,9 @@
+{
+    "description": "Malaria incidence per 1,000 population",
+    "indicator_id": "3.3.3",
+    "target_id": "3.3",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_STA_MALR"
+}

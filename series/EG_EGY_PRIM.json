@@ -1,0 +1,9 @@
+{
+    "description": "Energy intensity level of primary energy",
+    "indicator_id": "7.3.1",
+    "target_id": "7.3",
+    "goal_id": "7",
+    "is_official": true,
+    "show": true,
+    "id": "EG_EGY_PRIM"
+}

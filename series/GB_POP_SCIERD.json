@@ -1,0 +1,9 @@
+{
+    "description": "Researchers (in full-time equivalent) per million inhabitants",
+    "indicator_id": "9.5.2",
+    "target_id": "9.5",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "GB_POP_SCIERD"
+}

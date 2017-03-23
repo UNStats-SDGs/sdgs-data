@@ -1,0 +1,9 @@
+{
+    "description": "Annual mean levels of fine particulate matter (PM2.5) in cities (population weighted)",
+    "indicator_id": "11.6.2",
+    "target_id": "11.6",
+    "goal_id": "11",
+    "is_official": true,
+    "show": true,
+    "id": "EN_ATM_PM25"
+}

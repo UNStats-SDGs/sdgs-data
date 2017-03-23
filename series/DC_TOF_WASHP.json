@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for water supply and sanitation, by recipient, as a percentage of donors' sector-allocable total official flows",
+    "indicator_id": "6.a.1",
+    "target_id": "6.a",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "DC_TOF_WASHP"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of schools with access to computers for pedagogical purposes, lower secondary level",
+    "indicator_id": "4.a.1",
+    "target_id": "4.a",
+    "goal_id": "4",
+    "is_official": true,
+    "show": true,
+    "id": "SE_LSC_CMPTR"
+}

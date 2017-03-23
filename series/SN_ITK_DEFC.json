@@ -1,0 +1,9 @@
+{
+    "description": "Prevalence of undernourishment",
+    "indicator_id": "2.1.1",
+    "target_id": "2.1",
+    "goal_id": "2",
+    "is_official": true,
+    "show": true,
+    "id": "SN_ITK_DEFC"
+}

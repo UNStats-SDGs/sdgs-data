@@ -1,0 +1,9 @@
+{
+    "description": "Estimated prevalence of moderate or severe food insecurity in the population (lower bound)",
+    "indicator_id": "2.1.2",
+    "target_id": "2.1",
+    "goal_id": "2",
+    "is_official": true,
+    "show": true,
+    "id": "AG_PRD_FIESMS_LB"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Worldwide weighted tariff-average of textiles, under the preferential status",
+    "indicator_id": "17.10.1",
+    "target_id": "17.10",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "TM_TAX_TXLWMPS"
+}

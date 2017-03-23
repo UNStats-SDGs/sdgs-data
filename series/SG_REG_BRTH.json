@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of births registered with a civil authority",
+    "indicator_id": "16.9.1",
+    "target_id": "16.9",
+    "goal_id": "16",
+    "is_official": true,
+    "show": true,
+    "id": "SG_REG_BRTH"
+}

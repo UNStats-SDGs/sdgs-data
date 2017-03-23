@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for infrastructure, by recipient, as a percentage of donors' sector-allocable total official flows",
+    "indicator_id": "9.a.1",
+    "target_id": "9.a",
+    "goal_id": "9",
+    "is_official": false,
+    "show": true,
+    "id": "DC_TOF_INFRAP"
+}

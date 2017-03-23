@@ -1,0 +1,9 @@
+{
+    "description": "Tuberculosis incidence per 100,000 population (upper bound)",
+    "indicator_id": "3.3.2",
+    "target_id": "3.3",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_TBS_INCD_UB"
+}

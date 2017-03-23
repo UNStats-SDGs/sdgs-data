@@ -1,0 +1,9 @@
+{
+    "description": "Agricultural export subsidies",
+    "indicator_id": "2.b.2",
+    "target_id": "2.b",
+    "goal_id": "2",
+    "is_official": true,
+    "show": true,
+    "id": "AG_PRD_XSUBDY"
+}

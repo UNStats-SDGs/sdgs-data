@@ -1,0 +1,9 @@
+{
+    "description": "Death rate due to road traffic injuries",
+    "indicator_id": "3.6.1",
+    "target_id": "3.6",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_STA_TRAF"
+}

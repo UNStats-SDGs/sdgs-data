@@ -1,0 +1,9 @@
+{
+    "description": "Number of persons affected by disaster per 100,000 people",
+    "indicator_id": "13.1.2",
+    "target_id": "13.1",
+    "goal_id": "13",
+    "is_official": false,
+    "show": true,
+    "id": "VC_DSR_AFFCT"
+}

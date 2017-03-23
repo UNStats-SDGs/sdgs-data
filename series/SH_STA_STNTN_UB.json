@@ -1,0 +1,9 @@
+{
+    "description": "Number of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years (upper bound)",
+    "indicator_id": "2.2.1",
+    "target_id": "2.2",
+    "goal_id": "2",
+    "is_official": false,
+    "show": true,
+    "id": "SH_STA_STNTN_UB"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Emissions of carbon dioxide per unit of GDP (PPP)",
+    "indicator_id": "9.4.1",
+    "target_id": "9.4",
+    "goal_id": "9",
+    "is_official": false,
+    "show": true,
+    "id": "EN_ATM_CO2GDP"
+}

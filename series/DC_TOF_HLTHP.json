@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for medical research and basic heath sectors, by recipient, as a percentage of donors' sector-allocable total official flows",
+    "indicator_id": "3.b.2",
+    "target_id": "3.b",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "DC_TOF_HLTHP"
+}

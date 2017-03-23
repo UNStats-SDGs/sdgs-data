@@ -1,0 +1,9 @@
+{
+    "description": "Estimated HIV incidence rate",
+    "indicator_id": "3.3.1",
+    "target_id": "3.3",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_HIV_INCD"
+}

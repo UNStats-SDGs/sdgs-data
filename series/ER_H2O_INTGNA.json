@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries where national integrated water resources management plans or equivalent are not relevant",
+    "indicator_id": "6.5.1",
+    "target_id": "6.5",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "ER_H2O_INTGNA"
+}

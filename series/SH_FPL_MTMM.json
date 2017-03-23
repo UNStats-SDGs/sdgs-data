@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
+    "indicator_id": "3.7.1",
+    "target_id": "3.7",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "SH_FPL_MTMM"
+}

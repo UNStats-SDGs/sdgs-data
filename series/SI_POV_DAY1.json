@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of population below the international poverty line of US$1.90 per day",
+    "indicator_id": "1.1.1",
+    "target_id": "1.1",
+    "goal_id": "1",
+    "is_official": true,
+    "show": true,
+    "id": "SI_POV_DAY1"
+}

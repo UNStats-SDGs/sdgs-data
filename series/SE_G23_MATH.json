@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics",
+    "indicator_id": "4.1.1",
+    "target_id": "4.1",
+    "goal_id": "4",
+    "is_official": true,
+    "show": true,
+    "id": "SE_G23_MATH"
+}

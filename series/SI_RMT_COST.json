@@ -1,0 +1,9 @@
+{
+    "description": "Remittance costs as a proportion of the amount remitted",
+    "indicator_id": "10.c.1",
+    "target_id": "10.c",
+    "goal_id": "10",
+    "is_official": true,
+    "show": true,
+    "id": "SI_RMT_COST"
+}

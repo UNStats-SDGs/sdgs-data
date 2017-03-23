@@ -1,0 +1,9 @@
+{
+    "description": "Number of countries with a national statistical plan that is fully funded and under implementation",
+    "indicator_id": "17.18.3",
+    "target_id": "17.18",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "SG_STT_NSDS"
+}

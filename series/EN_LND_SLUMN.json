@@ -1,0 +1,9 @@
+{
+    "description": "Number of urban population living in slums",
+    "indicator_id": "11.1.1",
+    "target_id": "11.1",
+    "goal_id": "11",
+    "is_official": false,
+    "show": true,
+    "id": "EN_LND_SLUMN"
+}

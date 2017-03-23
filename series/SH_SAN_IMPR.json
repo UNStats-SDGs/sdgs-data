@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of population using improved sanitation facilities",
+    "indicator_id": "6.2.1",
+    "target_id": "6.2",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "SH_SAN_IMPR"
+}

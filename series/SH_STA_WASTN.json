@@ -1,0 +1,9 @@
+{
+    "description": "Number of wasted children (weight for height below minus two standard deviations from the median) under the age of 5 years",
+    "indicator_id": "2.2.2",
+    "target_id": "2.2",
+    "goal_id": "2",
+    "is_official": false,
+    "show": true,
+    "id": "SH_STA_WASTN"
+}

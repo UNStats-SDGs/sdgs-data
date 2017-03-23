@@ -1,0 +1,9 @@
+{
+    "description": "Total official development assistance for biodiversity, by recipient",
+    "indicator_id": "15.b.1",
+    "target_id": "15.b",
+    "goal_id": "15",
+    "is_official": true,
+    "show": true,
+    "id": "DC_ODA_BDVL"
+}

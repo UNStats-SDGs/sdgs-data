@@ -1,0 +1,9 @@
+{
+    "description": "International Health Regulations (IHR) core capacity index",
+    "indicator_id": "3.d.1",
+    "target_id": "3.d",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_IHR_CAPPRD"
+}

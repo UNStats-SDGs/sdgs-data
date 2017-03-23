@@ -1,0 +1,9 @@
+{
+    "description": "Adolescent birth rate per 1,000 adolescent women aged 15-19",
+    "indicator_id": "3.7.2",
+    "target_id": "3.7",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SP_DYN_ADKL"
+}

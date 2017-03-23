@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of teachers in primary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+    "indicator_id": "4.c.1",
+    "target_id": "4.c",
+    "goal_id": "4",
+    "is_official": true,
+    "show": true,
+    "id": "SE_PRM_TRTCHRTCH"
+}

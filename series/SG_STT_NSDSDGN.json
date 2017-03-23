@@ -1,0 +1,9 @@
+{
+    "description": "Number of countries with national statistical plans that are expired or without a plan and are currently designing or planning",
+    "indicator_id": "17.18.3",
+    "target_id": "17.18",
+    "goal_id": "17",
+    "is_official": false,
+    "show": true,
+    "id": "SG_STT_NSDSDGN"
+}

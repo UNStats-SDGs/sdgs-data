@@ -1,0 +1,9 @@
+{
+    "description": "Number of people requiring interventions against neglected tropical diseases",
+    "indicator_id": "3.3.5",
+    "target_id": "3.3",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_TRP_INTVN"
+}

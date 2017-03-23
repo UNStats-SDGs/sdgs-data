@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries that are at advanced stage of implementation of national integrated water resources management plans or equivalent",
+    "indicator_id": "6.5.1",
+    "target_id": "6.5",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "ER_H2O_INTGAD"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of firms experiencing at least one bribe payment request",
+    "indicator_id": "16.5.2",
+    "target_id": "16.5",
+    "goal_id": "16",
+    "is_official": false,
+    "show": true,
+    "id": "IC_FRM_BRIB"
+}

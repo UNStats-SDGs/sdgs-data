@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of unemployed receiving unemployment benefits",
+    "indicator_id": "1.3.1",
+    "target_id": "1.3",
+    "goal_id": "1",
+    "is_official": true,
+    "show": true,
+    "id": "SI_COV_UEMP"
+}

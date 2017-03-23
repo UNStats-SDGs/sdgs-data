@@ -1,0 +1,9 @@
+{
+    "description": "Number of cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in last 12 months",
+    "indicator_id": "16.10.1",
+    "target_id": "16.10",
+    "goal_id": "16",
+    "is_official": false,
+    "show": true,
+    "id": "VC_VAW_MTUHRA"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of women aged 20-24 years who were married by age 15",
+    "indicator_id": "5.3.1",
+    "target_id": "5.3",
+    "goal_id": "5",
+    "is_official": true,
+    "show": true,
+    "id": "SP_DYN_MRBF15"
+}

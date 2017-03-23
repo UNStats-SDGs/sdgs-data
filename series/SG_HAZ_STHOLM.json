@@ -1,0 +1,9 @@
+{
+    "description": "Number of countries party to the Stockholm Convention on hazardous waste and other chemicals",
+    "indicator_id": "12.4.1",
+    "target_id": "12.4",
+    "goal_id": "12",
+    "is_official": false,
+    "show": true,
+    "id": "SG_HAZ_STHOLM"
+}

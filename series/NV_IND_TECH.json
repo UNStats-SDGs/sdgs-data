@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of medium and high-tech industry value added in total value added",
+    "indicator_id": "9.b.1",
+    "target_id": "9.b",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "NV_IND_TECH"
+}

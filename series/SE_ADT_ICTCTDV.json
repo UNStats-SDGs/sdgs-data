@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of youth and adults with information and communications technology (ICT) skill, connecting and installing new devices",
+    "indicator_id": "4.4.1",
+    "target_id": "4.4",
+    "goal_id": "4",
+    "is_official": false,
+    "show": true,
+    "id": "SE_ADT_ICTCTDV"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles",
+    "indicator_id": "16.a.1",
+    "target_id": "16.a",
+    "goal_id": "16",
+    "is_official": true,
+    "show": true,
+    "id": "SG_NHR_IMPL"
+}

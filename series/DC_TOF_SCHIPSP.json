@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for scholarships, by recipient, as a percentage of donors' sector-allocable total official flows",
+    "indicator_id": "4.b.1",
+    "target_id": "4.b",
+    "goal_id": "4",
+    "is_official": false,
+    "show": true,
+    "id": "DC_TOF_SCHIPSP"
+}

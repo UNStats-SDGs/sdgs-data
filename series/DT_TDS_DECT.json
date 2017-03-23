@@ -1,0 +1,9 @@
+{
+    "description": "Debt service as a proportion of exports of goods and services",
+    "indicator_id": "17.4.1",
+    "target_id": "17.4",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "DT_TDS_DECT"
+}

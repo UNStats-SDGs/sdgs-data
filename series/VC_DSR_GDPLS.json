@@ -1,0 +1,9 @@
+{
+    "description": "Direct disaster economic loss in relation to global GDP",
+    "indicator_id": "11.5.2",
+    "target_id": "11.5",
+    "goal_id": "11",
+    "is_official": false,
+    "show": true,
+    "id": "VC_DSR_GDPLS"
+}

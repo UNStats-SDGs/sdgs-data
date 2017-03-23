@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of population using improved drinking water sources",
+    "indicator_id": "6.1.1",
+    "target_id": "6.1",
+    "goal_id": "6",
+    "is_official": false,
+    "show": true,
+    "id": "SH_H2O_IMPR"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Average tariffs faced by developing countries, least developed countries and small island developing States, under the most-favoured-nation status",
+    "indicator_id": "17.12.1",
+    "target_id": "17.12",
+    "goal_id": "17",
+    "is_official": false,
+    "show": true,
+    "id": "TM_TAX_MRCHSMFN"
+}

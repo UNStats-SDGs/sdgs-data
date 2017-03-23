@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for water supply and sanitation, by recipient",
+    "indicator_id": "6.a.1",
+    "target_id": "6.a",
+    "goal_id": "6",
+    "is_official": true,
+    "show": true,
+    "id": "DC_TOF_WASHL"
+}

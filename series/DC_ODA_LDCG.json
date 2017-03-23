@@ -1,0 +1,9 @@
+{
+    "description": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor",
+    "indicator_id": "17.2.1",
+    "target_id": "17.2",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "DC_ODA_LDCG"
+}

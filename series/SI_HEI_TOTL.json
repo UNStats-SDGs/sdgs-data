@@ -1,0 +1,9 @@
+{
+    "description": "Growth rates of household expenditure or income per capita",
+    "indicator_id": "10.1.1",
+    "target_id": "10.1",
+    "goal_id": "10",
+    "is_official": true,
+    "show": true,
+    "id": "SI_HEI_TOTL"
+}

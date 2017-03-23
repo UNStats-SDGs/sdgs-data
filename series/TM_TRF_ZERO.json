@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
+    "indicator_id": "10.a.1",
+    "target_id": "10.a",
+    "goal_id": "10",
+    "is_official": true,
+    "show": true,
+    "id": "TM_TRF_ZERO"
+}

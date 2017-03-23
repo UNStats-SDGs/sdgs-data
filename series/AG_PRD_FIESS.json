@@ -1,0 +1,9 @@
+{
+    "description": "Estimated prevalence of severe food insecurity in the population",
+    "indicator_id": "2.1.2",
+    "target_id": "2.1",
+    "goal_id": "2",
+    "is_official": false,
+    "show": true,
+    "id": "AG_PRD_FIESS"
+}

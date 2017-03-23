@@ -1,0 +1,9 @@
+{
+    "description": "Red List Index (lower bound)",
+    "indicator_id": "15.5.1",
+    "target_id": "15.5",
+    "goal_id": "15",
+    "is_official": true,
+    "show": true,
+    "id": "ER_RSK_LST_LB"
+}

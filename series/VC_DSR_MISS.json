@@ -1,0 +1,9 @@
+{
+    "description": "Missing persons due to disaster",
+    "indicator_id": "13.1.2",
+    "target_id": "13.1",
+    "goal_id": "13",
+    "is_official": false,
+    "show": true,
+    "id": "VC_DSR_MISS"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for medical research and basic heath sectors, by recipient",
+    "indicator_id": "3.b.2",
+    "target_id": "3.b",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "DC_TOF_HLTHL"
+}

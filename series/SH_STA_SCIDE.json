@@ -1,0 +1,9 @@
+{
+    "description": "Suicide mortality rate",
+    "indicator_id": "3.4.2",
+    "target_id": "3.4",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_STA_SCIDE"
+}

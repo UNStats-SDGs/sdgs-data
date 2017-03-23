@@ -1,0 +1,9 @@
+{
+    "description": "Fixed Internet broadband Subscriptions per 100 inhabitants",
+    "indicator_id": "17.6.2",
+    "target_id": "17.6",
+    "goal_id": "17",
+    "is_official": true,
+    "show": true,
+    "id": "IT_NET_BBND"
+}

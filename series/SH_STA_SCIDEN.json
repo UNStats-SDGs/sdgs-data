@@ -1,0 +1,9 @@
+{
+    "description": "Number of deaths attributed to suicide",
+    "indicator_id": "3.4.2",
+    "target_id": "3.4",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "SH_STA_SCIDEN"
+}

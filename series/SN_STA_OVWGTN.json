@@ -1,0 +1,9 @@
+{
+    "description": "Number of overweight children (weight for height above plus two standard deviations from the median) under the age of 5 years",
+    "indicator_id": "2.2.2",
+    "target_id": "2.2",
+    "goal_id": "2",
+    "is_official": false,
+    "show": true,
+    "id": "SN_STA_OVWGTN"
+}

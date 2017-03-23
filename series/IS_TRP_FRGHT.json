@@ -1,0 +1,9 @@
+{
+    "description": "Freight volume, by air transport",
+    "indicator_id": "9.1.2",
+    "target_id": "9.1",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "IS_TRP_FRGHT"
+}

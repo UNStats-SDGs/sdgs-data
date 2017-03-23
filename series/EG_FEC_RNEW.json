@@ -1,0 +1,9 @@
+{
+    "description": "Renewable energy share in the total final energy consumption",
+    "indicator_id": "7.2.1",
+    "target_id": "7.2",
+    "goal_id": "7",
+    "is_official": true,
+    "show": true,
+    "id": "EG_FEC_RNEW"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Manufacturing employment as a proportion of total employment",
+    "indicator_id": "9.2.2",
+    "target_id": "9.2",
+    "goal_id": "9",
+    "is_official": true,
+    "show": true,
+    "id": "SL_TLF_MANF"
+}

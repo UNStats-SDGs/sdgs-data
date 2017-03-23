@@ -1,0 +1,9 @@
+{
+    "description": "Gender parity index for achievement in reading by the end of primary",
+    "indicator_id": "4.5.1",
+    "target_id": "4.5",
+    "goal_id": "4",
+    "is_official": true,
+    "show": true,
+    "id": "SE_PRM_GPIRDNG"
+}

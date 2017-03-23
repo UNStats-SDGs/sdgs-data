@@ -1,0 +1,9 @@
+{
+    "description": "Under-five mortality rate",
+    "indicator_id": "3.2.1",
+    "target_id": "3.2",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_DYN_MORT"
+}

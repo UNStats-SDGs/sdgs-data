@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of population with primary reliance on clean fuels and technology",
+    "indicator_id": "7.1.2",
+    "target_id": "7.1",
+    "goal_id": "7",
+    "is_official": true,
+    "show": true,
+    "id": "EG_EGY_CLEAN"
+}

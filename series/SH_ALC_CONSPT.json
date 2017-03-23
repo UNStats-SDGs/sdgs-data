@@ -1,0 +1,9 @@
+{
+    "description": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+    "indicator_id": "3.5.2",
+    "target_id": "3.5",
+    "goal_id": "3",
+    "is_official": true,
+    "show": true,
+    "id": "SH_ALC_CONSPT"
+}

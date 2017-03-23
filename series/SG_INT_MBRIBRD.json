@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of developing countries in the membership of the International Bank for Reconstruction and Development",
+    "indicator_id": "16.8.1",
+    "target_id": "16.8",
+    "goal_id": "16",
+    "is_official": true,
+    "show": true,
+    "id": "SG_INT_MBRIBRD"
+}

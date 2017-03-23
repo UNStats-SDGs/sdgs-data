@@ -1,0 +1,9 @@
+{
+    "description": "Health worker density and distribution",
+    "indicator_id": "3.c.1",
+    "target_id": "3.c",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "SH_MED_HWKR"
+}

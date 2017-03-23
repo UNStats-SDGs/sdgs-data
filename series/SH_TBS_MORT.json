@@ -1,0 +1,9 @@
+{
+    "description": "Tuberculosis deaths per 100,000 population",
+    "indicator_id": "3.3.2",
+    "target_id": "3.3",
+    "goal_id": "3",
+    "is_official": false,
+    "show": true,
+    "id": "SH_TBS_MORT"
+}

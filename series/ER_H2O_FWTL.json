@@ -1,0 +1,9 @@
+{
+    "description": "Proportion of fish stocks within biologically sustainable levels",
+    "indicator_id": "14.4.1",
+    "target_id": "14.4",
+    "goal_id": "14",
+    "is_official": true,
+    "show": true,
+    "id": "ER_H2O_FWTL"
+}

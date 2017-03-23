@@ -1,0 +1,9 @@
+{
+    "description": "Number of local breeds classified as being at risk of extinction",
+    "indicator_id": "2.5.2",
+    "target_id": "2.5",
+    "goal_id": "2",
+    "is_official": false,
+    "show": true,
+    "id": "ER_NRK_LBREDN"
+}

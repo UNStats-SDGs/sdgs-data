@@ -1,0 +1,9 @@
+{
+    "description": "Total official flows for scholarships, by recipient",
+    "indicator_id": "4.b.1",
+    "target_id": "4.b",
+    "goal_id": "4",
+    "is_official": true,
+    "show": true,
+    "id": "DC_TOF_SCHIPSL"
+}

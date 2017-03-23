@@ -1,0 +1,9 @@
+{
+    "description": "Labour share of GDP, comprising wages and social protection transfers",
+    "indicator_id": "10.4.1",
+    "target_id": "10.4",
+    "goal_id": "10",
+    "is_official": true,
+    "show": true,
+    "id": "SL_EMP_GTOTL"
+}

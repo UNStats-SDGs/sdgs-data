@@ -1,0 +1,9 @@
+{
+    "description": "Total official development assistance for biodiversity, by recipient, as a percentage of donors' sector-allocable total official flows",
+    "indicator_id": "15.b.1",
+    "target_id": "15.b",
+    "goal_id": "15",
+    "is_official": false,
+    "show": true,
+    "id": "DC_ODA_BDVP"
+}
