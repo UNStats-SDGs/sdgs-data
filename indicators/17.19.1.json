@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.19",
+    "description": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Partnership in Statistics for Development in the 21st Century (PARIS21)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Dollar value of all resources made available to strengthen statistical capacity in developing countries is based on the Partner Report on Support to Statistics (PRESS) that is designed and administered by PARIS21 to provide a snapshot of the US dollar value of ongoing statistical support in developing countries."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator aims to provide a snapshot of the US dollar value of ongoing statistical support in developing countries"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Measuring support to statistics comes with many methodological challenges. The financial figures presented in the PRESS therefore need to be interpreted with these challenges in mind. For instance, PRESS numbers rely on the Creditor Reporting System (CRS) for ODA commitments supplemented by voluntary reporting from additional donors. Yet, full coverage of all programs cannot be guaranteed. Furthermore, the reported commitments can be seen as an upper bound to the actual support to statistics for mainly three reasons. First, double counting of projects may occur when the donor and project implementer report on the same project or when all project co-financers report project totals. Second, the reported numbers may be inflated by working with project totals for multi-sector projects, which comprise only a small statistics component. Finally, the PRESS reports on donor-side commitments which do not always translate to actual disbursements to the recipient countries.\r\nThe indicator only captures international support to statistics and does not account for domestic resources."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The financial amounts were converted to US dollars by using the period average exchange rate of the commitment year of the project/program. In cases where the disbursement amounts were reported, the exchange rate used was the period average of the disbursement year."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The commitment amount can be disaggregated by geographical area, ODA sectors, area of statistics and method of financing (grant vs loan)."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional-level aggregates are based on the sum of national commitments, sub-regional and regional commitments."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "To provide a full picture of international support to statistics, the indicator draws on three distinct data sources. The first source of data is the OECD Creditor Reporting System (CRS), which records data from OECD Development Assistance Committee (DAC) members and some non-DAC donors, and provides a comprehensive accounting of ODA. Donors report specific codes for the sector targeted by their aid activity. Statistical capacity building (SCB) is designated by code 16062. \r\nSecond, when SCB is a component of a larger project, it is not identified by this code, causing the CRS figures to underestimate actual levels of support for international aid. PARIS21 seeks to reduce this downward bias by searching project descriptions in the CRS for terms indicating a component of SCB. The methodology is presented at http://www.paris21.org/PRESS2015.\r\nThird, and finally, the PARIS21 Secretariat supplements this data with an online questionnaire completed by a global network of reporters. The questionnaire covers a subset of the variables collected in the CRS and some additional variables specific to statistical capacity building. Reporting to the questionnaire is voluntary, offering an opportunity for actors to share information on their statistical activities. Reporters to this questionnaire are countries that do not report to the CRS, as well as multilateral institutions with large portfolios of statistical projects that have requested to report to the PARIS21 Secretariat directly."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "OECD Creditor Reporting System (CRS), PARIS21"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The current time series for 2006-2013 covers 132 developing countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 2006 to 2013\r\nFrom Sep-16"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "PARIS21/OECD"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "PARIS21"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.paris21.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "OECD (2007). Reporting Directives for the Creditor Reporting System. available at http://www.oecd.org/dac/stats/1948102.pdf\r\nPARIS21 (2015). Partner Report on Support to Statistics. Available at http://www.paris21.org/PRESS\r\nRelated indicators\r\n17.18.3:\r\nNumber of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+                }
+            }
+        }
+    ]
+}

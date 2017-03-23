@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.15",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Organisation for Economic Co-operation and Development (OECD)\r\nUnited Nations Development Programme (UNDP)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This indicator seeks to measure the extent to which, and the ways in which, transparent, developing country-led results frameworks (CRFs) are used by all concerned development partners to plan development cooperation efforts and assess their performance.  \r\nThe indicator assesses the degree to which providers of development cooperation (i.e. development partners) design their interventions by relying on objectives and results indicators that are drawn from developing country government-led results frameworks reflecting the country�s development priorities and goals.  "
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Measuring the alignment of providers� support to country priorities in terms of intervention design and type of results-reporting mechanisms provides a relevant assessment regarding the degree of \"respect for each country�s policy space and leadership to establish and implement country-owned policies for poverty eradication and sustainable development\".  \r\nIn particular, for interventions approved in the year of reference (i.e. most recent behavior), the assessment measures the extent to which support from other countries and international organizations set exogenous priorities and conditions to recipient countries that are not reflected in existing country-led priority-setting mechanisms or planning tools.\r\nThe information collected throughout the indicator provides a \"two-way mirror\", providing both a country-level estimate on a country�s existing policy space, and a provider-level aggregated estimate on a development partner�s degree of alignment with existing results frameworks and priority- setting mechanisms in recipient countries where it operates.  "
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Country results frameworks (CRFs) define a country�s approach to results and its associated monitoring and evaluation systems focusing on performance and achievement of development results. Using a minimal definition, these results frameworks include agreed objectives and results indicators (i.e. output, outcome, and/or impact). They also set targets to measure progress in achieving the objectives defined in the government�s planning documents. In practice, government-led results frameworks defined at the country level are often broadly stated (e.g. long term vision plans, national development strategies) and operationalised in more detail at the sector level (e.g. sector strategies), where specific targets and indicators are set for a given timeframe.\r\nThe definition of country-led results framework used for this indicator allows for the possibility to use equivalent priority-setting mechanisms at the country level since not all countries articulate their priorities through consistent, integrated Country Results Frameworks.\r\nThe broad definition of CRFs and CRF-like planning instruments include: long term vision plans; national development strategies; joint government-multi-donor plans; government�s sector strategies, policies and plans; subnational planning instruments, as well as other frameworks (e.g. budget support performance matrices, sector-wide approaches). In contrast, planning and priority setting documents produced outside the government, such as country strategies prepared by providers, are not considered CRFs."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data collection currently covers about 80 developing countries for the 2015-2016 period. The estimates for developed countries are generated taking as a reference their role as development cooperation providers (second formula).  \r\nThe ongoing monitoring exercise is collecting data beyond the scope of the proposed indicator, including additional aspects such as provider government engagement in planning project/programme evaluations. Details of the data collection strategy and the indicator�s methodology may be refined further in light of the first wave of collected data for 2015 (to be reported in mid-2016).  "
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "To provide a comprehensive measure on the extent of use of country owned results frameworks and other government-led planning tools, the indicator calculates the degree to which objectives, results indicators and monitoring frameworks associated with new development interventions are drawn from government sources �including national, sector and subnational planning tools:\r\nFor each development intervention of significant size (US$ 1 million and above) approved during the year of reference:\r\nQ1 Whether objectives are drawn from government-led results frameworks, plans and strategies 0/1\r\nQ2 Share of results (outcome) indicators that are drawn from government-led results frameworks, plans and strategies %\r\nQ3 Share of results (outcome) indicators that will rely on sources of data provided by existing country-led monitoring systems or national statistical services to track project progress %\r\nAggregated averages per developing country will provide an assessment of the country�s available policy space and leadership. Formulas are available at: http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf\r\nNote that data to weight the results by provider�s actual contributions in terms of development finance is available, if requested by the IAEG SDG / UN Statistical Commission. \r\nAggregated averages per provider of development cooperation will indicate the percentage of alignment with country-led priority setting mechanisms. Formulas are available at: http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf\r\nA global aggregate for the indicator is obtained by averaging the three dimensions of alignment with country�s priorities and goals across all new interventions for the reporting year. Formulas are available at: http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf\r\nWhen aggregating, the decision was made not to weight by the size of the project/ intervention in order to give the same level of importance to the extent of use of country-owned results frameworks and planning tools in medium-sized vs. larger projects, as the indicator tries to capture the overall behaviour of providers in designing new interventions in a given country. Weighting by project size would otherwise over represent infrastructure projects and underrepresent interventions focused on influencing policies and institutional arrangements. Nevertheless, data on project size is available."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Given the bottom-up approach in generating the indicator, disaggregation will be possible at the country level, at the provider level, at the sector level, and at the development project level.\r\nWhile data collection is led at the country level, in a bottom-up approach, global and regional aggregates can be used for monitoring internationally-agreed commitments related to strengthening country ownership and better partner alignment with nationally-set development goals.    "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "There is no treatment of missing values. However, a validation process involving representatives of country governments and country offices as well as headquarters offices of providers of development cooperation takes place. Missing values are highlighted during this validation process, and attempts are made to fill in these gaps."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "There is no imputation of missing values. Attempts are made to minimize gaps in data submissions during the data validation process including triangulation with headquarters offices of providers of development cooperation."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates are constructed by making a simple average across all projects reported. It was decided not to use a weighted average to give equal consideration to small and large projects (although project amounts and type are captured in the data to allow for more advanced tabulations)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "National figures are directly aggregated to come up with global figures."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "OECD and UNDP are currently supporting about 80 developing countries in collecting relevant data on a biennial basis, and these organisations lead data aggregation and quality assurance at the global level. Data collection and validation is a government-led process, with strong engagement of other stakeholders, including providers of development cooperation, representatives of parliaments, local governments, civil society organizations, the private sector, and trade unions. In addition, countries are increasingly institutionalising the data collection process within their national aid management systems and may be able to report on the indicator on a yearly basis.   "
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The data collection process is as follows:\r\n(i) A representative from the country government referred to as a national coordinator is first identified. \r\n(ii) The national coordinator collects inputs from providers of development cooperation. The data is submitted to the OECD and UNDP monitoring team and subsequently undergoes a validation round with the headquarters offices of providers of development cooperation. \r\n(iii) No adjustments are made to the data after they have undergone the validation process."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "About 80 developing countries are currently leading the process of collecting data to set a baseline value for 2015. New measurements for the indicator will be collected every two years.  \r\nData collected will set a baseline for those 80 developing countries and for at least 75 official providers of development cooperation �including the 29 developed countries that are members of the OECD�s Development Assistance Committee as well as the six major multilateral organizations in terms of development finance (i.e. the World Bank, the International Monetary Fund, the United Nations Development Programme, African Development Bank, Asian Development Bank, and the Inter-American Development Bank)."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data for the 2015-2016 monitoring cycle is currently being collected and will be finished in early August. The next planned monitoring cycle will take place in 2018/2019. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Data for the 2015-2016 monitoring cycle will be made available in early October. Afterwards, a biannual monitoring cycle will take place. (NA)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nCountry government representatives (usually from the Ministry of Planning or the Ministry of Finance) are responsible for data collection. These representatives consolidate inputs from providers of development cooperation.\r\nDescription:\r\nCountry government representatives (usually from the Ministry of Planning or the Ministry of Finance) are responsible for data collection. These representatives consolidate inputs from providers of development cooperation."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "A monitoring team at the OECD and UNDP is responsible for compilation and aggregation of the data to the global level."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://effectivecooperation.org/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Ocampo, Jose Antonio (2015). A Post-2015 Monitoring and Accountability Framework. UNDESA: CDP Background Paper No. 27. ST/ESA/2015/CDP/27\r\nEspey, Jessica; K. Walecik and M. K�hner (2015). Follow-up and Review of the SDGs: Fulfilling our Commitments. Sustainable Development Solutions Network: A Global Initiative for the United Nations. New York: SDSN.\r\nCoppard, D. and C. Culey (2015). The Global Partnership for Effective Development Co-operation�s Contribution to the 2030 Agenda for Sustainable Development. Plenary Session 1 Background Paper. Busan Global Partnership Forum, Korea.\r\nGPEDC (2015). Monitoring Guide 2015-2016. New York/Paris: GPEDC. Accessed at www.effectivecooperation.org\r\nRelated indicators\r\n17.16.1. and 5c:"
+                }
+            }
+        }
+    ]
+}

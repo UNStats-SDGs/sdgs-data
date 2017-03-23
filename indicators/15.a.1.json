@@ -1,0 +1,111 @@
+{
+    "goal_id": "15",
+    "target_id": "15.a",
+    "description": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Organisation for Economic Co-operation and Development (OECD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems is defined as Gross disbursements of total ODA from all donors for biodiversity."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Total ODA flows to developing countries quantify the public effort that donors provide to developing countries for biodiversity."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "ODA: The DAC defines ODA as \"those flows to countries and territories on the DAC List of ODA Recipients and to multilateral institutions which are i) provided by official agencies, including state and local governments, or by their executive agencies; and ii) each transaction is administered with the promotion of the economic development and welfare of developing countries as its main objective; and is concessional in character and conveys a grant element of at least 25 per cent (calculated at a rate of discount of 10 per cent). (See http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)\r\nODA marked for biodiversity is captured through the CRS via a marker.\r\n�All donors� refers to DAC donors, non-DAC donors and multilateral organisations. "
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data in the Creditor Reporting System are available from 1973. However, the data coverage is considered complete from 1995 for commitments at an activity level and 2002 for disbursements.\r\nThe biodiversity marker was introduced in 2002."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The sum of ODA flows from all donors to developing countries that have biodiversity as a principal or significant objective."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator can be disaggregated by donor, recipient country, type of finance, type of aid, sector, etc."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "None"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "None"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional figures are based on the sum of ODA flows for biodiversity."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The OECD/DAC has been collecting data on official and private resource flows from 1960 at an aggregate level and 1973 at an activity level through the Creditor Reporting System (CRS data are considered complete from 1995 for commitments at an activity level and 2002 for disbursements).\r\nThe biodiversity marker was introduced in 2002.\r\nThe data are reported by donors according to the same standards and methodologies (see here: http://www.oecd.org/dac/stats/methodology.htm).\r\nData are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "A statistical reporter is responsible for the collection of DAC statistics in each providing country/agency. This reporter is usually located in the national aid agency, Ministry of Foreign Affairs or Finance etc."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "On a donor basis for all DAC countries and many non-DAC providers (bilateral and multilateral) that report to the DAC on sector level data.\r\nOn a recipient basis for all developing countries eligible for ODA."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are published on an annual basis in December for flows in the previous year. Detailed 2015 flows will be published in December 2016. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "December 2016."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Data are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "OECD"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.oecd.org/dac/stats"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "See all links here: http://www.oecd.org/dac/stats/methodology.htm"
+                }
+            }
+        }
+    ]
+}

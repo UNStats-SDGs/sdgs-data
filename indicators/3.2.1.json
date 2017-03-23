@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.2",
+    "description": "Under-five mortality rate",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The probability of a child born in a specific year or period dying before reaching the age of 1 year, if subject to age specific mortality rates of that period, expressed per 1000 live births."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. It is a closely watched public health indicator because it reflects the access of children and communities to basic health interventions such as vaccination, to medical treatment of infectious diseases and to adequate nutrition."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The infant mortality rate as defined here is, strictly speaking, not a rate (i.e. the number of deaths divided by the number of population at risk during a certain period of time) but a probability of dying derived from a life table and expressed as a rate per 1000 live births."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "On the basis of national data from censuses, surveys or vital registration systems UN Inter-agency Group for Child Mortality Estimation  (UN IGME) estimates are derived. \r\nIn many low and middle income countries without a fully functioning vital registration system, available data collected by countries are often inconsistent across sources. It is important to analyze, reconcile and evaluate all data sources simultaneously. Data also suffer from sampling or nonsampling errors. The UN IGME assesses the quality of underlying data sources and adjusts data when necessary. In the absence of error-free data, there will always be uncertainty around data and estimates. To allow for added comparability, the UN IGME generates such estimates with uncertainty bounds. In addition, the latest estimates from censuses, household surveys and vital registration systems often not current estimates but refer to an earlier reference period. The UN IGME extrapolates estimates to a common reference year. Applying a consistent methodology also allows for comparisons between countries, despite the varied number and types of data sources."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "UN IGME estimates are derived from national data from censuses, surveys or vital registration systems. The UN IGME does not use any covariates to derive its estimates. It only applies a curve fitting method to good-quality empirical data to derive trend estimates after data quality assessment. In most cases, the UN IGME estimates are close to the underlying empirical data. The UN IGME aims to minimize the errors for each estimate, harmonize trends over time and produce up-to-date and properly assessed estimates. The UN IGME applies the Bayesian B-splines bias-reduction model to empirical data to derive trend estimates of under-five mortality for countries. The infant mortality rate (IMR) is obtained by either applying the B3 estimation method or by applying a model life table to the U5MR estimates. For countries with high-quality VR data (covering a sufficient period of time and deemed to have high levels of completeness and coverage), the B3 model is used. For the remaining countries, the IMR is derived from the U5MR, through the use of model life tables that contain known regularities in age patterns of child mortality. The advantage of this approach is that it avoids potential problems with the under-reporting of neonatal deaths in some countries and ensures that the internal relationships of the three indicators are consistent with established norms. See the UN IGME link for details. \r\nFor the underlying data mentioned above, the most frequently used methods are as follows:\r\nCivil registration: Number of deaths at age 0-5 and population of the same age are used to calculate death rates which are then converted into age-specific probability of dying.\r\nCensus and surveys: An indirect method is used based on questions to each woman of reproductive age as to how many children she has ever given birth to and how many are still alive. The Brass method and model life tables are then used to obtain an estimate of under-five and infant mortality rates. Census often includes questions on household deaths in the last 12 months, which can be used to calculate mortality estimates.\r\nSurveys: A direct method is used based on birth history a series of detailed questions on each child a woman has given birth to during her lifetime. Neonatal, post-neonatal, infant, child and under-five mortality estimates can be derived from full birth history module."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The common disaggregation for mortality indicators includes disaggregation by sex, age (neonatal, infant, child), wealth quintile, residence, and mother�s education. Disaggregation by geographic location is usually at regional level, or the minimum provincial level for survey or census data. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "UN IGME estimates are based on underlying empirical data. If the empirical data refer to an earlier reference period than the end year of the period the estimates are reported, UN IGME extrapolates the estimates to the common end year. UN IGME does not use any covariates to derive the estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "To construct aggregate estimates of infant mortality before 1990, regional averages of mortality rates were used for country-years with missing information and weighted by the respective population in the country-year."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates of infant mortality rates are derived by aggregating the number of country-specific infant deaths estimated by the UN IGME and the country-specific population from the United Nations Population Division, through a period life table approach."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The UN IGME estimates are derived based on national data. Countries often use one single source as their official estimates or apply methods different from the UN IGME methods to derive estimates. The differences between the UN IGME estimates and national official estimates are usually not large if empirical data has good quality.\r\nMany countries lack a single source of high-quality data covering the last several decades. Data from different sources require different calculation methods and may suffer from different errors, for example random errors in sample surveys or systematic errors due to misreporting. As a result, different surveys often yield widely different estimates of infant mortality for a given time period and available data collected by countries are often inconsistent across sources. It is important to analyse, reconcile and evaluate all data sources simultaneously for each country. Each new survey or data point must be examined in the context of all other sources, including previous data. Data suffer from sampling or non-sampling errors (such as misreporting of age and survivor selection bias; underreporting of child deaths is also common). UN IGME assesses the quality of underlying data sources and adjusts data when necessary. Also the latest data produced by countries often are not current estimates but refer to an earlier reference period. Thus, the UN IGME also projects estimates to a common reference year. In order to reconcile these differences and take better account of the systematic biases associated with the various types of data inputs, the UN IGME has developed an estimation method to fit a smoothed trend curve to a set of observations and to extrapolate that trend to a defined time point. The UN IGME aims to minimize the errors for each estimate, harmonize trends over time and produce up-to-date and properly assessed estimates of child mortality. In the absence of error-free data, there will always be uncertainty around data and estimates, both national and internationally. To allow for added comparability, the UN IGME generates such estimates with uncertainty bounds. Applying a consistent methodology also allows for comparisons between countries, despite the varied number and types of data sources. UN IGME applies a common methodology across countries and uses original empirical data from each country but does not report figures produced by individual countries using other methods, which would not be comparable to other country estimates."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally-representative estimates of child mortality can be derived from a number of different sources, including civil registration and sample surveys. Demographic surveillance sites and hospital data are excluded as they are rarely nationally representative. The preferred source of data is a civil registration system which records births and deaths on a continuous basis. If registration is complete and the system functions efficiently, the resulting estimates will be accurate and timely. However, many countries do not have well-functioning vital registration systems. In such cases household surveys, such as the UNICEF-supported Multiple Indicator Cluster Surveys (MICS), the USAID-supported Demographic and Health Surveys (DHS) and periodic population censuses have become the primary source of data on under-five and infant mortality. These surveys ask women about the survival of their children, and it is these reports that provide the basis of child mortality estimates for a majority of low- and middle- income countries. These data, however, are often subject to sampling or/and non-sampling errors, which might be substantial.\r\nCivil registration\r\nCivil registration data are the preferred data source for under-five, infant and neonatal mortality estimation. The calculation of the under-five and infant mortality rates from civil registration data is derived from a standard period abridged life table. For civil registration data (with available data on the number of deaths and mid-year populations), initially annual observations were constructed for all observation years in a country. Data from sample registration system can also be used to calculate under-five, infant and neonatal mortality. \r\nPopulation census and household survey data\r\nThe majority of survey data comes in one of two forms: the full birth history (FBH), whereby women are asked for the date of birth of each of their children, whether the child is still alive, and if not the age at death; and the summary birth history (SBH), whereby women are asked only about the number of their children ever born and the number that have died (or equivalently the number still alive)."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "For under-five and infant mortality, UNICEF and the UN IGME compile data from all available data sources, including household surveys, censuses, vital registration data etc. UNICEF and the UN IGME compile these data whenever they are available publically and then conduct data quality assessment. UNICEF also collects data through UNICEF country offices by reaching national counterpart(s). UNICEF also collects vital registration data reported by the Ministry of Health to WHO. \r\nAdjustments of empirical data are made in high prevalence HIV settings to adjust for under reporting of under-five mortality due to missing mothers in survey data. UNIGME then applies a curve fitting method to these empirical data to derive the UN IGME trend estimates of the under-five mortality rates. Because deaths by crisis are difficult to capture in household survey or census data UN IGME adjusts the estimates for crisis mortality.\r\nThen the UN IGME conducts a country consultation by sending the UN IGME estimates, empirical data used to derive the UN IGME estimates, notes on methodology etc. to National Statistical Office through UNICEF and to Ministry of Health through WHO for feedback on the UN IGME estimates and the empirical data. National Statistical Office and Ministry of Health review the UN IGME estimates and empirical data and send feedback or comments and sometimes additional empirical data if these data are not included in the UN IGME database.\r\nTo increase the transparency of the estimation process, the UN IGME has developed a child mortality database: CME Info (www.childmortality.org). It includes all available data and shows estimates for each country. Once the new estimates are finalized, CME Info will be updated to reflect all available data and the new estimates."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Indicator is available for all countries from 1990 (or earlier) to 2015, depending on availability of empirical data for each country before 1990."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 1990 (or earlier) to 2015 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The UN IGME underlying database is continuously updated whenever new empirical data become available. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "New round of estimates of the UN IGME will be released in 2017, usually the release date is in the month of September. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Office or the Ministry of Health are mostly involved in generating infant mortality data at the national level."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "childmortality.org and data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "United Nations Inter-agency Group for Child Mortality Estimation (UN IGME). Levels & trends in child mortality. Report 2015. New York: UNICEF, 2015. Available at http://childmortality.org/files_v20/download/IGME%20report%202015%20child%20mortality%20final.pdf\r\nAlkema L, New JR. Global estimation of child mortality using a Bayesian B-spline bias-reduction method. The Annals of Applied Statistics. 2014; 8(4): 2122�2149. Available at: http://arxiv.org/abs/1309.1602 \r\nAlkema L, Chao F, You D, Pedersen J, Sawyer CC. National, regional, and global sex ratios of infant, child, and under-5 mortality and identification of countries with outlying ratios: a systematic assessment. The Lancet Global Health. 2014; 2(9): e521�e530.\r\nPedersen J, Liu J. Child Mortality Estimation: Appropriate Time Periods for Child Mortality Estimates from Full Birth Histories. Plos Medicine. 2012;9(8). Available at: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001289\r\nSilva R. Child Mortality Estimation: Consistency of Under-Five Mortality Rate Estimates Using Full Birth Histories and Summary Birth Histories. Plos Medicine. 2012;9(8). Available at: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001296\r\nWalker N, Hill K, Zhao FM. Child Mortality Estimation: Methods Used to Adjust for Bias due to AIDS in Estimating Trends in Under-Five Mortality. Plos Medicine. 2012;9(8). Available at: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001298\r\nRelated indicators"
+                }
+            }
+        }
+    ]
+}

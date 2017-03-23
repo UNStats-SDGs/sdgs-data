@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.3",
+    "description": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The percentage of youth and adults in a given age range (e.g. 15-24 years, 25-64 years, etc.) participating in formal or non-formal education or training in a given time period (e.g. last 12 months). "
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "To show the level of participation of youth and adults in education and training of all types. A high value indicates a large share of the population in the relevant age group is participating in formal and non-formal education and training."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Formal education and training is defined as education provided by the system of schools, colleges, universities and other formal educational institutions that normally constitutes a continuous �ladder� of full-time education for children and young people, generally beginning at the age of 5 to 7 and continuing to up to 20 or 25 years old. In some countries, the upper parts of this �ladder� are organized programmes of joint part-time employment and part-time participation in the regular school and university system.\r\nNon-formal education and training is defined as any organized and sustained learning activities that do not correspond exactly to the above definition of formal education. Non-formal education may therefore take place both within and outside educational institutions and cater to people of all ages. Depending on national contexts, it may cover educational programmes to impart adult literacy, life-skills, work-skills, and general culture."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Formal and non-formal education and training can be offered in a variety of settings including schools and universities, workplace environments and others and can have a variety of durations. Administrative data often capture only provision in formal settings such as schools and universities. Participation rates do not capture the intensity or quality of the provision nor the outcomes of the education and training on offer."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The number of people in selected age groups participating in formal or non-formal education or training is expressed as a percentage of the population of the same age.\r\nPRAGi = EAGi\r\nPAGi\r\nwhere:\r\nPRAGi = participation rate of the population in age group i in formal and non-formal education and training\r\nEAGi = enrolment of the population in age group i in formal and non-formal education and training\r\nPAGi = population in age group i\r\ni = 15-24, 15 and above, 25-64 etc"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "By age and sex from administrative sources, and by age, sex, location and income from household surveys. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "None by data compiler."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "None by data compiler."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates are not currently available for this indicator."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "None."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Administrative data from schools and other places of education and training or household survey data on participants in formal and non-formal education and training by single year of age; population censuses and surveys for population estimates by single year of age (if using administrative data on enrolment). "
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Data are collected from the respective organizations responsible for each survey."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "32 countries (in 2011) Developing regions (31) Western Asia (1)."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2007, 2011 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Various depending on survey and country. The European Union�s Adult Education Survey will be run in 2016 and 2017. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Various depending on survey and country. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Ministries of Education and /or National Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "European Adult Education Survey (AES): http://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/AES.aspx \r\nEuropean Continuing Vocational Training Survey: http://ec.europa.eu/eurostat/cache/metadata/en/trng_cvts_esms.htm \r\nEuropean Labour Force Survey: http://ec.europa.eu/eurostat/cache/metadata/en/trng_lfs_4w0_esms.htm\r\nRelated indicators\r\n1.4, 4.4, 4.5, 5.b, 8.5, 9.2"
+                }
+            }
+        }
+    ]
+}

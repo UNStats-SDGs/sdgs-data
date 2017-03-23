@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.6",
+    "description": "Proportion of youth (aged 15-24 years) not in education, employment or training",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This proportion of youth (aged 15-24 years) not in education, employment or training, also known as \"the NEET rate\", conveys the number of young persons not in education, employment or training as a percentage of the total youth population."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The share of youth not in employment, education or training (NEET rate) provides a measure of youth who are outside the educational system, not in training and not in employment, and thus serves as a broader measure of potential youth labour market entrants than youth unemployment. It includes discouraged worker youth as well as those who are outside the labour force due to disability and engagement in household chores, among other reasons. NEET is also a better measure of the current universe of potential youth labour market entrants as compared with the youth inactivity rate, as the latter includes those youth who are outside the labour force and are in education, and thus cannot be considered currently available for work."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "For the purposes of this indicator, youth is defined as all persons between the ages of 15 and 24 (inclusive).\r\nAccording to the International Standard Classification of Education (ISCED), education is defined as organized and sustained communication designed to bring about learning. Formal education is defined in ISCED as education that is institutionalized, intentional, and planned through public organizations and recognized private bodies and, in their totality, make up the formal education system of a country.\r\nNon-formal education, like formal education is defined in ISCED as education that is institutionalized, intentional and planned by an education provider but is considered an addition, alternative and/or a complement to formal education. It may be short in duration and/or low in intensity and it is typically provided in the form of short courses, workshops or seminars. Informal learning is defined in ISCED as forms of learning that are intentional or deliberate, but not institutionalized. It is thus less organized and less structured than either formal or non-formal education. Informal learning may include learning activities that occur in the family, in the work place, in the local community, and in daily life, on a self-directed, family-directed or socially-directed basis. For the purposes of this indicator, persons will be considered in education if they are in formal or non-formal education, as described above, but excluding informal learning.\r\nPersons in employment are defined as all those who, during a short reference period, were engaged in any activity to produce goods or provide services for pay or profit. They comprise: (a) employed persons \"at work\", i.e. who worked in a job for at least one hour; (b) employed persons \"not at work\" due to temporary absence from a job, or to working-time arrangements (such as shift work, flexitime and compensatory leave for overtime). \r\nFor the purposes of this indicator, persons are considered to be in training if they are in a non-academic learning activity through which they acquire specific skills intended for vocational or technical jobs. Vocational training prepares trainees for jobs that are based on manual or practical activities, and for skilled operative jobs, both blue and white collar related to a specific trade, occupation or vocation. Technical training on the other hand imparts learning that can be applied in intermediate-level jobs, in particular those of technicians and middle managers. The coverage of vocational and technical training includes only programmes that are solely school-based vocational and technical training. Employer-based training is, by definition, excluded from the scope of this indicator."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The calculation of this indicator requires to have reliable information on both the labour market status and the participation in education or training of young persons. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers. \r\nIn terms of the analysis of the indicator, in order to avoid misinterpreting it, it is important to bear in mind that it is composed of two different sub-groups (unemployed youth not in education or training and youth outside the labour force not in education or training). The prevalence and composition of each sub-group would have policy implications, and thus, should also be considered when analyzing the NEET rate."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is calculated as follows:\r\nNEET rate = (Youth � Youth in employment � Youth not in employment but in education or training) / Youth *100\r\nIt is important to note here that youth both in employment and education or training simultaneously should not be double counted when subtracted from the total number of youth.\r\nThe formula can also be expressed as:\r\nNEET rate = ((Unemployed youth + Youth outside the labour force) � (Unemployed youth in education or training + Youth outside the labour force in education or training)) / Youth *100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "No disaggregation required for this indicator, although having it disaggregated by sex could be highly enlightening."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The preferred official national data source for this indicator is a household-based labour force survey. The population census and/or other household surveys with an appropriate employment module can also be used to obtain the required data."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Description:\r\nNational Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Decent Work Indicators Manual: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nResolution concerning statistics of work, employment and labour underutilization, adopted by the 19th ICLS in 2013: http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm\r\nInternational Standard Classification of Education (ISCED) developed by UNESCO: http://www.uis.unesco.org/Education/Pages/international-standard-classification-of-education.aspx\r\nKey Indicators of the Labour Market, 9th edition, Table KILM 10c: www.ilo.org/ilostat/kilm\r\nWhat does NEETs mean and why is the concept so easily misinterpreted? (ILO, W4Y, Technical brief n�1): http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_343153.pdf"
+                }
+            }
+        }
+    ]
+}

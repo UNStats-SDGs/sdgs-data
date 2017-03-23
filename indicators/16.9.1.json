@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.9",
+    "description": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)  "
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of children under 5 years of age whose births have been registered with a civil authority."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Registering children at birth is the first step in securing their recognition before the law, safeguarding their rights, and ensuring that any violation of these rights does not go unnoticed.\r\nChildren without official identification documents may be denied health care or education. Later in life, the lack of such documentation can mean that a child may enter into marriage or the labour market, or be conscripted into the armed forces, before the legal age. In adulthood, birth certificates may be required to obtain social assistance or a job in the formal sector, to buy or prove the right to inherit property, to vote and to obtain a passport. \r\nChildren�s right to a name and nationality is enshrined in the Convention on the Rights of the Child (CRC) under Article 7."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The number of children who have acquired their right to a legal identity is collected mainly through censuses, civil registration systems and household surveys. Civil registration systems that are functioning effectively compile vital statistics that are used to compare the estimated total number of births in a country with the absolute number of registered births during a given period. However, the systematic recording of births in many countries remains a serious challenge. In the absence of reliable administrative data, household surveys have become a key source of data to monitor levels and trends in birth registration. In most low- and middle-income countries, such surveys represent the sole source of this information."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of children under age of five whose births are reported as being registered with the relevant national civil authorities divided by the total number of children under the age of five in the population multiplied by 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex, age, income, place of residence, geographic location"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only, but are not published as country-level estimates"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Censuses, household surveys such as MICS and DHS and national vital registration systems"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally representative and comparable data are currently available for around 167 low- middle- and high-income countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (for the most part) and line ministries/other government agencies responsible for maintaining national vital registration systems"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUNICEF \r\nDescription:\r\nUNICEF, through its network of Country Offices, undertakes an annual process to ensure its databases contain updated and internationally comparable data. UNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases. The UNICEF global databases are made publically available online at data.unicef.org and are made available for use by other UN agencies at their request. "
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/birth-registration.html"
+                }
+            }
+        }
+    ]
+}

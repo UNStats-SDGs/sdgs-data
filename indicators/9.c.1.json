@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.c",
+    "description": "Proportion of population covered by a mobile network, by technology",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Telecommunication Union (ITU)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users. This is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks � often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.\r\nWhile 2G (narrowband) mobile-cellular networks offer limited (and mainly voice-based) services, higher-speed networks (3G and LTE) provide increasingly high-speed, reliable and high-quality access to the Internet and its increasing amount of information, content, services, and applications. Mobile networks are therefore essential to overcoming infrastructure barriers, helping people join the information society and benefit from the potential of ICTs, in particular in least developed countries.\r\nThe indicator highlights the importance of mobile networks in providing basic, as well as advanced communication services and will help design targeted policies to overcome remaining infrastructure barriers, and address the digital divide. Many governments track this indicator and have set specific targets in terms of the mobile population coverage (by technology) that operators must achieve."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "\"The indicator is based on where the population lives, and not where they work or go to school, etc. When there are multiple operators offering the service, the maximum population number covered should be reported. Coverage should refer to LTE, broadband (3G) and narrowband (2G) mobile-cellular technologies and include:\r\n- 2G mobile population coverage: Mobile networks with access to data communications (e.g. Internet) at downstream speeds below 256 Kbit/s. This includes mobile-cellular technologies such as GPRS, CDMA2000 1x and most EDGE implementations. The indicator refers to the theoretical ability of subscribers to use non-broadband speed mobile data services, rather than the number of active users of such services.\r\n- 3G population coverage: refers to the percentage of inhabitants that are within range of at least a 3G mobile-cellular signal, irrespective of whether or not they are subscribers. This is calculated by dividing the number of inhabitants that are covered by at least a 3G mobile-cellular signal by the total population and multiplying by 100. It excludes people covered only by GPRS, EDGE or CDMA 1xRTT.\r\n- LTE population coverage: Refers to the percentage of inhabitants that live within range of LTE/LTE-Advanced, mobile WiMAX/WirelessMAN or other more advanced mobile-cellular networks, irrespective of whether or not they are subscribers. This is calculated by dividing the number of inhabitants that are covered by the previously mentioned mobile-cellular technologies by the total population and multiplying by 100. It excludes people covered only by HSPA, UMTS, EV-DO and previous 3G technologies, and also excludes fixed WiMAX coverage.\r\nAs technologies evolve and as more and more countries will deploy and commercialize more advanced mobile-broadband networks (5G etc.), the indicator will include further breakdowns.\""
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Some countries have difficulty calculating overall mobile-cellular population coverage. In some cases, data refer only to the operator with the largest coverage, and this may understate the true coverage."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator percentage of the population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users. This is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Based on the data for the percentage of the population covered by a mobile network, broken down by technology, and on rural population figures, countries can produce estimates on rural and urban population coverage. ITU produces global estimates for the rural population coverage, by technology."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing values are estimated using data published by mobile cellular operators that have the largest market share."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are estimated using data published by mobile cellular operators that have the largest market share."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates are produced using weighted country-level data. First, the missing country-level data are estimated using data of the dominant mobile operator. Once all the country-level percentages are available, the number of people covered by the mobile signal is calculated by multiplying the percentage of population covered by the signal to the population of the country. The regional and world total population covered by a signal were calculated by summing the country-level data. The aggregate percentages were calculated by dividing the regional totals by the population of respective groups."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "None. ITU uses the data provided by countries, including the in-scope population that is used to calculate the percentages."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "This indicator is based on an internationally agreed definition and methodology, which have been developed under the coordination of ITU, through its Expert Groups and following an extensive consultation process with countries. It is also a core indicator of the Partnership on Measuring ICT for Development's Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014).\r\nITU collects data for this indicator through an annual questionnaire from national regulatory authorities or Information and Communication Technology Ministries, who collect the data from Internet service providers."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "ITU collects data for this indicator through an annual questionnaire from national regulatory authorities or Information and Communication Technology Ministries, who collect the data from Internet service providers."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "By 2015, data on 2G mobile population coverage were available for about 147 countries, from developed and developing regions, and covering all key global regions. Data on 3G mobile population coverage were available for 152 countries and data on LTE mobile population coverage were available for 124 countries. ITU publishes data on this indicator yearly."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are collected through the short ITU World Telecommunication/ICT Indicators Questionnaire in April of each year and published in June of each year."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "June 2016."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Telecommunication/ICT regulatory authority, or Ministry of ICTs."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ITU"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ITU Handbook for the collection of Administrative Data on Telecommunications/ICT, 2011 (and revisions and new indicators), see:\r\nhttp://www.itu.int/en/ITU-D/Statistics/Pages/publications/handbook.aspx\r\nRelated indicators\r\n1.4, 2.3, 2.c, 9.1, 11.b, 13.1"
+                }
+            }
+        }
+    ]
+}

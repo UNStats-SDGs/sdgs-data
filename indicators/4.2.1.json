@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.2",
+    "description": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being is currently being measured by the percentage of children aged 36-59 months who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Early childhood development (ECD) sets the stage for life-long thriving. Investing in ECD is one of the most critical and cost-effective investments a country can make to improve adult health, education and productivity in order to build human capital and promote sustainable development. ECD is equity from the start and provides a good indication of national development. Efforts to improve ECD can bring about human, social and economic improvements for both individuals and societies."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The number of children under the age of five who are developmentally on track in health, learning and psychosocial well-being divided by the total number of children under the age of five in the population multiplied by 100."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Age, sex, place of residence, wealth, geographic location, caregiver education and other background characteristics. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only but are not published as country-level estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as UNICEF-supported MICS have been collecting data on this indicator (through the Early Childhood Development Index or ECDI) in low- and middle-income countries since around 2010. Many of the individual items included in the ECDI are collected through other mechanisms in high-income (OECD) countries as well."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Comparable data are available for 58 low- and middle-income countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Since 2010  "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Description:\r\nNational Statistical Offices (in most cases)"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/ecd/development-status.html"
+                }
+            }
+        }
+    ]
+}

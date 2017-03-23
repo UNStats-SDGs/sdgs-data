@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.1",
+    "description": "Maternal mortality ratio",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The maternal mortality ratio (MMR) is defined as the number of maternal deaths during a given time period per 100,000 live births during the same time period. It depicts the risk of maternal death relative to the number of live births and essentially captures the risk of death in a single pregnancy or a single live birth.\r\nMaternal deaths: The annual number of female deaths from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes) during pregnancy and childbirth or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, expressed per 100,000 live births, for a specified time period."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "All maternal mortality indicators derived from the 2015 estimation round include a point-estimate and an 80% uncertainty interval (UI). For those indicators where only point-estimates are reported in the text or tables, UIs can be obtained from supplementary material online (http://www.who.int/reproductivehealth/publications/monitoring/maternal-mortality-2015/en/). Both point-estimates and 80% UIs should be taken into account when assessing estimates.\r\nFor example: \r\nThe estimated 2015 global MMR is 216 (UI 207 to 249)\r\nThis means:\r\n� The point-estimate is 216 and the 80% uncertainty interval ranges 207 to 249.\r\n� There is a 50% chance that the true 2015 global MMR lies above 216, and a 50% chance that the true value lies below 216.\r\n� There is an 80% chance that the true 2015 global MMR lies between 207 and 249.\r\n� There is still a 10% chance that the true 2015 global MMR lies above 249, and a 10% chance that the true value lies below 207.\r\nOther accurate interpretations include:\r\n� We are 90% certain that the true 2015 global MMR is at least 207.\r\n� We are 90% certain that the true 2015 global MMR is 249 or less.\r\nThe amount of data available for estimating an indicator and the quality of that data determine the width of an indicator�s UI. As data availability and quality improve, the certainty increases that an indicator�s true value lies close to the point-estimate."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Definitions related to maternal death in ICD-10\r\nMaternal death: The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management (from direct or indirect obstetric death), but not from accidental or incidental causes.\r\nPregnancy-related death: The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the cause of death.\r\nLate maternal death: The death of a woman from direct or indirect obstetric causes, more than 42 days, but less than one year after termination of pregnancy"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The extent of maternal mortality in a population is essentially the combination of two factors:\r\ni. The risk of death in a single pregnancy or a single live birth.\r\nii. The fertility level (i.e. the number of pregnancies or births that are experienced by women of reproductive age).\r\nThe maternal mortality ratio (MMR) is defined as the number of maternal deaths during a given time period per 100 000 live births during the same time period. It depicts the risk of maternal death relative to the number of live births and essentially captures (i) above.\r\nBy contrast, the maternal mortality rate (MMRate) is calculated as the number of maternal deaths divided by person-years lived by women of reproductive age. The MMRate captures both the risk of maternal death per pregnancy or per total birth (live birth or stillbirth), and the level of fertility in the population. In addition to the MMR and the MMRate, it is possible to calculate the adult lifetime risk of maternal mortality for women in the population (see Box A2.2). An alternative measure of maternal mortality, the proportion of deaths among women of reproductive age that are due to maternal causes (PM), is calculated as the number of maternal deaths divided by the total deaths among women aged 15�49 years.\r\nRelated Statistical measures of maternal mortality\r\nMaternal mortality ratio (MMR): Number of maternal deaths during a given time period per 100,000 live births during the same time period.\r\nMaternal mortality rate (MMRate): Number of maternal deaths divided by person-years lived by women of reproductive age.\r\nAdult lifetime risk of maternal death: The probability that a 15-year-old woman will die eventually from a maternal cause.\r\nThe proportion of deaths among women of reproductive age that are due to maternal causes (PM): The number of maternal deaths in a given time period divided by the total deaths among women aged 15�49 years."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The maternal mortality ratio can be calculated by dividing recorded (or estimated) maternal deaths by total recorded (or estimated) live births in the same period and multiplying by 100 000. Measurement requires information on pregnancy status, timing of death (during pregnancy, childbirth, or within 42 days of termination of pregnancy), and cause of death.\r\nThe maternal mortality ratio can be calculated directly from data collected through vital registration systems, household surveys or other sources. There are often data quality problems, particularly related to the underreporting and misclassification of maternal deaths. Therefore, data are often adjusted in order to take these data quality issues into account. Some countries undertake these adjustments or corrections as part of specialized/confidential enquiries or administrative efforts embedded within maternal mortality monitoring programmes."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Current MMR estimates are reported at Country, Regional, and Global levels. Regional level estimates have income strata per World Bank classification. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The Maternal Mortality�Estimation Inter-Agency Group�(MMEIG) uses the \"BMaT\" model to estimate MMR where there are missing values (see page 12 of the report http://apps.who.int/iris/bitstream/10665/194254/1/9789241565141_eng.pdf?ua=1).\r\nEquation:\r\nlog(PMina) = ai� �1 log(GDPi) + �2 log(GFRi) � �3 SABi\r\nwith random country intercepts modelled hierarchically within regions:\r\nai~ N(aregion, s2country), ar ~ N(aworld, s2region)\r\nmeaning country intercepts (ai) are distributed normally with a country-specific variance (s2country)\r\naround random region intercepts (aregion), and random region intercepts (aregion) are distributed\r\nnormally with a region-specific variance (s2region) around a world intercept (aworld); and:\r\nGDPi= gross domestic product per capita (in 2011 purchasing power parity [PPP] dollars)\r\nGFRi= general fertility rate (live births per woman aged 15�49 years)\r\nSABi= skilled attendant at birth (as a proportion of live births)."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "To inform projection of trends across periods where data are sparse, or for countries with little or no data at all, the BMaT statistical model is used to estimate maternal mortality. The model includes factors known to be associated with maternal mortality as predictor covariates (GDP, GFR and SAB)."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The maternal mortality ratio can be calculated by dividing recorded (or estimated) maternal deaths by total recorded (or estimated) live births in the same period and multiplying by 100,000. Measurement requires information on pregnancy status, timing of death (during pregnancy, childbirth, or within 42 days of termination of pregnancy), and cause of death.\r\nThe maternal mortality ratio can be calculated directly from data collected through vital registration systems, household surveys or other sources. There are often data quality problems, particularly related to the underreporting and misclassification of maternal deaths. Therefore, data are often adjusted in order to take these data quality issues into account.\r\nBecause maternal mortality is a relatively rare event, large sample sizes are needed if household surveys are used to identify recent maternal deaths in the household (e.g. last year). This may still result in estimates with large confidence intervals, limiting the usefulness for cross-country or over-time comparisons.\r\nTo reduce sample size requirements, the sisterhood method used in the DHS and multiple indicator surveys (MICS4) measures maternal mortality by asking respondents about the survival of sisters. It should be noted that the sisterhood method results in pregnancy-related mortality: regardless of the cause of death, all deaths occurring during pregnancy, birth or the six weeks following the termination of the pregnancy are included in the numerator of the maternal mortality ratio.\r\nCensuses have also included questions about maternal deaths with variable success.\r\nReproductive Age Mortality Studies (RAMOS) is a special study that uses varied sources, depending on the context, to identify maternal deaths; no single source identifies all the deaths. Interviews with household members and health-care providers and reviews of facility records are used to classify the deaths as maternal or otherwise. If properly conducted, this approach provides a fairly complete estimation of maternal mortality (in the absence of reliable routine registration systems) and could provide subnational MMRs. However, inadequate identification of all deaths of reproductive-aged women results in underestimation of maternal mortality levels. This approach can be complicated, time-consuming and expensive to undertake � particularly on a large scale. The number of live births used in the computation may not be accurate, especially in settings where most women deliver at home. \r\nWHO, UNICEF, UNFPA, the United Nations Population Division and The World Bank have developed a method to adjust existing data in order to take into account these data quality issues and ensure the comparability of different data sources. This method involves assessment of data for completeness and, where necessary, adjustment for underreporting and misclassification of deaths as well as development of estimates through statistical modelling for countries with no reliable national level data.\r\nData on maternal mortality and other relevant variables are obtained through databases maintained by WHO, the United Nations Population Division, UNICEF, and The World Bank. Data available from countries varies in terms of source and methods. Given the variability of the sources of data, different methods are used for each data source in order to arrive at country estimates that are comparable and permit regional and global aggregation.\r\nCurrently, only about one third of all countries/territories have reliable data available and do not need additional estimations. For about half of the countries included in the estimation process, country-reported estimates of maternal mortality are adjusted for the purposes of comparability of the methodologies. For the remainder of countries/territories � those with no appropriate maternal mortality data -- a statistical model is employed to predict maternal mortality levels. However, the calculated point estimates with this methodology might not represent the true levels of maternal mortality. It is advised to consider the estimates together with the reported uncertainty margins within which the true levels are known to lie.\r\nDetails on adjustments and formulas are published/available here:\r\n(1) http://apps.who.int/iris/bitstream/10665/194254/1/9789241565141_eng.pdf?ua=1\r\n (2) Alkema L, Chou D, Hogan D, Zhang S, Moller A, Gemmill A et al. Global, regional, and national levels and trends in maternal mortality between 1990 and 2015, with scenario based projections to 2030: a systematic analysis by the UN Maternal Mortality Estimation Inter-Agency Group. Lancet. Published online 12 November 2015. doi:10.1016/S0140- 6736(15)00838-7. \r\n (3) Alkema L, Zhang S, Chou D, Gemmill A, Moller A, Ma Fat D et al. A Bayesian approach to the global estimation of maternal mortality. 2015 (submitted for peer review; http://arxiv. org/abs/1511.03330)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The maternal mortality ratio is defined as the number of maternal deaths divided by live births. However, to account for potential incompleteness of death recording in various data sources, the MMEIG first computes the fraction of deaths due to maternal causes from original data sources (referred to as the \"proportion maternal\", or PM), and then applies that fraction to WHO estimates of total deaths among women of reproductive age to obtain an estimate of the number of maternal deaths. \r\nIn other words, the following fraction is first computed from country data sources:\r\nPM= Number of maternal deaths 15-49/All female deaths at ages 15-49 \r\nand then the PM is used to compute the MMR as follows:\r\nMMR=PM �(All female deaths at ages 15-49/Number of live births)\r\nwhere the estimate of all deaths at ages 15-49 in the second equation is derived from WHO life tables, and the number of live births is from the World Population Prospects 2015.\r\nWith this as background, a few reasons that MMEIG estimates may differ from national statistics are as follows:\r\n1. Civil registration and vital statistics systems are not always complete (i.e., they do not always capture 100% of all deaths) and completeness may change over time. The MMEIG estimation approach attempts to correct for this by using the above approach, which involves first computing the PM.\r\n2. The MMEIG often applies adjustment factors to the PM computed from original data to account for measurement issues (such as how the country defined \"maternal\" deaths; misclassification; or undercounting). \r\n3. The MMEIG uses the standardized series of live births from the United Nations Population Division, as published in World Population Prospects 2015, in the denominator of the MMR equation. To better inform the WPP, countries should discuss discrepancies directly with the UNPD. The contact address is population@un.org; this email address is monitored regularly and messages are dispatched to the appropriate analysts for each country or concern. \r\n4. Statistically speaking, maternal deaths are a relatively rare event, which can lead to noisy time trends in data over time. As the goal of the MMEIG estimates is to track long term progress in reducing maternal mortality, the estimation process involves some smoothing to generate a curve that better captures changes in underlying risk"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Please see page 5 of the report\r\nhttp://apps.who.int/iris/bitstream/10665/194254/1/9789241565141_eng.pdf?ua=1"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The MMEIG maintains an input database consisting of maternal mortality data from civil registration, population based surveys, surveillance systems, censuses, and other specialized studies/surveys. This database is used to determine the number of maternal deaths and where possible the number of deaths among all women of reproductive age (WRA) to calculate the \"PM\" proportion of maternal deaths among WRA. The MMR is then calculated as MMR = PM(D/B); where \"D\" is the number of deaths in women aged 15-49 (WRA) and \"B\" is the number of live births. The number of live births is based upon the World Population Prospects.\r\nStatistical modelling is undertaken to generate comparable Country, Regional, and Global level estimates. The model's fit is assessed by cross-validation. Estimates are then reviewed with Member States through a WHO country consultation process. In 2001, the WHO Executive Board endorsed a resolution (EB.107.R8) seeking to \"establish a technical consultation process bringing together personnel and perspectives from Member States in different WHO regions\". A key objective of this consultation process is \"to ensure that each Member State is consulted on the best data to be used\". Since the process is an integral step in the overall estimation strategy, it is described here in brief.\r\nThe country consultation process entails an exchange between WHO and technical focal person(s) in each country. It is carried out prior to the publication of estimates. During the consultation period, WHO invites focal person(s) to review input data sources, methods for estimation and the preliminary estimates. Focal person(s) are encouraged to submit additional data that may not have been taken into account in the preliminary estimates.\r\nAdjustments are made according to the data source type:\r\n(1) CRVS, for underreporting and misclassification of maternal deaths\r\n(2) reports providing \"pregnancy-related\" mortality, for underreporting of these deaths, as well as over-reporting of maternal deaths due to inclusion of deaths which are accidental or incidental to pregnancy (thus outside of the definition of maternal mortality). \r\nThe analysis also accounts for stochastic errors due to the general rarity of maternal deaths, sampling error in the data source, errors during data collection and processing, and other random error."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The MMR estimates is limited to countries with population of greater than 100 000. Out of 183 countries, 171 have nationally representative data."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Source data are collected by countries, typically yearly for CRVS sources, every 3-5 years for specialized reviews, every 5-7 years for population based surveys, every 10 years for censuses. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The next round of MMR estimation is scheduled for publication late 2017/early 2018. ( late 2017/early 2018)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National level data providers may be statistical offices, specialized epi monitoring bodies."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "MMEIG the Maternal Mortality Estimation Interagency Group, composed of: WHO UNICEF UNFPA World Bank UN Population Division"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/reproductivehealth/publications/monitoring/maternal-mortality-2015/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "(1) Trends in Maternal Mortality: 1990 to 2015. Estimates by WHO, UNICEF, UNFPA, World Bank Group and the United Nations Population Division \r\nhttp://apps.who.int/iris/bitstream/10665/194254/1/9789241565141_eng.pdf?ua=1\r\n(2) Alkema L, Chou D, Hogan D, Zhang S, Moller A, Gemmill A et al. Global, regional, and national levels and trends in maternal mortality between 1990 and 2015, with scenario based projections to 2030: a systematic analysis by the UN Maternal Mortality Estimation Inter-Agency Group. Lancet. Published online 12 November 2015. doi:10.1016/S0140- 6736(15)00838-7. (http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00838-7/references)\r\n(3) Alkema L, Zhang S, Chou D, Gemmill A, Moller A, Ma Fat D et al. A Bayesian approach to the global estimation of maternal mortality. 2015 (submitted for peer review; http://arxiv. org/abs/1511.03330).\r\nRelated indicators\r\n3.1.2:\r\nProportion of births attended by skilled health personnel"
+                }
+            }
+        }
+    ]
+}

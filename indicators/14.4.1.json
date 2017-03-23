@@ -1,0 +1,111 @@
+{
+    "goal_id": "14",
+    "target_id": "14.4",
+    "description": "Proportion of fish stocks within biologically sustainable levels",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Proportion of fish stocks within biologically sustainable levels measures the sustainability of the world's marine capture fisheries by their abundance. A fish stock of which abundance is at or greater than the level, that can produce the maximum sustainable yield (MSY) is classified as biologically sustainable. In contrast, when abundance falls below the MSY level, the stock is considered biologically unsustainable."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator measure the sustainability of fish resources based on two major considerations: yield and reproduction. When a stock is fished biologically sustainable, it produces good yield without impairing the stock's reproductivity, reaching a good balance between human use and ecological conservation.\r\nThe proportion is just calculated based on stock numbers, without weighting either by its production volume or stock abundance, that is every fish stock is considered of the same importance."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Fish stock assessment science defines the long term sustainability of fish resources as their abundance is fished at the level that produces the maximum sustainable level. The basic benchmarks for the sustainability of fisheries are set by the UN Convention on the Law of the Sea (UNCLOS, Article 61(3))."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator measures the sustainability of fishery resources very well, and is an end-result measure of Target 14.2. However, its derivation is not only data hungry, but also technically demanding as it needs stock assessment. This is also the reason why there is nodata at country level."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Fishery sustainability is defined based on stock abundance. To know stock abundance, one needs to carry out stock assessment that uses fish catch statistics, fishing effort data and biological information and fit the data to a population dynamics model. After completing stock assessment for all stocks concerned, fish stocks that have abundance at or above the level associated with the maximum sustainable yield are counted as biologically sustainable, and otherwise are considered as overfished."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation by country is not possible for the moment.\r\n* At country level\r\nNo interpolation is carried out for missing data.\r\n* At regional and global levels\r\nA fixed number of fish stocks is monitored and assessed in terms of their stock."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA, as there is no national data."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Stock assessment needs several different kinds of data that come from different sources. For example, catch data are often reported to FAO by member countries, but fishing effort data and other biological data may come from other sources. A great effort must be made to collect data that are needed for stock assessment. Also, it is worth noting that this indicator cannot be directly calculated from the data, but only through stock assessment which is a mathematical modelling process."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The indicator has global data from 1974 to 2013. There is not systematic country data available. Regional breakdown by continent is impossible as fish live in the sea. However, it is possible to bread it down to oceans or by FAO statistical regions."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 1974 to 2013"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "2013, 2015 and so on (every another year) "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "2013, 2015 and so on (every another year). "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "FAO"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "FAO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.fao.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://www.fao.org/docrep/015/i2389e/i2389e00.htm"
+                }
+            }
+        }
+    ]
+}

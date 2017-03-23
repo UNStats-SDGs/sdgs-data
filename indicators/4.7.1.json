@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.7",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies, (b) curricula, (c) teacher education and (d) student assessment"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator focuses on the extent to which countries mainstream global citizenship education (GCED) and education for sustainable development (ESD), including climate change education, human rights and gender equality, in their education systems, specifically in policies, curricula, teacher education and student assessment. \r\nIt seeks to measure the quantity and quality of country inputs as well as whether the quality of GCED and ESD provision is adequate to fulfil their transformational potential. \r\nThe indicator should go beyond the level of \"existence\" or \"mentioning\" of GCED and ESD in policy, curricula, teacher education and student assessment. The share accorded to GCED and/or ESD in the curricula/timetables at different education levels could be used. Further, a comparative measure of the priority of GCED/ESD � as part of one or more subjects � relative to certain key learning domains, such as reading and mathematics - could be assessed. The extent of mainstreaming could be described on a multi-level scale, noting that this should cover intended and actual implementation.\r\nThe indicator provides important information on the level of national commitment towards the attainment of this target (for example whether political will/decisions and resources available have been translated into concrete policies, curricula, assessment) as well as the quality of the programmes provided, can predict the likelihood that desired student outcomes will be achieved. This indicator can be complemented by other thematic indicators on GCED and ESD that UNESCO proposes, which seek to assess learning outcomes more directly in the cognitive, socio-emotional and behavioural domains. The indicator could be used to assess inputs to formal as well as non-formal education systems. \r\nAcknowledging that evidence on how the policy guidance and implementation in policy, curricula, teacher training and student assessment actually work and what impact they may have, progress might be interpreted in relation to the comparative/ipsative priority and emphasis assigned to these areas over time, i.e. if and how existence, frequency, priority and scope of implementation change from one collection to the next."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Education for Sustainable Development (ESD): empowers learners to take informed decisions and responsible actions for environmental integrity, economic viability and a just society, for present and future generations, while respecting cultural diversity. It is about lifelong learning, and is an integral part of quality education.\r\nGlobal Citizenship Education (GCED): GCED nurtures respect for all, building a sense of belonging to a common humanity and helping learners become responsible and active global citizens. GCED aims to empower learners to assume active roles to face and resolve global challenges and to become proactive contributors to a more peaceful, tolerant, inclusive and secure world."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator does not verify whether the national measures taken lead to desired changes in learning outcomes and does not assess learning outcomes directly. However, education policies, curricula, teacher education and student assessment, demonstrated in the indicator, are key intermediate outcomes of national commitment and effort to effectively implement GCED and ESD and to provide a conducive learning environment. This indicator also addresses SDG Targets 12.8 and 13.3."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The method of reporting this indicator has still to be defined. It will be based on an evaluation of reports submitted by countries describing how they are mainstreaming global citizenship education and education for sustainable development in their education policies and systems."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "None"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "To be defined"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Regional and global aggregates are not currently available for this indicator."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates are not currently available for this indicator."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "None"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "In reference to UNESCO�s mandate to monitor the implementation of 1974 Recommendation, every four years a survey questionnaire is sent to 195 UNESCO Member States. This is an established mechanism, on the basis of which countries systematically report to UNESCO on the status of implementation of the 1974 Recommendation; the survey questionnaire covers almost all aspects of the proposed indicator, as per the specific recommendations. UNESCO has been analyzing the survey results and reports to its General Conference on country status. During the 5th and latest consultation (2009-2012) of the 1974 Recommendation, 57 national reports were submitted to UNESCO. The statutory monitoring responsibility for 1974 Recommendation is the most important and relevant data collection mechanism that is already in place for this indicator as it covers all key conceptual aspects of GCED and ESD, including climate change education, especially in the areas of policy, curricula, teacher education and student assessment, which correspond exactly to the areas covered by this indicator. As per the request from the Executive Board, UNESCO revised the terminologies and the format of the survey tool to make it more relevant to the present time and easy to use, which will increase the response rate. The revised guidelines for reporting, including a questionnaire, were approved by the 199th Session of the Executive Board and it will be used for the data collection exercise launched in June 2016, due by end of 2016. Analysis of the past reports will also allow a time series review of the countries� support for GCED. \r\nSalient guiding principles on sources and collection approaches as well as experiences on this topic can be derived from the global monitoring and evaluation work conducted as part of the decade for education for sustainable development (DESD, 2005-2014). Other human rights monitoring frameworks can also serve as additional sources for this indicator. Additional sources of data collection can also include education sector reviews or other thematic studies."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNESCO Member States report on the implementation of the 1974 Recommendation following the revised guidelines for the 6th Consultation (2016) which includes a questionnaire."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "With relation to the implementation of the 1974 Recommendation, data are currently available for 57 countries that have reported during the 5th Consultation. It is expected that following the ongoing revision of the questionnaire, the number of reporting countries will be substantially increased."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Periodic reports every 4 years, most recently in 2016. "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data collection launched in June 2016. Data will be collected and analyzed by late 2016/early "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "To be defined "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "UNESCO Member States via their National Commissions to UNESCO"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNESCO and the UNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "UNESCO. 18 C Resolutions. Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms (1974): http://unesdoc.unesco.org/images/0011/001140/114040e.pdf#page=166\r\nUNESCO. 199 EX/14 Part IV Annex. Draft Guidelines for the Preparation of Reports by Member States on the application of the Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms (1974): http://unesdoc.unesco.org/images/0024/002438/243899e.pdf\r\nRelated indicators\r\n12.8, 13.3"
+                }
+            }
+        }
+    ]
+}

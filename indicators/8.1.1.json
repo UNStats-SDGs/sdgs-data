@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.1",
+    "description": "Annual growth rate of real GDP per capita",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Statistics Division (UNSD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Annual growth rate of real Gross Domestic Product (GDP) per capita is calculated as the percentage change in the real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or area. The data for real GDP are measured in constant US dollars to facilitate the calculation of country growth rates and aggregation of the country data"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Real Gross Domestic Product (GDP) per capita is a proxy for the average standard of living of residents in a country or area. \r\nA positive percentage change in annual real GDP per capita can be interpreted as an increase in the average standard of living of the residents in a country or area"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Gross Domestic Product (GDP) measures the monetary value of final goods and services�that is, those that are bought by the final user�produced in an economic territory country in a given period of time (say a quarter or a year). It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. GDP can be measured using the expenditure approach as the sum of expenditure on final consumption plus gross capital formation plus exports less imports, the production approach as the value of output less intermediate consumption plus any taxes less subsidies on products not already included in the value of output, or the income approach as compensation of employees plus gross operating surplus plus gross mixed incomes plus taxes less subsidies on both production and imports"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Although countries or areas calculate GDP using the common principles and recommendations in the United Nations System of National Accounts (SNA), there are still problems in international comparability of GDP estimates. These include:\r\na. Different versions of the SNA (for example, 1968, 1993 or 2008) countries or areas use in calculating their GDP estimates\r\nb. Different degree of coverage of informal and non-observed economic activities in the GDP estimates\r\nFurther, as a necessary condition to being a key economic performance indicator of sustainable development, one of the often-cited limitations of GDP is that it does not account for the social and environmental costs of production. It is designed as a measure of the level of overall well-being. For example, growth in real GDP per capita reveals nothing concerning energy and material interactions with the environment."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The annual growth rate of real Gross Domestic Product (GDP) per capita is calculated as follows:\r\na. Convert annual real GDP in domestic currency at 2005 prices for a country or area to US dollars at 2005 prices using the 2005 exchange rates.\r\nb. Divide the result by the population of the country or area to obtain annual real GDP per capita in constant US dollars at 2005 prices.\r\nc. Calculate the annual growth rate of real GDP per capita in year t+ 1 using the following formula:\r\n[(G(t+1) � G(t))/G(t)] x 100%\r\nwhere G(t+1) is real GDP per capita in 2005 US dollars in year t+1 and G(t) is real GDP per capita in 2005 US dollars in year t"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "It is possible to disaggregate the country data by region, if countries can make available the underlying regional data which are consistent with the national accounts data to perform the disaggregation."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When a full set of official annual GDP data is not available, estimation procedures are employed to obtain estimates for the entire time series. When full data are not available, a hierarchy of other data sources is used to gather information on the national accounts of a country or area. The data gathered are then either used directly or estimation procedures are applied to obtain the annual GDP data. \r\nIf official data are not available, the selection of data sources is based on following hierarchy:\r\na. Official publications and websites of national statistical offices, central banks or relevant government ministries;\r\nb. Official statistics disseminated by Eurostat, European Central Bank and the Organization for Economic Cooperation and Development (OECD) for their members;\r\nc. Information provided by Permanent Missions to the United Nations;\r\nd. Economic surveys and estimates prepared by United Nations� Regional Economic Commissions (i.e. UNECE,ECLAC, ESCAP, UNECA and ESCWA);\r\ne. Publications of international organizations with a strong focus on statistical data collection (including regional development banks). The most common sources used for their respective countries are listed below:\r\nAsia: Asian Development Bank, ASEAN, Arab Monetary Fund, Secretariat of the Pacific Community (SPC)\r\nAfrica: African Development Bank, Afristat, Banque des Etats de l�Afrique Centrale (BEAC), Union Economique Monetaire Ouest Africain (UEMOA) Americas: CARICOM, Caribbean Development Bank, Eastern Caribbean Central Bank (ECCB) Other: OECD for non-member countries Statistical Committee of the Commonwealth of Independent States\r\nf. Estimates and indicators from other international organizations. The most common sources used are: the International Monetary Fund (IMF) and the World Bank;\r\ng Publications or websites of specialized groups, the most common sources used are: the Gulf Cooperation Council, the Asia-Pacific Economic Cooperation (APEC), the Committee of Central Bank Governors in SADC; the Islamic Development Bank, and the Statistical Training Centre for Islamic Countries;\r\nh. Economic data from commercial providers and other sources, the most common sources used are: the Economic Intelligence Unit and the United States Central Intelligence Agency;\r\ni. Information from neighbouring countries where no alternative source is available (Switzerland for Liechtenstein; France for Monaco; Italy for San Marino; Spain for Andorra; and some Pacific Islands for other Pacific Islands);\r\nThe estimation methods involved in preparing the GDP estimates using sources other than official data include trend extrapolation, using appropriate indices for inflating or deflating relevant data series, and share distribution of GDP. A hierarchical assessment is followed to determine which method should be used. Effort is made to keep data estimation methods consistent from year to year."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "After the missing real GDP country or area data are imputed using the methods as described in 11.1, they are summed up to derive the respective regional or global aggregates and then divided by the corresponding population data to obtain the regional or global real GDP per capita. After that, annual growth rates in regional or global real GDP per capita are calculated using the formula described in 3.3"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "For each year, the real GDP and population estimates for each country or area are summed up to derive the regional and global aggregates. The regional and global aggregates are then divided by the corresponding population to derive the regional and global real GDP per capita estimates. These estimates are then used to calculate the annual growth rates in regional and global real GDP per capita using the formula as described in 3.3."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The differences include the following:\r\na. Official country data are typically available in domestic currency only. The data estimated by UNSD are also available in US dollars\r\nb. Countries or areas may not have a full set of official GDP data. The GDP data estimated by UNSD include imputations using various estimation procedures as described in 11.1 to obtain estimates for the entire time series.\r\nc. Official country data are often reported as multiple sets of time series versions, with each version representing a unique methodology used to compile the national accounts data (for example, a difference between two time series versions could reflect a change in currency, a switch from 1968 SNA to 1993 SNA, a change in the office responsible for compiling national accounts, etc.). These time series versions may not be comparable, especially when a country has shifted from the 1968 SNA to 1993 SNA or 2008 SNA. When a single time series version does not exist for the entire period (1970 to t-1), UNSD uses estimation procedures to backcast the most recently reported time series version. Backcasting is only performed when time series overlap for at least one year. The overlapping year is used to create a ratio; this ratio is then applied backwards to the previous time series version. If there is a change of fiscal year between two official data time series, the older series are converted to the fiscal year type of the most recent time series prior to backcasting. UNSD uses the same backcasting methods when official country constant price time series versions include multiple base years or when constant price time series versions are reported as constant prices of the previous year (CPPY). CPPY data are backcasted by using the officially reported current price data and the officially reported constant price data. The data are backcasted into a single series with a fixed base year.\r\nd. The population estimates from the United Nations Population Division may be different from country-produce estimates as the former include analysis carried out to take into account deficiencies such as incompleteness of coverage, lack of timeliness and errors in the reporting or coding of the basic information and to establish past population trends by resolving the inconsistencies affecting the basic data."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The underlying annual GDP estimates in domestic currency are collected from countries or areas annually through a national accounts questionnaire (NAQ), while the underlying population estimates are obtained from the UN Population Division on https://esa.un.org/unpd/wpp/Download/Standard/Population/"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Each year, the national accounts section of the UNSD sends a pre-filled NAQ to countries or areas to collect the latest data on official annual national accounts in domestic currency. In order to lighten the reporting burden of countries to different international and regional organizations the UNSD receives data from the Organisation for Economic Co-operation and Development (OECD), the United Nations Economic Commission for Europe (ECE) and the Caribbean Community (CARICOM) on behalf of their constituents.\r\nThe official national accounts data in domestic currency are then validated to check for errors. The validation procedure involves ensuring that aggregates are equal to the sum of their components and that data series which are provided in multiple tables are represented consistently. After that, the current and constant price GDP series are converted into US dollars by applying the corresponding market exchange rates as reported by the International Monetary Fund (IMF). When these conversion rates are not available other IMF rates are used (official rates or principal rates).\r\nFor countries whose exchange rates are not reported by the IMF, the annual average of United Nations operational rates of exchange (UNOPs) is applied. The UNOPs are conversion rates that are applied in official transactions of the United Nations with these countries. These exchange rates are based on official, commercial and/or tourist rates of exchange.\r\nIn cases where a country experiences considerable distortion in the conversion rates, the UNSD uses price-adjusted rates of exchange (PARE) as an alternative to the exchange rates reported by the IMF or UN operational rates of exchange. The conversion based on PARE corrects the distorting effects of uneven price changes that are not well reflected in the other conversion rates. Consequently, unrealistic levels in GDP and other national accounts aggregates expressed in US Dollars may have been adjusted for certain time periods to improve the economic analysis at national, regional and local levels.\r\nThe constant-price GDP series for each country is then divided by its population to obtain its real GDP per capita.\r\nThe estimated data are checked for consistency by ensuring that aggregates are equal to the sum of their components and that data series which are represented in multiple tables are represented consistently. The estimates derived for each year are compared to previous years to ensure that estimates are prepared consistently from year to year. Additionally, the growth rate from year to year is analyzed to identify anomalies in the data.\r\nMore information on the methodology to estimate the data is available on http://unstats.un.org/unsd/snaama/methodology.pdf."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "National statistics offices, central banks or national agencies responsible for compiling official national accounts estimates for a country or area"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Annual data from 1970 to 2014 are available."
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The exercise to collect official annual national accounts estimates from countries or areas using the national accounts questionnaire starts in February of each year for the data available up to the end of the previous year."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "December of each year "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices, central banks or national agencies responsible for compiling official national accounts estimates for a country or area"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNSD"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://unstats.un.org/unsd/snaama/introduction.asp"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://unstats.un.org/unsd/nationalaccount/sna.asp\r\nhttp://unstats.un.org/unsd/nationalaccount/data.asp\r\nhttp://unstats.un.org/unsd/snaama/introduction.asp\r\nhttp://data.un.org/Explorer.aspx?d=SNAAMA\r\nhttps://esa.un.org/unpd/wpp/\r\nRelated indicators\r\nAny economic statistics related SDG indicators"
+                }
+            }
+        }
+    ]
+}

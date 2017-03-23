@@ -1,0 +1,111 @@
+{
+    "goal_id": "5",
+    "target_id": "5.a",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Indicator 5.a.2 collects all existing national policy objectives, draft provisions, legal provisions and implementing legislation that reflect good practices in guaranteeing women�s equal rights to land ownership and/or control. \r\n\"Land ownership\" is defined as a legally recognised right to acquire, to use and to transfer landed property. \r\n\"Control over land\" is defined as the ability to make decisions over landed property. \r\nThe proxies used to monitor Indicator 5.a.2 are widely recognised as good practices in strengthening women�s rights to land ownership and/or control. \r\nThe indicator captures the following four proxies:\r\na) Does the legal framework provide for the establishment of a fund to increase women�s access to land and/or access to productive resources and services?\r\nb) Is joint titling of private property compulsory or encouraged through economic incentives for married or unmarried couples, in accordance with national law?\r\nc) In recognised customary tenure systems, does the law facilitate the recording of all interests in land (including use rights) of men and women? \r\nThe policy and legal instruments covered include draft policy documents, formally adopted policy documents, draft legislation, primary law, secondary legislation (see terminology section for detailed explanation).\r\nNota bene: The proxies are intended to capture a range of different regional contexts to reflect the universal scope of the Sustainable Development Goals. As a result, Proxy c) may not be applicable to all countries."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Information under Indicator 5.a.2 is currently being collected through FAO�s Legal Assessment Tool (LAT) for gender-equitable land tenure, which maps out the existence (in policy and legal frameworks) of four good practices for guaranteeing women�s equal rights to land ownership and/or control. \r\nIndicator 5.a.2 collects policy objectives, draft provisions, existing legal provisions and implementing legislation reflecting good practices that guarantee women�s equal rights to land ownership and/or control. Information is then computed by stage of incorporation into the policy and legal framework, using a scale from 0 to 4. Each number refers to the stage of incorporation of the indicator into the policy and legal framework, as laid out below:\r\nStage 0: Absence of all proxies in the legal framework\r\nStage 1: A draft policy document provides for the adoption of one or more proxy\r\nStage 1.5: A formally adopted policy document provides for the adoption of one or more proxy\r\nStage 2: A bill contains one or more proxy\r\nStage 3: Primary law contains one or more proxy \r\nStage 4: Secondary legislation contains one or more proxy \r\nThese stages will be determined based on the questionnaire results communicated by countries to FAO, for the purpose of reporting under Indicator 5.a.2."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "\"Land ownership\" is defined as a legally recognised right to acquire, to use and to transfer landed property. \r\n\"Control over land\" is defined as the ability to make decisions over landed property. \r\nProxy a)\r\nTitle: Does the legal framework provide for the establishment of a fund to increase women�s access to land and/or access to productive resources and services?\r\nRationale: In line with Target 5.a., the legal framework should facilitate women�s access to productive resources, as well as access to ownership and control over land. Government funds should be earmarked for that purpose and channelled through a specific body (fund). \r\nMonitoring: This proxy aims to identify any policy objectives, draft provisions, existing legal provisions and implementing legislation that commit the government to the creation and maintenance of a fund for women�s access to land and/or access to productive resources and services.\r\nProxy b)\r\nTitle: Is joint titling of private property compulsory or encouraged through economic incentives for married or unmarried couples, in accordance with national law?\r\nRationale: Legal provisions on joint ownership of private property are not always a guarantee of women�s equal rights to land ownership or control. Without the inclusion of their names on the land title, deed or certificate, women�s property rights remain insecure, particularly if they are divorced, separated or widowed. \r\nMonitoring: This proxy aims to identify any policy objectives, draft provisions, existing legal provisions and implementing legislation that:\r\n� Make joint titling of private property compulsory for married or unmarried couples\r\n� Make joint titling the default option in registration\r\n� Encourage joint titling of private property for married or unmarried couples through economic incentives such as (inter alia):\r\nWaiver of registration fees for joint registration\r\nReduced registration fees for joint registration\r\nExemption from paying registration taxes \r\nCredit incentives\r\nProxy c)\r\nTitle: In recognised customary tenure systems, does the law facilitate the recording of all interests in land (including use rights) of men and women? \r\nRationale: This proxy applies to countries that operate a dual system of land tenure (ie. a statutory system of land tenure and a formally recognised customary system of land tenure). \r\nThe terms \"all interests in land\" are understood as all the rights in or over land. They may include the right to own, use, develop and control the lands that communities possess by way of traditional ownership or other traditional occupation or use, as well as those which they have acquired. Where individual rights within a community are registered, provisions should be in place for the rights of both men and women to be registered. \r\nMonitoring: This proxy aims to identify any policy objectives, draft provisions, existing legal provisions and implementing legislation that organise the recording of customary rights to land of men and women.\r\nNota bene: Policy objectives, draft provisions, existing legal provisions and implementing legislation should facilitate the recording of the rights. Any time limits on applications, or caps on the surface area, would have the effect of restricting the ability to register these rights and should therefore be avoided."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Information under Indicator 5.a.2 is currently being collected through FAO�s Legal Assessment Tool (LAT) for gender-equitable land tenure, which maps out the existence (in policy and legal frameworks) of four good practices for guaranteeing women�s equal rights to land ownership and/or control. \r\nIndicator 5.a.2 collects policy objectives, draft provisions, existing legal provisions and implementing legislation reflecting good practices that guarantee women�s equal rights to land ownership and/or control. Information is then computed by stage of incorporation into the policy and legal framework, using a scale from 0 to 4. Each number refers to the stage of incorporation of the indicator into the policy and legal framework, as laid out below:\r\nStage 0: Absence of all proxies in the legal framework\r\nStage 1: A draft policy document provides for the adoption of one or more proxy\r\nStage 1.5: A formally adopted policy document provides for the adoption of one or more proxy\r\nStage 2: A bill contains one or more proxy\r\nStage 3: Primary law contains one or more proxy \r\nStage 4: Secondary legislation contains one or more proxy \r\nThese stages will be determined based on the questionnaire results communicated by countries to FAO, for the purpose of reporting under Indicator 5.a.2.\""
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation by stage: Stage 0: Absence of all proxies in the legal framework\r\nStage 1: A draft policy document provides for the adoption of one or more proxy\r\nStage 1.5: A formally adopted policy document provides for the adoption of one or more proxy\r\nStage 2: A bill contains one or more proxy\r\nStage 3: Primary law contains one or more proxy \r\nStage 4: Secondary legislation contains one or more proxy \r\nThese stages will be determined based on the questionnaire results communicated by countries to FAO, for the purpose of reporting under Indicator 5.a.2."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Information under Indicator 5.a.2 is currently being collected through FAO�s Legal Assessment Tool (LAT) for gender-equitable land tenure, which maps out the existence (in policy and legal frameworks) of four good practices for guaranteeing women�s equal rights to land ownership and/or control. "
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "As the custodian agency for this indicator, FAO recommends that the following steps be taken by countries for the purpose of standardised reporting under Target 5.a. \r\nStep 1: Identification of a Responsible Entity\r\nFunctions \r\nOversee the collection of information, check and validate the results, and communicate them to FAO. \r\nPossible Entities \r\nAs the Ministry responsible for upholding the rule of law, defending and promoting human rights � including gender equality � the Ministry of Justice would be in a privileged position to carry out the functions under Indicator 5.a.2. Other possible entities include Human Rights Commissions, Gender Equality Commissions or any other relevant body. \r\nStep 2: Identification of a national legal expert\r\nConsidering the legal nature of Indicator 5.a.2, the Responsible Entity should consider appointing a national legal expert to perform the legal review.\r\nRecommended expert profile: \r\nThe national legal expert should be able to demonstrate knowledge and experience in issues related to property rights in his/her country, be able to locate relevant policy and legal material pertaining to land and property rights and be fluent in English.\r\nStep 3: Expert analysis of the policy and legal framework\r\nNature of the review\r\nFor the purpose of reporting under Indicator 5.a.2, FAO recommends that the national legal expert fills out the three forms attached (in Annex).\r\nForm 1 \"Checklist of policy and legal instruments\"\r\nThis form provides a checklist of the relevant policy and legal instruments to be screened for proxies. \r\nForm 2 \"List of policy and legal instruments for reporting under Indicator 5.a.2\"\r\nThis form should be used to facilitate reporting under Indicator 5.a.2. \r\nForm 3 \"Questionnaire on Indicator 5.a.2\"\r\nThis form summarises the results of the screening.\r\nStep 4: Validation of the results by the Responsible Entity\r\nThe results of the screening should be checked and validated by the Responsible Entity, prior to communication to FAO.\r\nStep 5: Communication of the results to FAO\r\nAfter checking and validating the results, the Responsible Entity communicates Forms 1, 2 and 3 to the custodian agency, the Food and Agriculture Organization of the United Nations (FAO). It is highly recommended that at this stage the Responsible Entity also informs the national statistical authority that will have the overall responsibility in coordinating SDG reporting at national level.\r\nStep 6: Validation of final indicator results with countries\r\nFAO will compute the indicator based on the information supplied by countries. It will communicate the result back to the national legal expert and seek final confirmation before reporting the indicator at global level."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "27 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Jan-17"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Dec-17"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "FAO "
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "FAO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.fao.org/gender-landrights-database/legislation-assessment-tool/indicators/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://www.fao.org/gender-landrights-database/legislation-assessment-tool/indicators/en/\r\nRelated indicators\r\n5.a.1:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+                }
+            }
+        }
+    ]
+}

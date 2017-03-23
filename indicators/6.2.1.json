@@ -1,0 +1,111 @@
+{
+    "goal_id": "6",
+    "target_id": "6.2",
+    "description": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)\r\nUnited Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water is currently being measured by the proportion of the population using an improved basic sanitation facility at the household level which is not shared with other households and where excreta is safely disposed in situ or treated off-site. �Improved� source defined the same as used for MDG monitoring i.e. flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets. \r\nPopulation with a handwashing facility: a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "MDG target 7C called for �sustainable access� to �basic sanitation�. The JMP developed the metric of use of �improved� sanitation facilities, which are likely to hygienically separate human excreta from human contact, and has used this indicator to track progress towards the MDG target since 2000. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, acceptability, and safety. Furthermore, the safe management of faecal wastes should be considered, as discharges of untreated wastewater into the environment create public health hazards.\r\nThe above consultation concluded that post-2015 targets, which apply to all countries, should go beyond the basic level of access and address indicators of safe management of sanitation services, including dimensions of accessibility, acceptability and safety. The Expert Working Group called for analysis of faecal waste management along the sanitation chain, including containment, emptying of latrines and septic tanks, and safe on-site disposal or transport of wastes to designated treatment sites. Classification of treatment will be based on categories defined by SEEA and the International Recommendations for Water Statistics and following a laddered approach (primary, secondary and tertiary treatment).\r\nHandwashing with soap is widely agreed to be the top hygiene priority for improving health outcomes. In 2008 and 2009, the JMP supported a review of indicators of handwashing practice, and determined that the most practical approach leading to reliable measurement of handwashing in national household surveys was observation of the place where household members wash their hands and noting the presence of water and soap (or local alternative) at that location. This provides a measure of whether households have the necessary tools for handwashing and is a proxy for their behaviour. Observation by survey enumerators represents a more reliable, valid and efficient indicator for measuring handwashing behaviour than asking individuals to report their own behaviour."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Improved sanitation facilities include the following: flush or pour flush toilets to sewer systems, septic tanks or pit latrines, ventilated improved pit latrines, pit latrines with a slab, and composting toilets.\r\nSafely disposed in situ; when pit latrines and septic tanks are not emptied, the excreta may still remain isolated from human contact and can be considered safely managed. For example, with the new SDG indicator, households that use twin pit latrines or safely abandon full pit latrines and dig new facilities, a common practice in rural areas, would be counted as using safely managed sanitation services.\r\nTreated offsite; not all excreta from toilet facilities conveyed in sewers (as wastewater) or emptied from pit latrines and septic tanks (as faecal sludge) reaches a treatment plant. For instance, a portion may leak from the sewer itself or, due to broken pumping installations, be discharged directly to the environment. Similarly, a portion of the faecal sludge emptied from containers may be discharged into open drains, to open ground or water bodies, rather than being transported to a treatment plant. And finally, even once the excreta reaches a treatment plant a portion may remain untreated, due to dysfunctional treatment equipment or inadequate treatment capacity, and be discharged to the environment. For the purposes of SDG monitoring, adequacy of treatment will be assessed through consideration of both the overall treatment effectiveness and end-use/disposal arrangements.\r\nA handwashing facility with soap and water: a handwashing facility is a device to contain, transport or regulate the flow of water to facilitate handwashing. This indicator is a proxy of actual handwashing practice, which has been found to be more accurate than other proxies such as self-reports of handwashing practices."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "A framework for measuring faecal waste flows and safety factors has been developed and piloted in 12 countries (World Bank Water and Sanitation Program, 2014), and is being adopted and scaled up within the sanitation sector. This framework has served as the basis for indicators 6.2.1 and 6.3.1. Data on safe disposal and treatment are not available for all countries immediately. However, sufficient data exist to make global and regional estimates of safely managed sanitation services from 2017.\r\nPresence of a handwashing station with soap and water does not guarantee that household members consistently wash hands at key times, but has been accepted as the most suitable proxy."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Method of computation: Household surveys and censuses provide data on use of types of basic sanitation facilities listed above, as well as the presence of handwashing materials in the home. \r\nThe percentage of the population using safely managed sanitation services is calculated by combining data on the proportion of the population using different types of basic sanitation facilities with estimates of the proportion of faecal waste which is safely disposed in situ or treated off-site. \r\nThe JMP estimates access to basic sanitation facilities for each country, separately in urban and rural areas, by fitting a regression model to a series of data points from household surveys and censuses. This approach was used to report on use of �improved sanitation� facilities for MDG monitoring. The JMP is evaluating the use of alternative statistical estimation methods as more data become available.\r\nThe Methodological Note describes in more detail how estimates of the proportion of household wastewater that is safely disposed of in situ or treated off-site will be combined with data on use of different types of sanitation facilities, as recorded in the current JMP database. \r\nhttp://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Place of residence (urban/rural) and socioeconomic status (wealth, affordability) is possible for all countries. Disaggregation by other stratifiers of inequality (subnational, gender, disadvantaged groups, etc.) will be made where data permit. Sanitation services will be disaggregated by service level (including no services, basic, and safely managed services) following the JMP sanitation ladder."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The JMP method uses a simple regression model to generate time series estimates for all years including for years without data points. The JMP then shares all its estimates using its country consultation mechanism to get consensus from countries before publishing its estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The JMP doesn't publish estimates for countries for which national data are not available. Regional and global estimates are made as long as data are available for 50% of the population with the region, weighting by the latest UNPD population estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "For more details on JMP rules and methods, please consult the website: www.wssinfo.org."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "JMP estimates are based on national sources of data approved as official statistics. Differences between global and national figures arise due to differences in indicator definitions and methods used in calculating national coverage estimates. In some cases national estimates are based on the most recent data point rather than from regression on all data points as done by the JMP. In some cases national estimates draw on administrative sector data rather than the nationally representative surveys and censuses used by the JMP."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Access to water and sanitation are considered core socio-economic and health indicators, and key determinants of child survival, maternal, and children�s health, family wellbeing, and economic productivity. Drinking water and sanitation facilities are also used in constructing wealth quintiles used by many integrated household surveys to analyse inequalities between rich and poor. Access to sanitation is therefore a core indicator for most household surveys. Currently the JMP database holds over 1,600 surveys, and for over 140 countries at least five data points are available which include information about basic water and sanitation for the period 1990-2015. In high-income countries where household surveys or censuses do not usually collect information on basic access, estimates are drawn from administrative records.\r\nEstimates of excreta management will be collected from countries and used to adjust the data on use of basic sanitation facilities as needed. Administrative, population and environmental data can also be combined to estimate safe disposal or transport of excreta, when no country data are available. Data on disposal or treatment of excreta are limited but estimates for safe management of faecal wastes can be calculated based on faecal waste flows associated with the use of different types of basic sanitation facility.\r\nSince the handwashing with soap survey questions were standardized in 2009, over 50 DHS and MICS surveys have included the module. JMP published handwashing data from 12 countries in its 2014 update report, and for 54 countries in the 2015 report.\r\nThe population data used by JMP, including the proportion of the population living in urban and rural areas, are those established by the UN Population Division."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "WHO is required by World Health Assembly resolution to consult on all WHO statistics, and seek feedback from countries on data about countries and territories. Before publishing, all JMP estimates undergo rigorous country consultations facilitated by WHO and UNICEF country offices. Often these consultations give rise to in-country visits, and meetings about data reconciliations. JMP has been engaged with more than fifty countries over the last 10 years in explaining JMP estimates, and reasons for discrepancies if any. JMP has also developed an online tool to facilitate future data validation and expanded its online capabilities so that these reconciliations could be done in much more interactive and real time manner, reducing cost of reconciliations missions."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "From 2010 to present:\r\nAsia and Pacific: Most countries (at least 80% of the countries covering 90% of the population from the region)\r\nAfrica: Many countries (at least 60% of the countries covering 80% of the population from the region)\r\nLatin America and the Caribbean: Most countries (at least 80% of the countries covering 90% of the population from the region)\r\nEurope, North America, Australia, New Zealand and Japan: Most countries (at least 90% of the countries covering over 90% of the population from the region)\r\nNote: Data from 2000 to 2010 are available for roughly 50% of countries, covering at least 50% of the population in all regions. \r\nPreliminary estimates are available for 140 countries: http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/11/090224b084172a75/1_0/Original/The0costs0of0m0iene000data0catalog.xlsx"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Time series data are available for the basic sanitation level of service over the period 1990-2015. These serve as the foundation for the safely managed sanitation service indicator. Some elements of safe management (e.g. wastewater treatment) were not collected during the MDG period and trend analysis will only be possible several years into the SDGs. (From 1990 to 2015)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The current biennial data collection cycle began in early 2016 and will run through the beginning of 2017. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The baseline SDG report is due mid-2017 to feed into the SG�s report to be released in July 2017. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices, Ministries of water, sanitation, health, environment. Regulators of water and sanitation services."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nWHO/UNICEF\r\nDescription:\r\nWHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.wssinfo.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Progress on sanitation and drinking water 2015 update and MDG assessment. New York: UNICEF/WHO, 2015. http://www.wssinfo.org/fileadmin/user_upload/resources/JMP-Update-report-2015_English.pdf \r\nJMP website: www.wssinfo.org.\r\nJMP Methodological Note:\r\nhttp://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf.\r\nJMP Task Force on Methods Final Report. New York: WHO/UNICEF, December 2014. \r\nhttp://www.wssinfo.org/task-forces/\r\nGuidelines for drinking water quality, fourth edition. Geneva: WHO; 2011.\r\nhttp://www.who.int/water_sanitation_health/publications/2011/dwq_guidelines/en/ \r\nPreliminary estimates for 140 countries on the use of safely managed drinking water services were published in a recent report produced in collaboration between the World Bank and the JMP. The report and data sources are available here: http://www.worldbank.org/en/topic/water/publication/the-costs-of-meeting-the-2030-sustainable-development-goal-targets-on-drinking-water-sanitation-and-hygiene\r\nRam, P., Practical Guidance for Measuring Handwashing Behaviour: 2013 update, World Bank Water Supply and Sanitation Programme, 2013. \r\nhttp://www.wsp.org/sites/wsp.org/files/publications/WSP-Practical-Guidance-Measuring-Handwashing-Behavior-2013-Update.pdf\r\nRelated indicators\r\nAll targets under Goal 6, as well as targets 1.2, 1.4, 2.2, 3.2, 3.8, 3.9, 4a, 5.4 and 11.1"
+                }
+            }
+        }
+    ]
+}

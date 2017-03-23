@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.19",
+    "description": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Statistics Division (UNSD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This information only refers to 17.19.2 (a) \r\nThe indicator tracks the proportion of countries that have conducted at least one population and housing census in the last 10 years. This also includes countries which compile their detailed population and housing statistics from population registers, administrative records, sample surveys or other sources or a combination of those sources."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Population and housing censuses are one of the primary sources of data needed for formulating, implementing and monitoring policies and programmes aimed at inclusive socioeconomic development and environmental sustainability. Population and housing censuses are an important source for supplying disaggregated data needed for the measurement of progress of the 2030 Agenda for Sustainable Development, especially in the context of assessing the situation of people by income, sex, age, race, ethnicity, migratory status, disability and geographic location, or other characteristics.\r\nIn recognition of the above, the ECOSOC resolution E/RES/2015/10 establishing the 2020 World Population and Housing Census Programme urges Member States to conduct at least one population and housing census during the period from 2015 to 2024, taking into account international and regional recommendations relating to population and housing censuses and giving particular attention to advance planning, cost efficiency, coverage and the timely dissemination of, and easy access to, census results for national stakeholders, the United Nations and other appropriate intergovernmental organizations in order to inform decisions and facilitate the effective implementation of development plans and programmes.\r\nThe indicator tracks the proportion of countries that have conducted at least one population and housing census in the last 10 years and hence provides information on the availability of disaggregated population and housing data needed for the measurement of progress of the 2030 Agenda for Sustainable Development,."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "NA"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator could be disaggregated by geographic region."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "ECOSOC resolution E/RES/2015/10 establishing the 2020 World Population and Housing Census Programme requests the Secretary-General to \"monitor and regularly report to the Statistical Commission on the implementation of the Programme\". In response to this request UNSD regularly monitors the progress of implementation of population and housing censuses across Member States. UNSD sends a survey to all countries soliciting detailed metadata on census methods at three points (beginning, mid, end) over the 10-year spanning a census decade (currently the 2020 census round covering the years 2015-2024). In addition, information is also collected through the annual questionnaires sent to countries as part of the UN Demographic Yearbook collection."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Office or Census Agency"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "NA"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://unstats.un.org/unsd/demographic/sources/census/wphc/default.htm"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Resolution adopted by the ECOSOC on 10 June 2015 establishing the 2020 World Population and Housing Census Programme\r\nUnited Nations Principles and Recommendations for Population and Housing Censuses, Rev.3"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.4",
+    "description": "Suicide mortality rate",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The Suicide mortality rate as defined as the number of suicide deaths in a year, divided by the population, and multiplied by 100 000."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Mental disorders occur in all regions and cultures of the world. The most prevalent of these disorders are depression and anxiety, which are estimated to affect nearly 1 in 10 people. At its worst, depression can lead to suicide. In 2012, there were over 800,000 estimated suicide deaths worldwide. Suicide was the second leading cause of deaths among young adults aged 15�29 years, after road traffic injuries."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The complete recording of suicide deaths in death-registration systems requires good linkages with coronial and police systems, but can be seriously impeded by stigma, social and legal considerations, and delays in determining cause of death. Less than one half of WHO Member States have well-functioning death-registration systems that record causes of death."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Suicide mortality rate (per 100,000 population) = (Number of suicide deaths in a year x 100,000) / Mid-year population for the same calendar year\r\nThe methods used for the analysis of causes of death depend on the type of data available from countries:\r\nFor countries with a high-quality vital registration system including information on cause of death, the vital registration that member states submit to the WHO Mortality Database were used, with adjustments where necessary, e.g. for under-reporting of deaths.\r\nFor countries without high-quality death registration data, cause of death estimates are calculated using other data, including household surveys with verbal autopsy, sample or sentinel registration systems, special studies and surveillance systems. In most cases, these data sources are combined in a modelling framework."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex, age group"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "For countries with high-quality cause-of-death statistics, interpolation/extrapolation was done for missing country-years; for countries with only low-quality or no data on causes of death, modelling was used. Complete methodology may be found here:\r\nWHO methods and data sources for global causes of death, 2000�2012 (http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf?ua=1)"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Country estimates of number of deaths by cause are summed to obtain regional and global aggregates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "In countries with high quality vital registration systems, point estimates sometimes differ primarily for two reasons: 1) WHO redistributes deaths with ill-defined cause of death (i.e. injuries of unknown intent, ICD codes Y10-Y34 and Y872) to suicide; and 2) WHO corrects for incomplete death registration."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The preferred data source is death registration systems with complete coverage and medical certification of cause of death, coded using the international classification of diseases (ICD). The ICD-10 codes for suicide are: X60-X84, Y87.0. Other possible data sources include household surveys with verbal autopsy, sample or sentinel registration systems, special studies and surveillance systems."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "WHO conducts a formal country consultation process before releasing its cause-of-death estimates."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Around 70 countries currently provide WHO with regular high-quality data on mortality by age, sex and causes of death, and another 40 countries submit data of lower quality. However, comprehensive cause-of-death estimates are calculated by WHO systematically for all of its Member States (with a certain population threshold) every 3 years."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "WHO sends an e-mail two times per year requesting tabulated death registration data (including all causes of death) from Member States. Countries submit annual cause-of-death statistics to WHO on an ongoing basis. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "End of 2016"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices and/or ministries of health."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/gho/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "WHO indicator definition (http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=4664)\r\nWHO methods and data sources for global causes of death, 2000�2012 (http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf?ua=1)\r\nWorld Health Assembly Resolution WHA66.8 (2013): Comprehensive mental health action plan 2013�2020, including Appendix 1: Indicators for Measuring Progress Towards Defined Targets of the Comprehensive Mental Health Action Plan 2013-2020 (http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R8-en.pdf?ua=1)"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.8",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The frequency rates of fatal and non-fatal occupational injuries provide information on the number of cases of fatal and non-fatal occupational injury per hours worked by the concerned population during the reference period. It is a measure of the risk of having a fatal or a non-fatal occupational injury based on the duration of exposure to adverse work-related factors."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator provides valuable information that could be used to formulate policies and programmes for the prevention of occupational injuries, diseases and deaths. It could also be used to monitor the implementation of these programmes and to signal particular areas of increasing risk such as a particular occupation, industry or location. Although the principal objective of this indicator is to provide information for prevention purposes, it may be used for a number of other purposes, such as to identify the occupations and economic activities whit the highest risk of occupational injuries; to detect changes in the pattern and occurrence of occupational injuries, so as to monitor improvements in safety and reveal any new areas of risk; to inform employers, employers� organizations, workers and workers� organizations of the risks associated with their work and workplaces, so that they can take an active part in their own safety; to evaluate the effectiveness of preventive measures; to estimate the consequences of occupational injuries, particularly in terms of days lost or costs; and to provide a basis for policy-making aimed at encouraging employers, employers� organizations, workers and workers� organizations to introduce accident prevention measures."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Definitions of the main concepts presented below are derived from the Resolution concerning statistics of occupational injuries (resulting from occupational accidents), adopted by the 16th ICLS in 1998 (http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_087528/lang--en/index.htm).\r\nOccupational accident: an unexpected and unplanned occurrence, including acts of violence, arising out of or in connection with work which results in one or more workers incurring a personal injury, disease or death. Occupational accidents are to be considered travel, transport or road traffic accidents in which workers are injured and which arise out of or in the course of work; that is, while engaged in an economic activity, or at work, or carrying out the business of the employer.\r\nOccupational injury: any personal injury, disease or death resulting from an occupational accident. An occupational injury is different from an occupational disease, which comes as a result of an exposure over a period of time to risk factors linked to the work activity. Diseases are included only in cases where the disease arose as a direct result of an accident. \r\nWorkers in the reference group: workers in the reference group refer to the average number of workers in the particular group under consideration and who are covered by the source of the statistics on occupational injuries (for example, those of a specific sex or in a specific economic activity, occupation, region, age group, or any combination of these, or those covered by a particular insurance scheme, accident notification systems, or household or establishment survey).\r\nFatal occupational injury: an occupational injury leading to death within one year of the day of the occupational accident.\r\nCase of fatal occupational injury: the case of a worker fatally injured as a result of one occupational accident, and where death occurred within one year of the day of the accident."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There may be problems of under reporting of occupational injuries, and proper systems should be put in place to ensure the best reporting and data quality. Under reporting is thought to be present in countries at all levels of development, but may be particularly problematic in some developing countries. Data users should be aware of this issue when analyzing the data. \r\nDouble-counting of cases of occupational injury may also happen in cases where data from several registries (records kept by different agencies, for example) are consolidated to have more comprehensive statistics.\r\nBecause data quality issues may be present, it may be more relevant to analyze indicator trends rather than levels. When measured over a period of time, the data can reveal progress or deterioration in occupational safety and health, and thus point to the effectiveness of prevention measures. This indicator is volatile and strong annual fluctuations may occur due to unexpected but significant accidents or national calamities. The underlying trend should therefore be analysed."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The frequency rates of fatal and non-fatal occupational injuries will be calculated separately, since statistics on fatal injuries tend to come from a different source than those on non-fatal injuries, which would make their sum into total occupational accidents inaccurate.\r\nThe fatal occupational injury frequency rate is calculated as the number of new cases of fatal injury during the reference year divided by the total number of hours worked by workers in the reference group during the reference year, multiplied by 1 000 000. \r\nSimilarly, the non-fatal occupational injury frequency rate is calculated as the number of new cases of non-fatal injury during the reference year divided by the total number of hours worked by workers in the reference group during the reference year, multiplied by 1 000 000. \r\nIdeally, the denominator should be the number of hours actually worked by workers in the reference group. When this is not possible, the denominator can be calculated on the basis of normal hours of work taking into account entitlements to periods of paid absence from work, such as paid vacations, paid sick leave and public holidays. \r\nIf the data needed to calculate frequency rates is not available, incidence rates may be calculated instead.\r\nThe fatal occupational injury incidence rate is calculated as the number of new cases of fatal injury during the reference year divided by the average number of workers in the reference group during the reference year, multiplied by 100 000.\r\nSimilarly, the non-fatal occupational injury incidence rate is calculated as the number of new cases of non-fatal injury during the reference year divided by the average number of workers in the reference group during the reference year, multiplied by 100 000.\r\nIn calculating the average number of workers, the number of part-time workers should be converted to full-time equivalents. For the calculation of rates, the numerator and the denominator should have the same coverage. For example, if self-employed persons are not covered by the source of statistics on fatal occupational injuries, they should also be taken out of the denominator."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator should be disaggregated by both sex and migrant status.\r\nWherever possible, it would also be useful to have information disaggregated by economic activity and occupation."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The recommended data sources are different types of administrative records, such as records of national systems for the notification of occupational injuries (labour inspection records and annual reports; insurance and compensation records, death registers), supplemented by household surveys (especially in order to cover informal sector enterprises and the self-employed) and/or establishment surveys.\r\nThe metadata should clearly specify (i) whether the statistics relate to cases of occupational injury which have been reported (to an accident notification system or to an accident compensation scheme), compensated (by an accident insurance scheme) or identified in some other way (for example through a survey of households or establishments) and (ii) whether cases of occupational disease and cases of injury due to commuting accidents are excluded from the statistics, as recommended."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The ILO has data on either frequency or incidence rates of fatal occupational injuries for 117 countries; and on either frequency or injury rates of non-fatal occupational injuries for 89 countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The ILO Department of Statistics sends out its annual questionnaire of labour statistics on the second quarter of every year, requesting for data referring to the previous calendar year, with a view to receiving, processing and disseminating the corresponding statistics as soon as possible. Statistics on occupational injuries are compiled through these means."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The ILO Department of Statistics'online database ILOSTAT is continuously updated to include newly received and processed statistics. In general, statistics on occupational injuries are available in ILOSTAT for most countries by the 3rd or at most 4th quarter of the year following the year of reference of the statistics. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Labour Ministries, Labour Inspection, National Insurances, and/or National Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ILOSTAT: \r\nwww.ilo.org/ilostat\r\nDecent Work Indicators Manual: \r\nhttp://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nResolution concerning statistics of occupational injuries (resulting from occupational accidents) adopted by the 16th ICLS in 1998: \r\nhttp://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_087528/lang--en/index.htm"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.16",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Organisation for Economic Co-operation and Development (OECD)\r\nUnited Nations Development Programme (UNDP)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator tracks the number of countries reporting progress in multi stakeholder monitoring frameworks that track effective development cooperation, to support the achievement of sustainable development goals (SDGs).  "
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The frameworks included in this indicator measure the quality and effectiveness of the relationship between development partners. The better the relationship between all the relevant partners, the better the global partnership for sustainable development.\r\nThe indicator measures enhancement of the global partnership for sustainable development by looking at progress on a set of indicators that measure how development partners are working together. \r\nThe indicator takes account of the need to capture complementarity of multi-stakeholder partnerships by looking at frameworks that are led by countries but include the participation of all relevant stakeholders. As the frameworks considered include multi-stakeholder participation in review of data, the indicator captures mobilization of expertise. The frameworks capture the quality of development cooperation with higher quality cooperation supporting mobilization of cooperation in the form of expertise, technology and finance. \r\nReflecting the spirit of the global partnership for sustainable development, and the universal nature of the SDGs, the collected data also monitors the contribution and behaviour of developed countries in achieving more effective, inclusive multi-stakeholder partnerships to support and sustain the implementation of the 2030 Agenda, by measuring the quality of their development efforts."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Using a minimal definition, \"multi-stakeholder development effectiveness monitoring frameworks\" that track effective development cooperation are monitoring frameworks: whose indicators have been agreed on a voluntary basis; whose indicators measure the strength of the relationship between development actors; where data collection and review is led by the countries themselves; and where participation in data collection and review involves relevant multi-stakeholder representing, at minimum, the public sector, the private sector and civil society organizations.\r\nThe Global Partnership for Effective Development Cooperation (GPEDC) monitoring framework is an example of existing development effectiveness monitoring frameworks. There are other complementary efforts, such as the ECOSOC Development Cooperation Forum (DCF) mutual accountability survey. Emerging and future monitoring frameworks that fit the above definition, such as recent efforts to track South-South Cooperation by SEGIB, could also be considered."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The design of the indicator has practical benefits:  \r\n(a) the indicator allows for relevant monitoring frameworks to be updated in line with evolving commitments and country specific context without affecting the spirit of the indicator;\r\n(b) the indicator does not presume a globally-set multi-stakeholder framework, acknowledging the diversity of complementary efforts supporting effective development cooperation;\r\n(c) the indicator allows participating countries to choose whether they would like to report as a provider of development co-operation, as a recipient, or both. \r\nData collection for the GPEDC monitoring framework currently covers about 80 developing countries for the 2015-2016 period. Progress of developed countries in implementing development effectiveness commitments is captured through their partnership behaviour in those developing countries. Depending on each case, middle income countries that currently are both recipient and providers of development cooperation opt to report in their role as recipient and/or provider of development cooperation. Other developing and/or developed countries could be included through their future participation in the OECD and UNDP led data collection, or though their reporting to complementary monitoring frameworks on a regular basis."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "To reflect the universal nature of target 17.16 this indicator is presented as the global aggregate number of countries. For any country reporting towards one (or more) multi-stakeholder development effectiveness framework(s), it is considered to be reporting progress when, for the year of reference, the number of indicators within the framework(s) that experienced a positive trend is greater than the number of indicators that experienced a negative trend (as compared to the previous reporting round).\r\nWhen a country meets and sustains all targets for the indicators it reports on (i.e. it is logically impossible to make further progress) it should be considered as \"making progress\"."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator presented as a global aggregate is generated through a bottom-up approach whereby data is collected at the country level and can therefore be disaggregated back at the level of countries (for both development cooperation providers and recipients) for national analysis and mutual dialogue. The data can also be further disaggregated according to individual indicators (i.e. specific dimensions of effective development cooperation) that are included within the multi- stakeholder frameworks.\r\nTo foster regional policy dialogue, disaggregation at the regional level is possible and encouraged. Some existing platforms are already using the evidence for regional monitoring, learning and policy discussions (e.g. NEPAD in Africa, the Asia-Pacific Development Effectiveness Facility in Asia-Pacific, the Pacific Islands Forum Secretariat, the UN Regional Economic Commissions).  "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "There is no treatment done for missing values. However, missing information is highlighted during data validation processes and stakeholders are asked to fill in these gaps. \r\nAn estimate of the representativeness of the sample is calculated. This estimate of coverage relies on Country Programmable Aid from the OECD Credit Reporting System."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "No imputation is done for missing values. However, missing information is highlighted during data validation processes and stakeholders are asked to fill in these gaps.\r\nAn estimate of the representativeness of the sample is calculated. This estimate of coverage relies on Country Programmable Aid from the OECD Credit Reporting System."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional estimates are calculated as the simple sum of the number of countries who show progress within the region. \r\nLikewise, global estimates are calculated as the simple sum of the number of countries in the world who show progress."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The national figures are directly aggregated to come up with global estimates. An estimate of the representativeness of the sample is also calculated."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "OECD and UNDP are currently supporting about 80 developing countries in collecting relevant data on a biennial basis through the GPEDC monitoring framework, and these organisations lead data aggregation and quality assurance at the global level. In addition, countries are increasingly institutionalising the data collection process within their national aid management systems and are reporting on a yearly basis.   \r\nComplementarily, the United Nations Department of Economic and Social Affairs has been conducting a regular survey for the Development Cooperation Forum, in cooperation with UNDP, to identify national progress in mutual accountability and transparency. Survey results are assessed in comprehensive studies, informing global monitoring and providing practical suggestions for improving development results. Synergies with the measurement of indicator 7 of the GPEDC monitoring framework are being used. Other complementary sources of data (i.e. additional multi- stakeholder frameworks) may be incorporated in the future to provide a broader picture of progress made by countries towards development effectiveness in support of SDG implementation.  "
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "(i) For the data collection process of the Global Partnership's monitoring exercise, a national coordinator is assigned from the country government. S/he typically comes from the Ministry of Foreign Affairs or the Ministry of Planning. \r\n(ii) The national coordinator in turn consults with other stakeholders (including country offices of providers of development co-operation, Civil Society Organisations, the private sector, and trade unions) to gather and validate data.\r\nThe data is finally validated by headquarters offices of providers of development co-operation.\r\n(iii) No adjustments are made to submitted data, given that the validation process needs to stay at country level. However, inconsistencies or possible problematic values are highlighted and sent back to national co-ordinators for revision."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Global aggregates are available for the 2006, 2008, and 2011 surveys on monitoring the Paris Declaration on Aid Effectiveness, as well as the 2013 2014 GPEDC monitoring exercise. The 2015-2016 GPEDC monitoring results will be available in September 2016.  \r\nBelow is a breakdown of countries monitored in the 2005, 2007, 2010, and 2013 monitoring rounds by region. The indicator, which measures progress, considers those countries that participated in consecutive monitoring rounds.\r\nYear Region Number\r\n2005 Caucasus and Central Asia 1\r\n2005 Developed regions 27\r\n2005 Eastern Asia 3\r\n2005 Latin America & the Caribbean 5\r\n2005 Northern Africa 1\r\n2005 South-eastern Asia 2\r\n2005 Southern Asia 3\r\n2005 Sub-Saharan Africa 19\r\n2005 Western Asia 3\r\n2007 Caucasus and Central Asia 1\r\n2007 Developed regions 31\r\n2007 Eastern Asia 3\r\n2007 Latin America & the Caribbean 8\r\n2007 Northern Africa 2\r\n2007 Oceania 1\r\n2007 South-eastern Asia 5\r\n2007 Southern Asia 3\r\n2007 Sub-Saharan Africa 29\r\n2007 Western Asia 5\r\n2010 Caucasus and Central Asia 3\r\n2010 Developed regions 32\r\n2010 Eastern Asia 3\r\n2010 Latin America & the Caribbean 12\r\n2010 Northern Africa 2\r\n2010 Oceania 7\r\n2010 South-eastern Asia 7\r\n2010 Southern Asia 4\r\n2010 Sub-Saharan Africa 38\r\n2010 Western Asia 4\r\n2013 Caucasus and Central Asia 2\r\n2013 Developed regions 35\r\n2013 Eastern Asia 2\r\n2013 Latin America & the Caribbean 5\r\n2013 Northern Africa 2\r\n2013 Oceania 7\r\n2013 South-eastern Asia 5\r\n2013 Southern Asia 4\r\n2013 Sub-Saharan Africa 22\r\n2013 Western Asia 6"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data collection currently ongoing with cycle to be completed in early August 2016. The following monitoring round is planned by 2018-2019. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Data to be released in October 2016. Afterwards, a bi-annual monitoring cycle will take place. The following data release will take place in 2018-2019. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nRepresentatives from country governments, typically from the Ministry of Planning or the Ministry of Foreign Affairs, are responsible for submitting data to the OECD. These representatives coordinate the data collection process at the national level by consolidating data and inputs from providers of development co-operation, Civil Society Organisations, the private sector, and trade unions.\r\nDescription:\r\nRepresentatives from country governments, typically from the Ministry of Planning or the Ministry of Foreign Affairs, are responsible for submitting data to the OECD. These representatives coordinate the data collection process at the national level by consolidating data and inputs from providers of development co-operation, Civil Society Organisations, the private sector, and trade unions."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "OECD and UNDP jointly compile and report the data at the global level."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://effectivecooperation.org/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Coppard, D. and C. Culey (2015). The Global Partnership for Effective Development Co-operation�s Contribution to the 2030 Agenda for Sustainable Development. Plenary Session 1 Background Paper. Busan Global Partnership Forum, Korea.\r\nEspey, Jessica; K. Walecik and M. K�hner (2015). Follow-up and Review of the SDGs: Fulfilling our Commitments. Sustainable Development Solutions Network: A Global Initiative for the United Nations. New York: SDSN.\r\nGPEDC (2015). Monitoring Guide 2015-2016. New York/Paris: GPEDC. Accessed at www.effectivecooperation.org  \r\nHazlewood, P. (2015). Global Multi-stakeholder Partnerships: Scaling Up Public-Private Collective Impact for SDGs. Independent Research Forum, Background Paper 4: IRF2015.\r\nOcampo, J.A. and G�mez, N. (2014). Accountable and Effective Development Cooperation in a Post-2015 era. Background Study 3: Accountability for Development Cooperation. ECOSOC: DCG Germany High-Level Symposium.\r\nOcampo, Jose Antonio (2015). A Post-2015 Monitoring and Accountability Framework. UNDESA: CDP Background Paper No. 27. ST/ESA/2015/CDP/27\r\nRelated indicators\r\n17.15 and 5c:"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.b",
+    "description": "Proportion of medium and high-tech industry value added in total value added",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Industrial Development Organization (UNIDO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of medium and high-tech industry value added in total value added shows  the level of technological intensity of manufacturing in an economy. It is based on classification of industry into high, high-medium, low-medium and low technology sectors. Designation of an industry to high or medium level of technology is determined by Research and Development (R&D) intake in manufacturing value added. Ahigher the share of R&D expenditure means a higher level of technological intensity."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator captures the innovation and technology endowment in manufacturing. It reveals the level of production technology in manufacturing of an economy, which makes it highly policy relevant indicator"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Increase in the share of medium high and high technology (MHT) sectors is regarded as the structural change to technologically intensive industries. Labour productivity in high-technological sectors are relatively high, thus the products are more competitive in world market. Increasing share of MHT sectors reflect the impact of innovation."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Value added data should be reported at least at 3-digit ISIC for compiling medium high and high technology (MHT) values"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is calculated as the share of the sum of the value added of MHT sectors to the total value added of manufacturing."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator synthesizes the contribution of several sectors. Data can be presented at regional level"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "UNIDO Standard methodology used for INDSTAT database applies"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "No imputation is carried out if the data are missing for entire country or region. Values might be projected if data were available for earlier periods."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "No complex mathematical statistical method employed. Summing up country values to the respective regions."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Conversion to USD, difference in ISIC combination may cause discrepancy between national and international figures."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are obtained from NSOs collected by them through annual industrial surveys"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "Annual industrial surveys"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Data are collected using General Industrial Statistics Questionnaire which are filled by NSOs and submitted to UNIDO annually."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are available from the annual industrial survey. INDSTAT database of UNIDO contains time series data for more than 170 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2000 onwards"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are collected annually from NSOs"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "March/April 2017"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistical offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUNIDO\r\nDescription:\r\nUNIDO (OECD provides data to UNIDO for OECD countries)"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unido.org/statistics"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "UNIDO Publication - The industrial competitiveness of Nations 2013\r\nCompetitive Industrial Performance (CIP) report 2015"
+                }
+            }
+        }
+    ]
+}

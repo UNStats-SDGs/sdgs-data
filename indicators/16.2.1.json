@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.2",
+    "description": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month is currently being measured by the Proportion of children aged 1-14 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "All too often, children are raised using methods that rely on physical force or verbal intimidation to punish unwanted behaviours and encourage desired ones. The use of violent discipline with children represent a violation of their rights. Physical discipline and psychological aggression tend to overlap and frequently occur together, exacerbating the short- and long-term harm they inflict. The consequences of violent discipline range from immediate effects to long-term damage that children carry well into adulthood. Violent discipline is the most widespread, and socially accepted, type of violence against children."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "In Multiple Indicator Cluster Surveys (MICS), psychological aggression refers to the action of shouting, yelling or screaming at a child, as well as calling a child offensive names, such as �dumb� or �lazy�. Physical (or corporal) punishment is an action intended to cause physical pain or discomfort, but not injuries. Physical punishment is defined as shaking the child, hitting or slapping him/her on the hand/arm/leg, hitting him/her on the bottom or elsewhere on the body with a hard object, spanking or hitting him/her on the bottom with a bare hand, hitting or slapping him/her on the face, head or ears, and beating him/her over and over as hard as possible."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There is an existing, standardized and validated measurement tool (the Parent-Child version of the Conflict Tactics Scale, or CTSPC) that is widely accepted and has been implemented in a large number of countries, including high-income countries. \r\nDefinitions of both physical punishment and psychological aggression will need to be very clearly defined for countries but this should not be a problem as there is a wealth of available literature and research on the violent punishment of children and General Comment No.13 on the Convention of the Rights of the Child (CRC) also provides a definition for \"corporal\" or \"physical\" punishment as well as \"mental violence\"."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of children aged 1-17 years who are reported to have experienced any physical punishment and/or psychological aggression by caregivers in the past month divided by the total number of children aged 1-17 in the population multiplied by 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex, age, income, place of residence, geographic location"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only, but are not published as country-level estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as UNICEF-supported MICS and DHS that have been collecting data on this indicator in low- and middle-income countries since around 2005. In some countries, such data are also collected through other national household surveys."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally representative and comparable prevalence data are currently available for a sub-sample of children aged 1-14 years for 73 low- and middle-income countries "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (for the most part)"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/violent-discipline.html"
+                }
+            }
+        }
+    ]
+}

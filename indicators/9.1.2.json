@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.1",
+    "description": "Passenger and freight volumes, by mode of transport",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Civil Aviation Organization (ICAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Passenger and freight volumes is the sum of the passenger and freight volumes reported for the air carriers in terms of number of people and metric tonnes of cargo respectively."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all. Trans-border infrastructure development is best captured by passenger and freight volumes moved by Member States and Regions. A growth in passenger and freight volumes shows a robust infrastructure development happening in States and Regions along with the resultant socio-economic benefit. Air Transport is particularly important not only for the economic and job benefits but also because it is one of the only mode of transport that can be relied on during emergencies and disease outbreaks to reach food, medicines, medical personnel, vaccines and other supplies speedily to the affected persons in the affected areas."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The International Civil Aviation Organization (ICAO) through its Statistics Division have established standard methodologies and definitions to collect and report traffic (passenger and freight volume) data related to air transport. These standards and methodologies have been adopted by the 191 Member States of ICAO and also by the Industry stakeholders i,e air carriers and airports. The data of ICAO is used by States and also the World Bank for its development indicators. ICAO uses Air Transport Reporting Forms A, AS, B and C to arrive at the passenger and freight volumes for air transport.\r\nPrecise definition of all different concepts and metadata related to Air Transport Reporting Forms A, AS, B and C to arrive at the passenger and freight volumes for air transport. approved by the ICAO Statistics Division and Member States can be found at the ICAO website given below -\r\nhttp://www.icao.int/sustainability/pages/eap-sta-excel.aspx/"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Coverage is for all ICAO 191 Member States"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is calculated through a sum of the passenger and freight volumes reported for the air carriers through ICAO Air Transport Reporting Forms and grouped by Member States of ICAO"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator can be dis-aggregated by -Country, Country pair, City Pair, Region, Segment (International and domestic)"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "ICAO Air Transport Reporting Forms approved by the Statistics Division of ICAO and its Member States has been used to define standards, methodologies and to collect aviation data since the 1950's. ICAO definitions and metadata is also used by the Aviation Industry as the basis of collecting data and conducting analysis."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data already provided for all 191 Member States that have air transport activities"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 1970's\r\nEvery year by June 10th data for the previous year is available to ICAO Member States at a country level "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nICAO\r\nDescription:\r\nInternational Civil Aviation organisation (ICAO) . Data provided to ICAO by ICAO Member States from its Ministry of Transport, Infrastructure or Aviation"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "International Civil Aviation organisation (ICAO)"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.icao.int"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "NA"
+                }
+            }
+        }
+    ]
+}

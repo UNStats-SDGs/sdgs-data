@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.4",
+    "description": "CO2 emission per unit of value added",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Industrial Development Organization (UNIDO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Carbon dioxide (CO2) emission per unit of value added is a ratio indicator between carbon dioxide emissions and value added. \r\nThe indicator CO2 emission per unit of value added is currently being measured by CO2 emission per GDP PPP."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Carbon dioxide (CO2) emission per unit of value added is a universal indicator for measuring the impact of industrial production on environment. It captures the intensity of energy use, energy efficiency of production technology and most importantly use of fossil fuels."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Carbon dioxide (CO2) emission accounts for around 80% of all GHG emission from the manufacturing processes. This is an important measure not only for emission but also for use and type of energy consumed. CO2 emission refers to mainly fossil fuel based energy. This measure reflects the progress made by countries from fossil-fuel based to renewable energy sources. Data can be aggregated to country groups and dis-aggregated by industry sector"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Collection of energy and emission data is not systematized in many countries. National data source can be statistical office, Energy Departments and Environment agencies. Energy consumption data and value added data are coming from different data sources which may encounter the compatibility problem."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Carbon dioxide (CO2) emissions are estimated from data on energy consumption.It is computed as: amount of CO2 emission (in physical measurement unit such as tonne) divided by value added (in US$)\r\nThis indicator can also be presented as CO2 emission per unit of output."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data can be presented by industry; by country group"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "A methodological guideline on imputation method exists which can be shared with IAEG-SDG"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "No imputation is allowed if a the value is missing for entire country or region. It can only be projected from the data reported for the previous years."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimated are derived from the total of countries in the country group. Weights are implicit."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Difference may arise 1) if the country has not submitted energy consumption data adequately dis-aggregated by sector or by energy sources 2) due to conversion of value data into USD"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Energy consumption and value added data are available for more than 150 countries from UNIDO database and UNSD energy database as well as International Energy Agency (IEA) database. Emission data are directly reported by NSOs in many cases."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "UNIDO database; UNSD energy database; IEA database; NSOs (emmissions data)"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNIDO Data collection is carried out regularly through General industrial statistics questionnaire"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Energy consumption and value added data are available for more than 150 countries from UNIDO MVA database and UNSD energy database as well as International Energy Agency (IEA) database"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2000 onwards"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data collection is carried out by receiving data electronically throughout the year."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Data are updated annually. New release generally takes place around March April. (March/April 2017)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nNSOs and national energy data collecting agencies\r\nDescription:\r\nNational statistical offices and national energy data collecting agencies"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUNIDO\r\nDescription:\r\nUNIDO compiles the data using its source for value added data and IEA for energy consumption and CO2 data"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unido.org/statistics"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "This is a new task and a functional database in under development. Value added data are obtained from:\r\nstat.unido.org"
+                }
+            }
+        }
+    ]
+}

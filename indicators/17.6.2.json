@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.6",
+    "description": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Telecommunication Union (ITU)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator fixed Internet broadband subscriptions, by speed, refers to the number of fixed-broadband subscriptions to the public Internet, split by advertised download speed.\r\nThe indicator is currently broken down by the following subscription speeds:\r\n- 256 kbit/s to less than 2 Mbit/s subscriptions: Refers to all fixed broadband Internet subscriptions with advertised downstream speeds equal to, or greater than, 256 kbit/s and less than 2 Mbit/s.\r\n- 2 Mbit/s to less than 10 Mbit/s subscriptions: Refers to all fixed -broadband Internet subscriptions with advertised downstream speeds equal to, or greater than, 2 Mbit/s and less than 10 Mbit/s.\r\n- Equal to or above 10 Mbit/s subscriptions (4213_G10). Refers to all fixed -broadband Internet subscriptions with advertised downstream speeds equal to, or greater than, 10 Mbit/s."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The Internet has become an increasingly important tool to provide access to information, and can help foster and enhance regional and international cooperation on, and access to, science, technology and innovations, and enhance knowledge sharing. High-speed Internet access is important to ensure that Internet users have quality access to the Internet and can take advantage of the growing amount of Internet content � including user-generated content �, services and information.\r\nWhile the number of fixed-broadband subscriptions has increased substantially over the last years and while service providers offer increasingly higher speeds, fixed Internet broadband can vary tremendously by speed, thus affecting the quality and functionality of Internet access. Many countries, especially in the developing world, have not only a very limited amount of fixed-broadband subscriptions, but also at very low speeds. This limitation is a barrier to the Target 17.6 and the indicator highlights the potential of the Internet (especially through high-speed access) to enhance cooperation, improve access to science, technology and innovation, and share knowledge. The indicator also highlights the importance of Internet use as a development enabler and helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all development domains. Information on fixed broadband subscriptions by speed will contribute to the design of targeted policies to overcome those divides."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Fixed Internet broadband subscriptions refer to subscriptions to high-speed access to the public Internet (a TCP/IP connection), at downstream speeds equal to, or greater than, 256 kbit/s. This includes cable modem, DSL, fibre-to-the-home/building, other fixed (wired)-broadband subscriptions, satellite broadband and terrestrial fixed wireless broadband. This total is measured irrespective of the method of payment. It excludes subscriptions that have access to data communications (including the Internet) via mobile-cellular networks. It should include fixed WiMAX and any other fixed wireless technologies. It includes both residential subscriptions and subscriptions for organizations.\r\nThe Internet is a worldwide public computer network. It provides access to a number of communication services including the World Wide Web and carries e-mail, news, entertainment and data files."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Since most Internet service providers offer plans linked to download speed, the indicator is relatively straightforward to collect. Countries may use packages that do not align with the speeds used for this group of indicators. Countries are encouraged to collect the data in more speed categories so as to allow aggregation of the data according to the split shown above. In the future, ITU might start to include higher-speed categories, reflecting the increasing demand and availability of higher-speed broadband subscriptions."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "ITU collects data for this indicator through an annual questionnaire from national regulatory authorities or Information and Communication Technology (ICT) Ministries, who collect the data from national Internet service providers. The data can be collected by asking each Internet service provider in the country to provide the number of their fixed-broadband subscriptions by the speeds indicated. The data are then added up to obtain the country totals."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Since data for this indicator are based on administrative data from ISPs, no information on individual subscribers is available and therefore the data cannot be broken down by any individual characteristics. Data could in theory be broken down by geographic location and urban/rural, but ITU does not collect this information."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing values are not estimated (Not applicable)."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are not estimated (Not applicable)."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Not calculated."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Differences between global and national figures may arise when countries do not use the same definition for fixed-broadband subscriptions, or when speed tiers differ. Differences for each data point will be explained in a note."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Since data for this indicator are based on administrative data from operators, no information on individual subscribers is available and therefore the data cannot be broken down by any individual characteristics. Data could in theory be broken down by geographic location and urban/rural, but ITU does not collect this information."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "ITU collects data for this indicator through an annual questionnaire from national regulatory authorities or Information and Communication Technology Ministries, who collect the data from Internet service providers."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data for this indicator exist for about 90 economies (in 2015). However, more countries are expected to provide information on this indicator over the next few years, which will allow ITU to produce regional and global estimates. Data on fixed-broadband subscriptions not broken down by speed are widely available, and regional and global are being produced."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Year-end data are released in June of the following year through the ITU World Telecommunication/ICT Indicators Database. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Jun-16"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The telecommunication/ICT regulatory authority or the Ministry in charge of ICTs within each country, who collect the data from Internet Service Providers (ISPs)."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ITU"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ITU Handbook for the Collection of Administrative Data on Telecommunications/ICT, 2011, (and revisions and new indicators), see:\r\nRelated indicators\r\n8.2, 9.1, 9.c, 17.8"
+                }
+            }
+        }
+    ]
+}

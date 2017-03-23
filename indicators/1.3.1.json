@@ -1,0 +1,215 @@
+{
+    "goal_id": "1",
+    "target_id": "1.3",
+    "description": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This indicator reflects the proportion of the population covered by social protection floors or systems and includes the component  proportion of unemployed who receive unemployment benefits which is defined as the number of unemployed persons receiving unemployment benefits divided by the total number of unemployment persons times 100."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Access to at least a basic level of social security systems throughout the complete life cycle is fundamental to ensuring individuals' health and dignity. The principle of an ideal universality of social protection (through nationally defined social protection floors) evidences the importance of social protection systems in guaranteeing decent living conditions to the whole population, throughout their lives. The proportion of the population covered by social protection floors provides an indication of the extent to which this universality is accomplished, and thus, how secure are the population's health and living conditions."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Definitions are based on the World Social Protection Inquiry and on ILO Recommendation No. 202 on Social Protection Floors.\r\nSocial protection floors are nationally defined sets of basic social security guarantees that should ensure, as a minimum, that over the life cycle, all in need have access to essential health care and to basic income security which, together, secure effective access to goods and services defined as necessary at the national level. This should include at least access to essential health care, including maternity care; basic income security for children; basic income security for persons of working age who are unable to earn sufficient income, in particular in cases of sickness, unemployment, maternity and disability; and basic income security for older persons."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There is a risk of double counting beneficiaries of social security systems, or even persons covered by them, due to the existence of �supplementary� pension schemes. And even when these - the main source of double counting - are excluded, some double counting may still occur if, for example recipients have moved between different pension schemes during the course of their lives and receive benefits from several schemes.\r\nThe results (levels and changes over time) need to be analysed in relation to contextual information, in particular regarding the type of schemes and combination of schemes existing in each country."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Proportion of population covered by social protection floors or systems = Number of persons covered by social protection floors or systems / Total population * 100\r\nSub-indicators:\r\nNumber of unemployed persons receiving unemployment benefits / Total unemployment * 100\r\nEmployed women covered by maternity benefits / Total female employment * 100\r\nPersons above the statutory pensionable age receiving an old-age pension / Population above the statutory pensionable age"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The administrative data on social security schemes are often the most current and provide comprehensive information for the numerator of this indicator. In the absence of reliable administrative records, data from household surveys (household budget surveys or labour force surveys) can be used. Data from a household survey may also be used to estimate the denominator of the indicator."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Social Security Ministries, Labour Ministries, Health Ministries and/or National Statistical Offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ILOSTAT: \r\nwww.ilo.org/ilostat\r\nILO Social Protection Statistics and Indicators: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10\r\nILO Social Protection Floors Recommendation (n�202), 2012: http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,P12100_LANG_CODE:3065524,en\r\nILO Social Security (Minimum Standards) Convention (n�102), 1952: http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312247:NO\r\nDecent Work Indicators Manual: \r\nhttp://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nWorld Social Protection Report 2014/2015: \r\nhttp://www.ilo.ch/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_245201.pdf\r\nRelated indicators\r\n8.b"
+                }
+            }
+        },
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Bank (WB)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Coverage of social protection and labor programs (SPL) is the percentage of population participating in social insurance, social safety net, and unemployment benefits and active labor market programs. Estimates include both direct and indirect beneficiaries."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "ASPIRE coverage indicators refer to the �effective� coverage definition, measuring the direct and indirect beneficiaries who are actually receiving social protection benefits at the time nationally representative household survey data are collected, as within a target group (total population, for different income quintiles, total population in urban and rural areas). �Effective� coverage is directly relevant to SDG 1 of ending poverty in all its forms. \r\nASPIRE indicators do not include (in the current edition) those who are protected by law, or those who have benefits guaranteed but are not necessarily receiving them at the time the survey is administered � for example people who actively contribute to old age pensions and are entitled to the benefits on reaching retirement age."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "This indicator is estimated by program type, for the entire population and by quintiles of both the post-transfer and pre-transfer welfare distribution. Programs are aggregated into social assistance, social insurance and labor market according to ASPIRE (Atlas of Social Protection � Indicators of Resilience and Equity) classification. Indicators for all social protection and labor programs (SPL) provide the totals summing up the social assistance, social insurance and labor market figures. \r\nASPIRE is the World Bank's premier compilation of Social Protection and Labor (SPL) indicators gathered from officially-recognized international household surveys in order to analyze the distributional and poverty impact of Social Protection and Labor programs. ASPIRE is an ongoing project that aims to improve SPL data quality, comparability and availability to better inform SPL policies and programs."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Household surveys have limitations. It is important to note that the extent to which information on specific transfers and programs is captured in the household surveys can vary a lot across countries. Often household surveys do not capture the universe of social protection and labor (SPL) programs in the country, in best practice cases just the largest programs. Many household surveys have limited information on SPL programs, some surveys collect information only on participation without including the transfer amounts; and others include program information mixed with private transfers, making it difficult to isolate individual SPL programs.\r\nTherefore information on country SPL programs included in ASPIRE is limited to what is captured in the respective national household survey and does not necessarily represent the universe of programs existing in the country. In addition, the availability of ASPIRE indicators depends on the type of questions included in the survey. If transfer amounts are available, for example, adequacy and impact on poverty indicators can be generated. If only program participation questions are included in the survey, only non-monetary indicators can be generated such as coverage or beneficiary incidence.\r\nAs a consequence, ASPIRE performance indicators are not fully comparable across harmonized program categories and countries.\r\nHowever, household surveys have the unique advantages of allowing analysis of program impact on household welfare. With such caveats in mind, ASPIRE indicators based on household surveys provide an approximate measure of social protection systems performance."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Data are calculated from national representative household surveys using ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank (see datatopics.worldbank.org/aspire/). \r\nCoverage = Number of beneficiaries in the total population (or group) / Total population (or group). \r\nGenerally, ASPIRE indicators are based on a first level analysis of original household survey data (with no imputations) and on a unified methodology that does not necessarily reflect country-specific knowledge and in depth country analysis relying on different data sources (administrative program level data)."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation would be possible by sex, age group, income quintiles, etc."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "No imputation"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional and global aggregates are calculated from the most recent values of country data since 2000. No imputation is performed."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global estimates are calculated as the average of all country data available, weighted by countries� population."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "While efforts are made to ensure consistency between ASPIRE indicators and World Bank's regional and country reports/national estimates, there may still be cases where ASPIRE performance indicators differ from official WB country reports/national estimates."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are based on national representative household surveys. Data source is ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank (see datatopics.worldbank.org/aspire/)"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Unit-record data of national household surveys are collected by national governments and given to the World Bank for analytical purposes. The ASPIRE team harmonizes these household surveys to make them reasonably comparable across country and over time.\r\nThe ASPIRE harmonization methodology for household survey data rests on the following three steps:\r\n1. Identification and classification of Social Protection and Labor (SPL) benefits and services\r\nHousehold surveys are carefully reviewed to identify SPL program information. Once this information is located, two levels of analysis are implemented: first, variables are created for each of the country specific programs found in the survey. If the original program name is not provided in the survey instrument, the variable will report the corresponding ASPIRE�s program subcategories according to how the question is framed and country context.\r\nAdditionally, program variables are aggregated and harmonized into 12 SPL program categories, and 2 private transfer categories. The country specific programs included into these main SPL categories are documented in detail below and are validated with WB country task teams in close coordination with national counterparts.\r\nIn order to generate the indicators, the following variables are also harmonized: household identification number, location (urban/rural), household size, adult equivalent household size, welfare aggregate, household weight and poverty line, defined as the poorest 20% of the welfare distribution.\r\n2. Welfare aggregates\r\nHouseholds are ranked in quintiles of the welfare distribution (either household total income or consumption). Special efforts are made to include the most recently updated welfare aggregates officially agreed with National Statistical Offices and /or harmonized by regional poverty teams (or the Socio-Economic Database for Latin America and the Caribbean - SEDLAC) in the case of Latin American countries and the ECAPOV database in the case of Eastern Europe and Central Asian countries. These welfare aggregates are also consistent with the ones used by World Bank PovcalNet poverty estimates.\r\n3. PPP conversions\r\nAll monetary variables (transfer amounts) and the welfare aggregate are deflated to 2005 values and then converted to international US Dollars according to the following: [all transfers and welfare (t) / CPI (2005)] / [ICP (2005)] where ICP (2005) is the PPP conversion factor base 2005 of private consumption.\r\nOnce the information is harmonized performance indicators are generated using ADePT SP software."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data Availability 2010 to present (measured in terms of how many countries have at least 1 data point after 2010 for this indicator:\r\nAsia and Pacific: 19; Africa: 37; Latin America and Caribbean: 18; Europe, North America, Australia, New Zealand and Japan: 15.\r\nData Availability (2000-2009)\r\nAsia and Pacific: 33; Africa: 37; Latin America and Caribbean: 22; Europe, North America, Australia, New Zealand and Japan: 21"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Ongoing process "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Ongoing process"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "World Bank"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "World Bank"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.worldbank.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ASPIRE: The Atlas of Social Protection - Indicators of Resilience and Equity, The World Bank (datatopics.worldbank.org/aspire/)."
+                }
+            }
+        }
+    ]
+}

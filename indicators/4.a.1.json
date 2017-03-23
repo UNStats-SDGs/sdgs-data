@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.a",
+    "description": "Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The percentage of schools by level of education (primary education) with access to the given facility or service."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator measures access in schools to key basic services and facilities necessary to ensure a safe and effective learning environment for all students.\r\nA high value indicates that schools have good access to the relevant services and facilities. Ideally each school should have access to all these services and facilities."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Electricity: Regularly and readily available sources of power (e.g. grid/mains connection, wind, water, solar and fuel-powered generator, etc.) that enable the adequate and sustainable use of ICT infrastructure for educational purposes.\r\nInternet for pedagogical purposes: Internet that is available for enhancing teaching and learning and is accessible by pupils. Internet is defined as a worldwide interconnected computer network, which provides pupils access to a number of communication services including the World Wide Web and carries e-mail, news, entertainment and data files, irrespective of the device used (i.e. not assumed to be only via a computer) and thus can also be accessed by mobile telephone, tablet, PDA, games machine, digital TV etc.). Access can be via a fixed narrowband, fixed broadband, or via mobile network.\r\nComputers for pedagogical use: Use of computers to support course delivery or independent teaching and learning needs. This may include activities using computers or the Internet to meet information needs for research purposes; develop presentations; perform hands-on exercises and experiments; share information; and participate in online discussion forums for educational purposes. A computer is a programmable electronic device that can store, retrieve and process data, as well as share information in a highly-structured manner. It performs high-speed mathematical or logical operations according to a set of instructions or algorithms. Computers include the following types:\r\n- A desktop computer usually remains fixed in one place; normally the user is placed in front of it, behind the keyboard;\r\n- A laptop computer is small enough to carry and usually enables the same tasks as a desktop computer; it includes notebooks and netbooks but does not include tablets and similar handheld devices; and\r\n- A tablet (or similar handheld computer) is a computer that is integrated into a flat touch screen, operated by touching the screen rather than using a physical keyboard.\r\nAdapted infrastructure is defined as any built environment related to education facilities that are accessible to all users, including those with different types of disability, to be able to gain access to use and exit from them. Accessibility includes ease of independent approach, entry, evacuation and/or use of a building and its services and facilities (such as water and sanitation), by all of the building's potential users with an assurance of individual health, safety and welfare during the course of those activities . \r\nAdapted materials include learning materials and assistive products that enable students and teachers with disabilities/functioning limitations to access learning and to participate fully in the school environment. \r\nAccessible learning materials include textbooks, instructional materials, assessments and other materials that are available and provided in appropriate formats such as audio, braille, sign language and simplified formats that can be used by students and teachers with disabilities/functioning limitations. \r\nBasic drinking water is defined as a functional drinking water source (MDG �improved� categories) on or near the premises and water points accessible to all users during school hours. \r\nBasic sanitation facilities are defined as functional sanitation facilities (MDG �improved� categories) separated for males and females on or near the premises. \r\nBasic handwashing facilities are defined as functional handwashing facilities, with soap and water available to all girls and boys."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator measures the existence in schools of the given service or facility but not its quality or operational state."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The number of schools in a given level of education with access to the relevant facilities is expressed as a percentage of all schools at that level of education.\r\nPSn,f = Sn,f\r\nSn\r\nwhere:\r\nPSn,f = percentage of schools at level n of education with access to facility f\r\nSn,f = schools at level n of education with access to facility f\r\nSn = total number of schools at level n of education"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "By level of education."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The UIS estimates certain key items of data that may be missing or incomplete in order to have publishable estimates at the country level. Where this is not possible the UIS imputes missing values for use only for calculating regional and global aggregates. \r\nIn all cases estimates are based on evidence from the country itself (eg information from the data provider on the size of the missing component, via correspondence, publications or data on the Ministry�s or National Statistical Office�s Webpage, or via surveys conducted by other organizations) or on data from the country for a previous year.\r\nWhere data are available for a country for both an earlier and a more recent year than the missing year, a simple linear interpolation is made. Where data are only available for an earlier year, the most recent value is used as an estimate. Similarly, where data are only available for a more recent year, the last value is used as an estimate.\r\nWhere the relevant data are not available at all for a country, estimates may be based on another variable which is clearly linked to the item being estimated. For example, schools with access to basic services or facilities may be estimated from the total number of schools.\r\nWhere no data are available for the country in any year that can inform the estimate, the unweighted average for the region in which the country lies is used.\r\nCurrently no estimates are made for this indicator for the purpose of having publishable country-level data."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Regional and global aggregates are derived from both publishable and imputed national data. Publishable data are the data submitted to the UIS by Member States or the result of an explicit estimation made by the Institute based on pre-determined standards. In both cases, these data are sent to Member States for review before they are considered publishable by the UIS. \r\nWhen data are not available for all countries, the UIS imputes national data for the sole purpose of calculating regional averages. These imputed data are not published nor otherwise disseminated. \r\nThe regional and global aggregates are then calculated as weighted averages using the denominator of the indicator as the weight."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates are calculated as weighted averages using the denominator of the indicator as the weight. As described previously, where publishable data are not available for a given country or year, values are imputed for the purpose of calculating the regional and global aggregates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Nationally-published figures may differ from the international ones because of differences between national education systems and the International Standard Classification of Education (ISCED); or differences in coverage (i.e. the extent to which different types of education � e.g. private or special education � are included in one rather than the other)."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Administrative data from schools and other providers of education or training."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The UNESCO Institute for Statistics produces time series based on data reported by Ministries of Education or National Statistical Offices. The data are gathered through the annual Survey of Formal Education (on access to electricity, drinking water, sanitation and handwashing facilities) and through the Survey on ICTs in Education (on access to electricity, Internet and computers). Data on adapted infrastructure are not collected currently. Countries are asked to report data according to the levels of education defined in the International Standard Classification of Education (ISCED) to ensure international comparability of resulting indicators.\r\nThe data received are validated using electronic error detection systems that check for arithmetic errors and inconsistencies and trend analysis for implausible results. Queries are taken up with the country representatives reporting the data so that corrections can be made (of errors) or explanations given (of implausible but correct results). During this process countries are also encouraged to provide estimates for missing or incomplete data items.\r\nIn addition, countries also have an opportunity to see and comment on the main indicators the UIS produces in an annual \"country review\" of indicators."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "70 countries for electricity and computers, 100 countries for Internet, water and sanitation. Hand-washing facilities are being collected for the first time in 2016. Adapted infrastructure is not yet collected at the global level."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2007-2015 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "January 2017 (for electricity, water, sanitation and handwashing facilities). End of 2016 (for Internet and computers). "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "November/December 2016 (for electricity, water, sanitation and handwashing facilities). Late 2017 (for Internet and computers).  "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Ministries of Education and/or National Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "The proportion of schools with access to electricity, the Internet for pedagogical purposes and computers for pedagogical purposes: see Guide to Measuring Information and Communication Technologies (ICT) in Education, UIS Technical Paper No. 2.\r\nWASH Monitoring Indicators: http://www.unicef.org/wash/files/4_WSSCC_JMP_Fact_Sheets_4_UK_LoRes.pdf \r\nUIS Questionnaires on Statistics of Information and Communication Technologies (ICT) in Education and the Regional Module for Africa: http://www.uis.unesco.org/UISQuestionnaires/Pages/default.aspx.\r\nRelated indicators\r\n6.1, 6.2, 7.1, 9.c, 17.8"
+                }
+            }
+        }
+    ]
+}

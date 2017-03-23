@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.7",
+    "description": "Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)\r\nInternational Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion (and number) of children aged 5-17 years engaged in child labour is the number of children aged 5-17 years who are reported to have been engaged in child labour in the past week divided by the total number of children aged 5-17 in the population"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Children around the world are routinely engaged in paid and unpaid forms of work that are not harmful to them. However, children are considered to be involved in child labour when they are either too young to work or are involved in activities harmful to their health and development. Children�s involvement in hazardous work can compromise their physical, mental, social and educational development.\r\nThe issue of child labour is guided by three main international conventions: ILO Convention No. 138 concerning minimum age for admission to employment and Recommendation No. 146 (1973); ILO Convention No. 182 concerning the prohibition and immediate action for the elimination of the worst forms of child labour and Recommendation No. 190 (1999); and the United Nations Convention on the Rights of the Child (Article 32), including its Optional Protocol on the sale of children, child prostitution and child pornography. These conventions frame the concept of child labour and form the basis for child labour legislation enacted by countries that are signatories."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "In December 2008, the International Conference of Labour Statisticians (ICLS) adopted the Resolution concerning the measurement of working time. The resolution confirmed that any type of work (including involvement in household chores) undertaken by children should be considered in the measurement of child labour, in addition to economic activities. The target population for the resolution is children aged 5 to 17 years who, during a specified time period, were engaged in one or more of the following categories of activities: worst forms of child labour, employment below the minimum age, and unpaid household services. \r\nUNICEF�s standard indicator definition for child labour includes the following:\r\n� Age 5 to 11 years: At least 1 hour of economic work or 28 hours of unpaid household services per week.\r\n� Age 12 to 14 years: At least 14 hours of economic work or 28 hours of unpaid household services per week.\r\n� Age 15 to 17 years: At least 43 hours of economic or unpaid household services per week."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There are existing tools and mechanisms for data collection that countries have implemented to monitor the situation with regards to this indicator. However, there is no internationally agreed standard for the measurement of child labour as yet."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of children aged 5-17 years who are reported to have been engaged in child labour in the past week divided by the total number of children aged 5-17 in the population multiplied by 100."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex, age, income, place of residence, geographic location"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only but are not published as country-level estimates"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as UNICEF-supported Multiple Indicator Cluster Survey (MICS), Demographic and Health Survey (DHS) and ILO-supported Statistical Information and Monitoring Programme on Child Labour (SIMPOC) have been collecting data on this indicator in low- and middle-income countries since around 2000. Many countries also produce national labour estimates and reports that often include data on child labour and/or employment among children."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally representative and comparable data are currently available for 116 low-and middle-income countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (for the most part) and line ministries/other government agencies that have conducted labour force or employment surveys for which data on child labour were collected."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF and ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/child-labour.html"
+                }
+            }
+        }
+    ]
+}

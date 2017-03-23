@@ -1,0 +1,111 @@
+{
+    "goal_id": "15",
+    "target_id": "15.8",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Union for Conservation of Nature (IUCN)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species measures the adoption of national legislation relevant to the prevention or control of invasive alien species."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator measures the management response globally, by tracking invasive alien species legislation for control and prevention at national and international levels. The more countries with invasive alien species and biosecurity related legislation, the greater the global commitment to controlling the threat to biodiversity from invasive alien species. The larger the number of invasive alien species -relevant international policies, and the greater the level of national commitment to these, the greater the global commitment to controlling invasive alien species. The more international agreements a country is party to the more strongly committed the country is to controlling invasive alien species.\r\nThe global trend in policy response has been positive for the few last decades and, since the publication of GBO3, the adoption of policies against invasive alien species has significantly increased. As reported in 2010, 55% of the 191 countries that are Party to the Convention on Biological Diversity have overarching national legislation to prevent, control and/or limit the spread and impact of invasive alien species, and most Convention on Biological Diversity Parties were signatory to at least one of ten other multilateral agreements that cover invasive alien species in some form. Among these countries, 8% are signatory to all 10 international agreements (McGeoch et al. 2010). \r\nFor example, the Council of Europe has been developing and adopting codes of conduct addressing some key pathways (e.g. horticulture, botanic gardens, zoos, hunting, or fishing) of invasive alien species. Moreover, once the European regulation on invasive alien species is fully adopted, it will have major implications for neighbouring countries, but also at a world scale, as the European institution is a major partner for global trade.\r\nThe projection of the current trend of adoption of national policies on invasive alien species projects a nonsignificant increase by 2020, with a slowing of the rate of increase in the proportion of countries adopting such legislation. The adoption of national and international policies on invasive alien species is a first step to combatting the spread of invasive alien species.\r\nThe indicator is maintained by the IUCN Species Survival Commission�s Invasive Species Specialist Group.\r\nThis indicator is utilised for assessing progress towards Aichi Biodiversity Target 9 of the Strategic Plan for Biodiversity 2011-2020: \"by 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment\" (CBD 2014, Tittensor et al. 2014), and was used as an indicator towards the Convention on Biological Diversity�s 2010 Target (Butchart et al. 2010)."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "An alien species is a species introduced by humans � either intentionally or accidentally � outside of its natural past or present distribution. However not all alien species have negative impacts, and it is estimated that between 5% and 20% of all alien species become problematic. It is these species that are termed �invasive alien species�. Thus, an invasive alien species (IAS) is a species that is established outside of its natural past or present distribution, whose introduction and/or spread threaten biological diversity."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The adoption of legislation does not necessarily indicate the existence of regulations or policy to implement the legislation or how successful such implementation has been on the ground. There still remains a need for further indicator refinement to make this link clearer.\r\nLegislation does not necessarily capture all efforts against invasive alien species that are happening at the national level."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Data for this indicator were produced by identifying any national legislation relevant to controlling invasive alien species for each country (currently implemented for 191 Parties to the Convention on Biological Diversity). Legislation was considered relevant to the prevention of alien species introductions or to control of invasive alien species if it applied to multiple taxonomic groups and was not exclusively intended to protect agriculture. If two separate sets of legislation within a country covered plants and animals, the date of the more recent legislation was used. Invasive alien species -related legislation is implemented through national Ministries of the Environment and a variety of other ministries and agencies."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "None implemented to date."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "No imputation is conducted in producing the indicator."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "No imputation is conducted in producing the indicator."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "National accession into relevant multinational environment-related agreements serves as the underlying data for this indicator."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The indicator is derived from national accession into relevant multinational environment-related agreements, and so there are no differences between global and national figures."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Ten multinational environment-related agreements were used to quantify trends in the adoption of invasive alien species -related policy. National legislation related to the prevention, management and control of invasive alien species was recorded including year of enactment, type of legislation (prevention, management etc.) and the data analysed to calculate the indicator."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "See other categories above."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "191 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Approximately 60 years"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "This indicator was first calculated in 2010 and there has been no update since. Plans are to update this baseline, enhance it and make it available for global, regional and national use. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "It is anticipated that the indicator will be available annually. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National accession into relevant multinational environment-related agreements serves as the underlying data for this indicator."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nIUCN SSC\r\nDescription:\r\nThe indicator is maintained by the IUCN SSC Invasive Species Specialist Group (http://www.issg.org/)."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.iucn.org/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "These metadata are based on http://www.bipindicators.net/iaslegislationadoption, supplemented by the references listed below.\r\nBUTCHART, S. H. M. et al. (2010). Global biodiversity: indicators of recent declines. Science 328: 1164�1168. Available from http://www.sciencemag.org/content/328/5982/1164.short. \r\nCBD (2014). Global Biodiversity Outlook 4. Convention on Biological Diversity, Montr�al, Canada. Available from https://www.cbd.int/gbo4/. \r\nMCGEOCH, M.A., et al. (2010). Global indicators of alien species invasion: threats, biodiversity impacts and responses. Diversity and Distributions 16: 95-108.\r\nTITTENSOR, D. et al. (2014). A mid-term analysis of progress towards international biodiversity targets. Science 346: 241�244. Available from http://www.sciencemag.org/content/346/6206/241.short."
+                }
+            }
+        }
+    ]
+}

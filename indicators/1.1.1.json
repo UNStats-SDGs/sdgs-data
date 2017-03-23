@@ -1,0 +1,215 @@
+{
+    "goal_id": "1",
+    "target_id": "1.1",
+    "description": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Bank (WB)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices. "
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The World Bank produced its first global poverty estimates for developing countries for World Development Report 1990: Poverty (World Bank 1990) using household survey data for 22 countries (Ravallion, Datt, and van de Walle 1991). Since then there has been considerable expansion in the number of countries that field household income and expenditure surveys. The World Bank's Development Research Group maintains a database that is updated annually as new survey data become available (and thus may contain more recent data or revisions) and conducts a major reassessment of progress against poverty every year. PovcalNet is an interactive computational tool that allows users to replicate these internationally comparable $1.90 and $3.10 a day global, regional and country-level poverty estimates and to compute poverty measures for custom country groupings and for different poverty lines. \r\nThe Poverty and Equity Data portal provides access to the database and user-friendly dashboards with graphs and interactive maps that visualize trends in key poverty and inequality indicators for different regions and countries. The country dashboards display trends in poverty measures based on the national poverty lines alongside the internationally comparable estimates, produced from and consistent with PovcalNet."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about \"global poverty?\" Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way�both are either poor or not poor�even if they live in different countries.\r\nSince World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank�s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank�s International Comparison Program (ICP)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Five countries � Bangladesh, Cabo Verde, Cambodia, Jordan, and Laos � use the 2005 PPP conversion factors and corresponding $1.25 a day and $2 a day poverty lines. This is due to the large deviations in the rate of change in PPP factors relative to the rate of change in domestic consumer price indexes. See Box 1.1 in the Global Monitoring Report 2015/2016 (http://www.worldbank.org/en/publication/global-monitoring-report) for a detailed explanation.\r\nDespite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys needs to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. \r\nBesides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.\r\nHowever, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "To measure poverty across countries consistently, the World Bank�s international measures apply a common standard, anchored to what \"poverty\" means in the world�s poorest countries. The original \"$1-a-day\" line was based on a compilation of national lines for only 22 developing countries, mostly from academic studies in the 1980s (Ravallion, et al., 1991). While this was the best that could be done at the time, the sample was hardly representative of developing countries even in the 1980s. Since then, national poverty lines have been developed for many other countries. Based on a new compilation of national lines for 75 developing countries, Ravallion, Chen and Sangraula (RCS) (2009) proposed a new international poverty line of $1.25 a day. This is the average poverty line for the poorest 15 countries in their data set. \r\nThe current extreme poverty line is set at $1.90 a day in 2011 PPP terms, which represents the mean of the national poverty lines found in the same poorest 15 countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. \r\nWhen measuring international poverty of a country, the international poverty line at PPP is converted to local currencies in 2011 price and is then converted to the prices prevailing at the time of the relevant household survey using the best available Consumer Price Index (CPI). (Equivalently, the survey data on household consumption or income for the survey year are expressed in the prices of the ICP base year, and then converted to PPP $�s.) Then the poverty rate is calculated from that survey. All inter-temporal comparisons are real, as assessed using the country-specific CPI. Interpolation/extrapolation methods are used to line up the survey-based estimates with these reference years."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Work is underway at the World Bank for disaggregated poverty estimates."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "There is no \"imputation\" in the traditional sense for missing country data. However, to generate regional and global aggregates for reference years, country-level data are imputed for the years when surveys are not conducted. These imputed data are to be used for aggregation, but not for replacing the actual survey data. The subsequent section on the treatment of missing values at the regional and global levels provide more details on the imputation method."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "To compare the poverty rates across countries and compute regional aggregates, country estimates must be \"lined up\" first to a common reference year, interpolating for countries in which survey data are not available in the reference year but are available either before, after, or both. The more survey data are available (that is, the more data for different years), the more accurate the interpolation.\r\nThe process requires adjusting the mean income or expenditure observed in the survey year by a growth factor to infer the unobserved level in the reference year. Thus, two assumptions are required to implement this process: distribution-neutral growth and a real rate of growth between the survey and reference year.\r\nDistribution-neutral growth implies that income or expenditure levels are adjusted for growth assuming that the underlying relative distribution of income or expenditure observed in survey years remains unchanged. Under this assumption, it is straightforward to interpolate the poverty estimate in a given reference year implied by a given rate of growth in income or expenditure. Rates of change in real consumption per capita should be based on the change in real consumption measured by comparing country survey data across different years. In practice, however, survey data in most countries are not available on an annual basis. Therefore, the change in private consumption per capita as measured from the national accounts is used instead. While, there can be no guarantee that the survey-based measure of income or consumption change at exactly the same rate as private consumption in the national accounts, this appears to be the best available option.\r\nWhen the reference year falls between two survey years, an estimate of mean consumption at the reference year is constructed by extrapolating the means obtained from the surveys forward and backward to the reference year. The second step is to compute the headcount poverty rate at the reference year after normalizing the distributions observed in the two survey years by the reference year mean. This yields two estimates of the headcount poverty rates in the reference year. The final reported poverty headcount rate for the reference years is the linear interpolation of the two. When data from only one survey year are available, the reference year mean is based on the survey mean by applying the growth rate in private consumption per capita from the national accounts. The reference year poverty estimate is then based on this mean and on the distribution observed in the one survey year. The better data coverage is in terms of number and frequency of available surveys, the more accurate this lining-up process is and the more reliable the regional estimates will be.\r\nThe aggregate headcount ratio for a region is the population-weighted mean of the headcount indices across the countries in that region. The number of poor in each region is the product of the region�s headcount index and total regional population. This assumes that the poverty rate for a country without a household survey is the regional average."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Because surveys are not conducted every year in most countries, poverty estimates have to be derived for line-up years by interpolation or extrapolation using national accounts data. These estimates for line-up years are then aggregated to regional and global numbers. Regional and global aggregates are population-weighted averages."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "National poverty is a different concept than global poverty. National poverty rate is defined at country-specific poverty lines in local currencies, which are different in real terms across countries and different from the $1.90-a-day international poverty line. Thus, national poverty rates cannot be compared across countries or with the $1.90-a-day poverty rate."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The World Bank typically receives data from National Statistical Offices (NSOs) directly. In other cases it uses NSO data received indirectly. For example, it receives data from Eurostat and from LIS (Luxemburg Income Study), who provide the World Bank NSO data they have received / harmonized.  The Universidad Nacional de La Plata, Argentina and the World Bank jointly maintain the SEDLAC (Socio-Economic Database for Latin American and Caribbean) database that includes harmonized statistics on poverty and other distributional and social variables from 24 Latin American and Caribbean countries, based on microdata from household surveys conducted by NSOs. \r\nData is obtained through country specific programs, including technical assistance programs and joint analytical and capacity building activities. The World Bank has relationships with NSOs on work programs involving statistical systems and data analysis. Poverty economists from the World Bank typically engage with NSOs broadly on poverty measurement and analysis as part of technical assistance activities. \r\nWithin the World Bank, the Global Poverty Working Group (GPWG) is in charge of the collection, validation and estimation of poverty estimates. GPWG archives the datasets obtained from NSOs and then harmonizes them, applying common methodologies. The objective of the GPWG is to ensure that poverty and inequality data generated, curated, and disseminated by the World Bank are up to date, meet high-quality standards, and are well documented and consistent across dissemination channels. Members of GPWG generate and update the estimates for the proportion of population below the international poverty line using raw data typically provided by country governments. The raw data are obtained by poverty economists through their contacts in the NSOs, and checked for quality before being submitted for further analysis. The raw data can be unit-record survey data, or grouped data, depending on the agreements with the country governments. In most cases, the welfare aggregate, the essential element for poverty estimation, is generated by the country governments. Sometimes, the World Bank has to construct the welfare aggregate or adjust the aggregate provided by the country."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "Directly from National Statistical Offices (NSOs) or indirectly from others � see section on data sources."
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The World Bank transparently shares and makes public the methodologies for all kinds of adjustments to original data (e.g., through its PovcalNet website and its various analytical documents). The poverty estimates are developed by economists, who work closely with national government counterparts concerning each poverty data update. "
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data Availability (measured in terms of number of countries that have at least 1 data point by region):\r\n2010 to present: \r\nAsia and Pacific: 23 (40 if modelled estimates are considered); Africa: 23 (48 if modelled estimates are considered); Latin America and Caribbean: 19 (21 if modelled estimates are considered)\r\nEurope, North America, Australia, New Zealand and Japan: 17 (25 if modelled estimates are considered)\r\n2000-2009: \r\nAsia and Pacific: 38 (40 if modelled estimates are considered); Africa: 47 (48 if modelled estimates are considered); Latin America and Caribbean: 21 (21 if modelled estimates are considered)\r\nEurope, North America, Australia, New Zealand and Japan: 20 (25 if modelled estimates are considered)"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Source collection is ongoing by the Global Poverty Working Group of the World Bank. The calculation of new poverty numbers using updated source data normally takes place from May to September every year. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The World Bank Group is committed to updating the poverty data every year. Updated estimates are released at the World Bank�s Annual Meetings in October every year. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The World Bank typically receives data from National Statistical Offices (NSOs) directly. In other cases it uses NSO data received indirectly. Please see the section on data sources for further details."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "World Bank"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.worldbank.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).\r\nAlso, consult: http://documents.worldbank.org/curated/en/2015/10/25114899/global-count-extreme-poor-2012-data-issues-methodology-initial-results \r\nFor a short review see: http://www.worldbank.org/en/topic/poverty/brief/global-poverty-line-faq \r\nFor a comprehensive link to related background papers, working papers and journal articles see: \r\nhttp://iresearch.worldbank.org/PovcalNet/index.htm?0,4 \r\nA Measured Approach to Ending Poverty and Boosting Shared Prosperity: Concepts, Data, and the Twin Goals. (http://www.worldbank.org/en/research/publication/a-measured-approach-to-ending-poverty-and-boosting-shared-prosperity)"
+                }
+            }
+        },
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of employed population below the international poverty line of $1.90 per day, also referred to as the working poor, is defined as the proportion of the employed population living in households with per-capita consumption or income that is below the international poverty line of US$1.9."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The concept of the working poor is captured by combining poverty status with employment status, which aims to measure how many workers, despite being in employment, live in poverty.\r\nThe proportion of working poor in total employment (also known as the working poverty rate) combines data on household income or consumption with that labour force framework variables measured at the individual level and sheds light on the relationship between household poverty and employment."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Employed persons: All persons of working age who, during a short reference period such as a day or a week, (i) did some work (even for just one hour) for pay, profit or family gain, in cash or in kind; or (ii) they were attached to a job or had an enterprise from which they were �temporarily� absent during this period (for such reasons as illness, maternity, parental leave, holiday, training, industrial dispute). Employed persons include those persons of working age who worked for at least one hour during the reference period as contributing family workers working in a family business.\r\nPoverty Line: Threshold below which individuals in the total reference population are considered poor and above which they are considered non-poor. The threshold is generally defined as the per-capita monetary requirements an individual needs to afford the purchase of a basic bundle of goods and services. For the purposes of this indicator, an absolute international poverty line of US$1.9 per day is used.\r\nHousehold in poverty: Households are defined as poor if their disposable income or consumption expenditure is below the poverty line taking into account the number of household members and composition (e.g., number of adults and children).\r\nThe working poor: Employed persons living in households that are classified as poor, that is, that have income (or consumption) levels below the poverty line used for measurement."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "At the country level, comparisons over time may be affected by such factors as changes in survey types or data collection methods. The use of PPPs rather than market exchange rates ensures that differences in price levels across countries are taken into account. However, it cannot be categorically asserted that two people in two different countries, living below US$1.9 a day at PPP, face the same degree of deprivation or have the same degree of need.\r\nPoverty in the context of this indicator is a concept that is applied to households, and not to individuals. Based on the assumption that households pool their income, the question asked is whether a household�s total income is sufficient to ensure that it isn�t classified as being in poverty. The poverty status of a household is therefore a function of the wage and other employment-related income secured by those household members who work (plus any non-employment-related income such as transfer payments) and the number of household members. Whether a worker is counted as working poor therefore depends on his own income, the income of other household members and the number of household members � for example, children � who need to be supported. It is thus often valuable to study household structure in relation to working poverty. For example, it may be relevant for some countries to assess the differences in working poverty rates between persons living in households whose members are unrelated individuals from those whose members are related."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The proportion of the working poor is calculated by dividing the number of employed persons living in households below the poverty line (disaggregated by sex, age and geographical location) by the total number of employed persons (disaggregated by sex, age and geographical location)."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The working poverty rate (proportion of employed persons living in poverty) is disaggregated by sex and age."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The preferred data source is a household survey with variables that can identify both the poverty status of households and give information on the economic activity of the household�s members. Examples include household income and expenditure surveys (HIES), living standards measurement surveys (LSMS) with employment modules, or labour force surveys (LFS) that collect information on household income. Such surveys offer the benefit of allowing the employment status and income (or consumption expenditure) variables to be derived from the same sampled households ideally for the same long observation period.\r\nEmployment estimates derived from a household survey other than the labour force survey may not, however, be robust enough due to the differences in the design and questionnaire of the survey and sampling. Similarly, a labour force survey may not be the best instrument for collecting household income or consumption expenditure data given the survey design which typically targets the unemployment rate as the headline indicator, although an attached income module can be designed to achieve maximum, statistically reliable results, including ensuring an overlap in the long observation period between household income (or consumption expenditure) and employment status. Another possibility is to use data from a household income and expenditure survey, as well as from a separate labour force survey when the respondent households can be matched and consistency in the long observation period between the surveys can be obtained."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Statistics on employment by economic class (by sex and age group), including the working poverty rate (proportion of employed persons living in poverty) are available for 121 countries, from www.ilo.org/ilostat/kilm (KILM17). "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Mainly National Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Decent Work Indicators Manual: \r\nhttp://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nKey Indicators of the Labour Market, 9th edition: \r\nwww.ilo.org/ilostat/kilm"
+                }
+            }
+        }
+    ]
+}

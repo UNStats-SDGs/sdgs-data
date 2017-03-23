@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.10",
+    "description": "Worldwide weighted tariff-average",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Trade Centre (ITC)\r\nUnited Nations Conference on Trade and Development (UNCTAD)\r\nThe World Trade Organization (WTO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Value in percentage of weighted average tariffs applied to the imports of goods in HS chapter 01-97."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The average level of customs tariff rates applied worldwide can be used as an indicator of the degree of success achieved by multilateral negotiations and regional trade agreements."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Weighted average: In order to aggregate tariff value for country groups it is recommended to make use of a weighting methodology based on the value of goods imported.\r\nTariffs: Tariffs are customs duties on merchandise imports, levied either on an ad valorem basis (percentage of value) or on a specific basis (e.g. $7 per 100 kg). Tariffs can be used to create a price advantage for similar locally-produced goods and for raising government revenues. Trade remedy measures and taxes are not considered to be tariffs."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Tariffs are only part of the factors that can explain the degree of openness and transparency in the international trade arena. However, accurate estimates on non-tariff measures or of transparency indicator do not exist.\r\nTo further refine the quality of the information, additional sub-measurements could be calculated including: a) Tariff peaks (i.e. % of tariffs on some products that are considerably higher than usual, defined as above 15 per cent) and b) Tariff escalation (i.e. wherein a country applies a higher tariff rate to products at the later stages of production). These calculations were already provided by ITC as part of the MDG Gap Task Force Report. See the report for further information on the methodology at http://www.un.org/en/development/desa/policy/mdg_gap/mdg_gap2014/2014GAP_FULL_EN.pdf"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "In order to include all tariffs into the calculation, some rates which are not expressed in ad valorem form (e.g., specific duties) are converted in ad valorem equivalents (i.e. in per cent of the import value), The conversion is made at the tariff line level for each importer by using the unit value method. Import unit values are calculated from import values and quantities. Only a limited number of non-ad valorem tariff rates (i.e. technical duties) cannot be provided with ad valorem equivalents (AVE) and are excluded from the calculation. This methodology also allows for cross-country comparisons."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation is available by product sector (e.g. Agriculture, Textile, Environmental goods), geographical regions and country income level (e.g. Developed, Developing, LDCs)"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing values are calculated using the most recent year available."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are calculated using the most recent year available."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "HS 6-digit tariff averages weighted with HS 6-digit bilateral import flows for traded national tariff lines."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Not applicable"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The main information used to calculate indicators 17.10.1 is import tariff data. Information on import tariffs might be retrieved by contacting directly National statistical offices, permanent country missions to the UN, regional organizations or focal points within the customs, ministries in charge of customs revenues (Ministry of economy/finance and related revenue authorities) or, alternatively, the Ministry of trade. Tariff data for the calculation of this indicator are retrieved from ITC (MAcMap) - http://www.macmap.org/ - WTO (IDB) - http://tao.wto.org - and UNCTAD (TRAINS) databases. Import tariff data included in the ITC (MAcMap) database are collected by contacting directly focal points in line national agencies or regional organizations (in the case of custom unions or regional economic communities). When available, data are downloaded from national or regional official websites. In some cases, data are purchased from private companies. Import tariff data included in the WTO (IDB) database are sourced from official notifications of WTO members. Import tariff included in the UNCTAD (TRAINS) database are collected from official sources, including official country or regional organizations websites."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Asia and Pacific: 42\r\nAfrica: 49\r\nLatin America and the Caribbean: 34\r\nEurope, North America, Australia, New Zealand and Japan: 48"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Yearly data from 2005 to latest year "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Continuously update all year round "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Indicatively the indicators calculations can be ready by March every year. However, the date of release will depend on the period envisaged for the launching of the SDG monitoring report."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Already answered above."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ITC, WTO and UNCTAD will jointly report on this indicator"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.intracen.org / www.wto.org / http://unctad.org/en/Pages/Home.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Not references\r\nRelated indicators\r\nLinkages with the decrease of agricultural market distortions (target 2.b), improvements in the transfer of environmental goods and services (target 17.7) and better access to essential medicines (3.b)."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.3",
+    "description": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "The Joint United Nations Programme on HIV/AIDS (UNAIDS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The number of new HIV infections per 1,000 uninfected population, by sex, age and key populations as defined as the number of new HIV infections per 1000 person-years among the uninfected population."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The incidence rate provides a measure of progress toward preventing onward transmission of HIV."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Longitudinal data on individuals are the best source of data but are rarely available for large populations. Special diagnostic tests in surveys or from health facilities can be used to obtain data on HIV incidence. HIV incidence is thus modelled using the Spectrum software."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "General population, Key populations (men who have sex with men, sex workers, people who inject drugs, transgender people, prisoners), Age groups (0-14, 15-24, 15-49, 50+ years), for key populations (< 25, 25+ years), mode of transmission (including mother-to-child transmission), place of residence, sex"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Data are not compiled for countries with populations < 250,000. In addition no estimates are available for about 10 countries with very small HIV epidemics or countries in conflict (i.e. Syria). These countries are excluded from global estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing countries are excluded from the estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The software used to produce the estimates is Spectrum�developed by Avenir Health (www.avenirhealth.org)�and the Estimates and Projections Package, which is developed by the East-West Center (www.eastwestcenter.org). The UNAIDS Reference Group on Estimates, Modelling and Projections provides technical guidance on the development of the HIV component of the software (www.epidem.org)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "These variations will differ by country."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Spectrum modelling, household or key population surveys with HIV incidence-testing,\r\nOther possible data sources: Regular surveillance system among key populations."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Country teams use UNAIDS-supported software to develop estimates annually. The country teams are comprised of primarily epidemiologists, demographers, monitoring and evaluation specialists and technical partners."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "160 countries in 2016"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "1990-2015 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data sources are compiled all year long. The spectrum models are created in the first three months of every year and finalized by June. The next report will be in June 2017. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "June 2016, June 2017, etc. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The estimates are produced by a team consisting of ministry of health, national AIDS advisory groups and development partners. The results are signed off on by senior managers at the ministries of health."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNAIDS"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "unaids.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://www.unaids.org/en/dataanalysis/datatools/spectrumepp\r\nUNAIDS Global AIDS response progress reporting 2015: construction of core indicators for monitoring the 2011\r\nUnited Nations political declaration on HIV/AIDS. Geneva: Joint United Nations Programme on HIV/AIDS; 2015\r\nhttp://www.unaids.org/sites/default/files/media_asset/JC2702_GARPR2015guidelines_en.pdf a2015.\r\nUNAIDS website for relevant data and national Spectrum files http://aidsinfo.unaids.org/\r\nConsolidated Strategic Information Guidelines for HIV in the Health Sector. Geneva: World Health Organization;\r\n2015.http://www.who.int/hiv/pub/guidelines/strategic-information-guidelines/en/ accessed on 7 October 2015"
+                }
+            }
+        }
+    ]
+}

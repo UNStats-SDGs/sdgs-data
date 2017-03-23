@@ -1,0 +1,111 @@
+{
+    "goal_id": "5",
+    "target_id": "5.3",
+    "description": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting is currently being measured by the proportion of girls aged 15-19 years who have undergone female genital mutilation/cutting"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "FGM/C is a violation of girls� and women�s human rights. There is a large body of literature documenting the adverse health consequences of FGM/C over both the short and long term. The practice of FGM/C is a direct manifestation of gender inequality \r\nFGM/C is condemned by a number of international treaties and conventions. Since FGM/C is regarded as a traditional practice prejudicial to the health of children and is, in most cases, performed on minors, it violates the Convention on the Rights of the Child. Existing national legislation in many countries also include explicit bans against FGM/C."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Female genital mutilation/cutting (FGM/C) refers to \"all procedures involving partial or total removal of the female external genitalia or other injury to the female genital organs for non-medical reasons\" (World Health Organization, Eliminating Female Genital Mutilation: An interagency statement, WHO, UNFPA, UNICEF, UNIFEM, OHCHR, UNHCR, UNECA, UNESCO, UNDP, UNAIDS, WHO, Geneva, 2008, p.4)"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There are existing tools and mechanisms for data collection that countries have implemented to monitor the situation with regards to this indicator. The modules used to collect information on the circumcision status of girls aged 0-14 and women aged 15-49 in the DHS and MICS have been fully harmonized."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of girls and women aged 15-49 who have undergone FGM/C divided by the total number of girls and women aged 15-49 in the population multiplied by 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Age, income, place of residence, geographic location, ethnicity, education"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the countries with nationally representative prevalence data"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as UNICEF-supported MICS and DHS have been collecting data on this indicator in low- and middle-income countries since the late 1980s. In some countries, such data are also collected through other national household surveys."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally representative prevalence data are currently available for 30 low- and middle-income countries "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (in most cases)"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/fgmc.html"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.8",
+    "description": "Proportion of members and voting rights of developing countries in international organizations",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Financing for Development Office, DESA (FFDO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Proportion of members and voting rights of developing countries in international organizations has two components, the developing country proportion of voting rights and the developing country proportion of membership in international organisations. In some institutions these two components are identical.\r\nThe indicator is calculated independently for eleven different international institutions: The United Nations General Assembly, the United Nations Security Council, the United Nations Economic and Social Council, the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation, the African Development Bank, the Asian Development Bank, the Inter-American Development Bank, the World Trade Organisation, and the Financial Stability Board."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The UN is based on a principle of sovereign equality of all its Member States (Article 2, UN Charter). This indicator aims to measure the degree to which States enjoy equal representation in international organizations."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "There is no established convention for the designation of \"developed\" and \"developing\" countries or areas in the United Nations system. In common practice, Japan in Asia, Canada and the United States in Northern America, Australia and New Zealand in Oceania, and Europe are considered \"developed\" regions or areas. The aggregation across all institutions is currently done according to the United Nations M.49 statistical standard which includes designation of \"developed regions\" and \"developing regions\", while an ongoing review seeks to reach agreement on how to define these terms for the purposes of SDG monitoring. The designations \"developed\" and developing\" are intended for statistical convenience and do not necessarily express a judgement about the stage reached by a particular country or area in the development process."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Cross institutional comparisons needs to pay attention to the different membership of the institutions. Voting rights and membership in their institutions are agreed by the Member States themselves. As a structural indicator, there will be only small changes over time to reflect agreement on new States joining as Members, suspension of voting rights, membership withdrawal and negotiated voting rights changes."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The computation uses each institutions� own published membership and voting rights data from their respective annual reports. The proportion of voting rights is computed as the number of voting rights allocated to developing countries, divided by the total number of voting rights. The proportion of membership is calculated by taking the number of developing country members, divided by the total number of members."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data is calculated and presented separately for each international organization."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Annual reports, as presented on the website of the institution in question, are used as sources of data. Sources of information by institution:\r\nUnited Nations General Assembly: website of the General Assembly\r\nUnited Nations Security Council: Report of the Security Council for the respective year\r\nUnited Nations Economic and Social Council: Report of the Economic and Social Council for the respective year\r\nInternational Monetary Fund: Annual Report for the respective year\r\nInternational Bank for Reconstruction and Development: Management�s Discussion & Analysis and Financial Statements for the respective year\r\nInternational Finance Corporation: Annual Report (volume 2) for the respective year\r\nAfrican Development Bank: Annual Report for the respective year \r\nAsian Development Bank: Annual Report for the respective year\r\nInter-American Development Bank: Annual Report for the respective year\r\nWorld Trade Organisation: WTO Annual Report 2015\r\nFinancial Stability Board: Charters of the Financial Stability Board"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "General Assembly website; Report of the Security Council; Report of the Economic and Social Council, Report of the International Monetary Fund; IBRD's Management�s Discussion & Analysis and Financial Statements; IFC Annual Report (volume 2); AfDB Annual Report; ADB Annual Report; IADB Annual Report; WTO Annual Report; Charters of the Financial Stability Board"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Available for all countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "From May-17"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "United Nations General Assembly: continuous \r\nUnited Nations Security Council: annually in September \r\nUnited Nations Economic and Social Council: annually in October \r\nInternational Monetary Fund: annually in October \r\nInternational Bank for Reconstruction and Development: annually in September \r\nInternational Finance Corporation: annually in September \r\nAfrican Development Bank: annually in May \r\nAsian Development Bank: annually in April \r\nInter-American Development Bank: annually in April \r\nWorld Trade Organisation: annually in May \r\nFinancial Stability Board: annually in January \r\nNext release: UNGA: continuous; UNSC: September 2016; ECOSOC: October 2016; IMF: October 2016; IBRD: September 2016; IFC: September 2016; AfDB: May 2017; ADB: April 2017; IADB: April 2017; WTO: May 2017; FSB: January 2017."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nUNGA, UNSC, ECOSOC, IMF, IBRD, IFC, AfDB, ADB, IADB, WTO, FSB.\r\nDescription:\r\nThe United Nations General Assembly, the United Nations Security Council, the United Nations Economic and Social Council, the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation, the African Development Bank, the Asian Development Bank, the Inter-American Development Bank, the World Trade Organisation, and the Financial Stability Board."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nFFD/UN-DESA\r\nDescription:\r\nThe data is compiled and the proportions calculated by the Financing for Development Office, United Nations Department of Economic and Social Affairs."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "https://www.un.org/development/desa/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "NA"
+                }
+            }
+        }
+    ]
+}

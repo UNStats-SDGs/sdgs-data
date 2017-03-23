@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.c",
+    "description": "Health worker density and distribution",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Density of health workers per 1000 population"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "NA"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data on health workers tend to be more complete for the public sector and may underestimate the active workforce in the private, military, nongovernmental organization and faith-based health sectors.\r\nThe data set has missing years as data is not always published on annually. Due to the differences in data sources, considerable variability remains across countries in the coverage, periodicity, quality and completeness of the original data."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Traditionally, this indicator has been estimated using 2 measurements: density of physicians and density of nursing and midwifery personnel (both per 1000 population). For each country the same or the closest year was used to the extent available. In the context of the SDG agenda, the dataset will be expanded to physicians, nursing personnel, midwifery personnel, dentists, pharmacists and progressively move to cover all health cadres."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "National level data"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The data is compiled from two types of sources: population-based and institution-based records. The former includes total population counts (such as the census) and data on representative populations or sub-populations (such as labour force and employment surveys). Institution-based sources include health facility assessments (HFA) and routine administrative records (RAR), which comprise records on public expenditure, staffing and payroll, professional training, registration and licensure. \r\nIn cases where the official health workforce report provide density indicators instead of counts, estimates\r\nof the stock were then calculated using the population estimated from the United Nations Population\r\nDivision's World population prospects database (2010).\r\nFollowing the adoption of the Global strategy on human resources for health: workforce 2030 and resolution (WHA 69.19) to address human resources for health (HRH) challenges at the 69th World Health Assembly, May 2016, Member States are called on to consolidate a core set of human resources for health data with annual reporting to the Global Health Observatory, as well as progressive implementation of national health workforce accounts, to support national policy and planning and the Global Strategy�s monitoring and accountability framework."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "NA"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "NA"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/hrh/statistics/hwfstats/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_R19-en.pdf\r\nhttp://www.who.int/hrh/resources/global_strategy2030en-printversion.pdf?ua=1\r\nhttp://www.who.int/hrh/statistics/hwfstats/en/ ;\r\nhttp://apps.who.int/gho/data/node.main.A1444?lang=en&showonly=HWF"
+                }
+            }
+        }
+    ]
+}

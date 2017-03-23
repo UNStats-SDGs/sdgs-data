@@ -1,0 +1,111 @@
+{
+    "goal_id": "5",
+    "target_id": "5.3",
+    "description": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Marriage before the age of 18 is a fundamental violation of human rights. Child marriage often compromises a girl�s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at increased risk of intimate partner violence. In many cultures, girls reaching puberty are expected to assume gender roles associated with womanhood. These include entering a union and becoming a mother. \r\nThe practice of early/child marriage is a direct manifestation of gender inequality. \r\nThe issue of child marriage is addressed in a number of international conventions and agreements. Although marriage is not mentioned directly in the Convention on the Rights of the Child, child marriage is linked to other rights � such as the right to freedom of expression, the right to protection from all forms of abuse, and the right to be protected from harmful traditional practices."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Both formal (i.e., marriages) and informal unions are covered under this indicator. Informal unions are generally defined as those in which a couple lives together for some time, intends to have a lasting relationship, but for which there has been no formal civil or religious ceremony (i.e., cohabitation)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "There are existing tools and mechanisms for data collection that countries have implemented to monitor the situation with regards to this indicator. The modules used to collect information on marital status among women and men of reproductive age (15-49 years) in the DHS and MICS have been fully harmonized."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of women aged 20-24 who were first married or in union before age 15 (or before age 18) divided by the total number of women aged 20-24 in the population multiplied by 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Age, income, place of residence, geographic location, education, ethnicity (for some countries)"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only but are not published as country-level estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as UNICEF-supported MICS and DHS have been collecting data on this indicator in low- and middle-income countries since around the late 1980s. In some countries, such data are also collected through national censuses or other national household surveys."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Comparable data on this indicator are currently available for 124 low- and middle-income countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (in most cases)"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/child-marriage.html"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.9",
+    "description": "Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Organisation for Economic Co-operation and Development (OECD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries is defined as Gross disbursements of total ODA and other official flows from all donors for capacity building and national planning."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Total ODA and OOF flows to developing countries quantify the public effort (excluding export credits) that donors provide to developing countries."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "ODA: The DAC defines ODA as \"those flows to countries and territories on the DAC List of ODA Recipients and to multilateral institutions which are i) provided by official agencies, including state and local governments, or by their executive agencies; and ii) each transaction is administered with the promotion of the economic development and welfare of developing countries as its main objective; and\r\nis concessional in character and conveys a grant element of at least 25 per cent (calculated at a rate of discount of 10 per cent). (See http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)\r\nOther official flows (OOF): Other official flows (excluding officially supported export credits) are defined as transactions by the official sector which do not meet the conditions for eligibility as ODA, either because they are not primarily aimed at development, or because they are not sufficiently concessional. (See http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf, Para 24).\r\n�All donors� refers to DAC donors, non-DAC donors and multilateral organisations. \r\n "
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data in the Creditor Reporting System are available from 1973. However, the data coverage is considered complete since 1995 for commitments at an activity level and 2002 for disbursements."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The sum of ODA and OOF flows from all donors to developing countries for capacity building and national planning."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator can be disaggregated by type of flow (ODA or OOF), by donor, recipient country, type of finance, type of aid, sector, etc."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "None"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "None"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional figures are based on the sum of ODA and OOF flows."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The OECD/DAC has been collecting data on official and private resource flows from 1960 at an aggregate level and 1973 at an activity level through the Creditor Reporting System (CRS data are considered complete from 1995 for commitments at an activity level and 2002 for disbursements).\r\nThe data are reported by donors according to the same standards and methodologies (see here: http://www.oecd.org/dac/stats/methodology.htm).\r\nData are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "A statistical reporter is responsible for the collection of DAC statistics in each providing country/agency. This reporter is usually located in the national aid agency, Ministry of Foreign Affairs or Finance etc."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "On a donor basis for all DAC countries and many non-DAC providers (bilateral and multilateral) that report to the DAC on sector level data.\r\nOn a recipient basis for all developing countries eligible for ODA."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are published on an annual basis in December for flows in the previous year. Detailed 2015 flows will be published in December 2016. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Dec-16"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Data are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "OECD"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.oecd.org/dac/stats"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "See all links here: http://www.oecd.org/dac/stats/methodology.htm"
+                }
+            }
+        }
+    ]
+}

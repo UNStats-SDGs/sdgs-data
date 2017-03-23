@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.5",
+    "description": "Research and development expenditure as a proportion of GDP",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Research and development (R&D) expenditure as a proportion of Gross Domestic Product (GDP) is the amount of R&D expenditure divided by the total output of the economy."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator is a direct measure of Research and development (R&D) spending referred to in the target."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The OECD Frascati Manual (OECD, 2015) provides the relevant definitions for research and experimental development, gross domestic expenditure on R&D and researchers. Although an OECD manual, the application is global. During the 6th revision of the Frascati Manual, developing country issues were mainstreamed in the core of the Manual. The 7th edition was released in October 2015.\r\nThe following definitions, taken from the 2015 edition of the Frascati Manual are relevant for computing the indicator. \r\nResearch and experimental development (R&D) comprise creative and systematic work undertaken in order to increase the stock of knowledge � including knowledge of humankind, culture and society � and to devise new applications of available knowledge.\r\nExpenditures on intramural R&D represent the amount of money spent on R&D that is performed within a reporting unit."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Research and development (R&D) data need to be collected through surveys, which are expensive, and are not done on a regular basis in many developing countries. Furthermore, (developing) countries do not always cover all sectors of performance. In particular the business sector is not always covered."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Computation of the indicator Research and development (R&D)expenditure as a proportion of Gross Domestic Product (GDP) is self-explanatory, using readily available GDP data as denominator."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "R&D expenditure can be broken down by sector of performance, source of funds, field of science, type of research and type of cost."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing data are not estimated by the UIS."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Imputations are based on interpolations or extrapolations of data for other reference years. In case no data are available at all, the unweighted regional average is used as an estimate."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Data are converted using purchasing power parities. Missing data are imputed using the methodology described above. R&D expenditure data are then added up by region and divided by GDP in PPP for that region. Similar for the global total."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "There are no differences in the underlying data. Difference may occur due to the use of difference data for the denominator used to calculate indicators."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are collected through national Research and development (R&D) surveys, either by the national statistical office or a line ministry (such as the Ministry for Science and Technology)."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The UNESCO Institute of Statistics (UIS) sends out a questionnaire every year to collect R&D data from all countries (around 125 countries), which are not covered by the data collections of the other partner organizations such as the Organisation for Economic Co-operation and Development (OECD), Eurostat (Statistical Office of the European Union) and the Network on Science and Technology Indicators � Ibero-American and Inter-American (RICYT). In agreement with these three organisations, their data (which were collected from their member states/associated member states � around 65 countries-) are directly obtained from the respective databases (in the case of the OECD and Eurostat) or received from the partner (in the case of RICYT). There is also collaboration in Africa with the African STI Indicators Initiative (ASTII) of AU/NEPAD, which may lead to a joint data collection in the future. \r\nFor the data UIS sends a questionnaire to, the process is the following:\r\n(i): a questionnaire is sent to focal points in countries, generally within the Ministry of Science and Technology or the national statistical office.\r\n(ii) UIS processes the questionnaires, communicating with the countries in case of questions, calculates indicators and releases the data and indicators on its website. \r\n(iii) Countries are requested to complete the questionnaire using the standard international classifications, therefore adjustments are generally not needed."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data available for over 130 countries for R&D expenditure as % of GDP"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Data available in the UIS database since reference year 1996, but historical data available back to 1981 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "UIS sends out the questionnaire in September every year. The OECD and Eurostat collect data twice per year."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "July every year"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Data are collected through national R&D surveys, either by the national statistical office or a line ministry (such as the Ministry for Science and Technology)."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nThe UNESCO Institute of Statistics (UIS), Organisation for Economic Co-operation and Development (OECD), Eurostat (Statistical Office of the European Union) and the Network on Science and Technology Indicators � Ibero-American and Inter-American (RICYT), African STI Indicators Initiative (ASTII) of AU/NEPAD"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.uis.unesco.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "OECD (2015), Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development, The Measurement of Scientific, Technological and Innovation Activities, OECD Publishing, Paris. DOI:\r\nhttp://dx.doi.org/10.1787/9789264239012-en. \r\nUIS Data centre:\r\nhttp://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&popupcustomise=true&lang=en.\r\nRelated indicators\r\n2a, 3b, 12a, 14a, 17.6, 17.7"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "10",
+    "target_id": "10.4",
+    "description": "Labour share of GDP, comprising wages and social protection transfers",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Labour share of Gross Domestic Product (GDP) is the total compensation of employees given as a percent of GDP, which is a measure of total output. It provides information about the relative share of output which is paid as compensation to employees as compared with the share paid to capital in the production process for a given reference period."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Labour share of Gross Domestic Product (GDP) seeks to inform about the relative share of GDP which accrues to employees as compared with the share which accrues to capital in a given reference period. \r\nIn order to interpret this indicator effectively, it is important to consider it together with economic growth trends. The share of labour compensation in national output can highlight the extent to which economic growth translates into higher incomes for employees over time. In periods of economic recession, the wage share provides an indication of the extent to which falling output reduces labour incomes relative to profits. If labour incomes fall at a greater rate than profits, the wage share will be expected to fall. By contrast, if there is a sharper decline in profits than in labour incomes, the wage share will rise. For any given level of GDP and profits, the wage share can fall as a result of falling wage employment, falling wages or a combination of both.\r\nIncreased production and GDP often lead to improved living standards of individuals in the economy, but this will depend on the distribution of real income and public policy among other factors. \r\nIf there is a large number of non-resident border or seasonal workers or inflows and outflows of property income such that the value of production differs from the income of residents, there may be a situation of over or understating the living standards of residents."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Compensation of employees is the total in-cash or in-kind remuneration payable to the employee by the enterprise for the work performed by the employee during the accounting period. Compensation of employees includes: (i) wages and salaries (in cash or in kind) and (ii) social insurance contributions payable by employers. This concept views compensation of employees as a cost to employer, thus compensation equals zero for unpaid work undertaken voluntarily. Moreover, it does not include taxes payable by employers on the wage and salary bill, such as payroll tax.\r\nThe indicator should be produced using data that cover all employees and all economic activities.\r\nGross domestic product (GDP) represents the market value of all final goods and services produced during a specific time period (for the purposes of this indicator, an year) in a country's territory.\r\nEmployees are all those workers who hold the type of job defined as paid employment jobs, that is, jobs where the incumbents hold explicit or implicit employment contracts giving them a basic remuneration not directly dependent on the revenue of the unit for which they work. Total employment is made up by employees and the self-employed."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "In general, labour share in GDP will underestimate the proportion of GDP accrued to total employment, as it covers only the compensation of employees and does not include the labour income of the self-employed. Thus the indicator may be less relevant in countries where a large proportion of employment is in self-employment. However, an adjusted labour share may be estimated to take into account the labour income of self-employed workers.\r\nGDP may exclude or underreport activities that are difficult to measure, such as transactions in the informal sector or in illegal markets, etc. thus understating the GDP. Moreover, GDP does not account for the social and environmental costs of production, and is therefore is not a good measure of the level of over-all wellbeing."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Labour share of Gross Domestic Product = Total compensation of employees / Gross Domestic Product * 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "No disaggregations are required for this indicator."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The recommended primary data sources for this indicator are the national accounts estimates of GDP and compensation of employees. The periodicity of this indicator will hence depend on the national accounts data produced in the given country.\r\nThe source of the data should be presented when providing estimates of the indicator, as well as the System of National Accounts revision (preferably the SNA 2008). The concept definition of compensation of employees that is used should be specified, or alternatively, if another wage or labour income concept is used, this should be clearly indicated."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ILOSTAT: \r\nwww.ilo.org/ilostat\r\nILO Social Protection Data and Indicators:\r\nhttp://www.social-protection.org/gimi/gess/ShowTheme.action?th.themeId=10&lang=EN\r\nSystem of National Accounts:\r\nhttp://unstats.un.org/unsd/nationalaccount/sna.asp\r\nDenet Work Indicators Manual:\r\nhttp://www.ilo.org/stat/Publications/WCMS_223121/lang--en/index.htm"
+                }
+            }
+        }
+    ]
+}

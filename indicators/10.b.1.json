@@ -1,0 +1,111 @@
+{
+    "goal_id": "10",
+    "target_id": "10.b",
+    "description": "Total resource flows for development, by recipient and donor countries and type of flow (e.g., official development assistance, foreign direct investment and other flows)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Organisation for Economic Co-operation and Development (OECD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Total resource flows for development, by recipient and donor countries and type of flow comprises of Official Development Assistance (ODA), other official flows (OOF) and private flows."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Total resource flows to developing countries quantify the overall expenditures that donors provide to developing countries."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Official and private flows, both concessional and non-concessional to developing countries. For official flows the major distinction is between official development assistance (ODA) and other official flows\r\nOOF, while private flows are broken down into flows at market terms and charitable grants. Flows include contributions to multilateral development agencies, which are themselves official bodies.\r\nSee http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The sum of official and private flows from all donors to developing countries."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator can be disaggregated by type of flow (ODA, OOF, private), by donor, recipient country, type of finance, type of aid etc."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "None - no estimates are made for missing values"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Not applicable"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional figures are based on the sum of total resource flows to developing countries."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Development Assistance Committee (/DAC) statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The OECD Development Assistance Committee (DAC) has been collecting data on official and private resource flows from 1960 at an aggregate level.\r\nThe data are reported by donors according to the same standards and methodologies (see here: http://www.oecd.org/dac/stats/methodology.htm).\r\nData are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "A statistical reporter is responsible for the collection of DAC statistics in each providing country/agency. This reporter is usually located in the national aid agency, Ministry of Foreign Affairs or Finance etc."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "On a donor basis for all DAC countries and many non-DAC providers (bilateral and multilateral) that report to the DAC.\r\nOn a recipient basis for all developing countries eligible for ODA."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are published on an annual basis in December for flows in the previous year. Detailed 2015 flows will be published in December 2016."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Dec-16"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Description:\r\nData are reported on an annual calendar year basis by statistical reporters in national administrations (aid agencies, Ministries of Foreign Affairs or Finance, etc."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nOECD"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.oecd.org/dac/stats"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "See all links here: http://www.oecd.org/dac/stats/methodology.htm"
+                }
+            }
+        }
+    ]
+}

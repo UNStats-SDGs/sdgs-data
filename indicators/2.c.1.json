@@ -1,0 +1,111 @@
+{
+    "goal_id": "2",
+    "target_id": "2.c",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator of food price anomalies (IFPA) identifies abnormally high or low prices that occur for a food commodity price series over a given period of time"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The food price surge in global markets in 2007-2008 and then again in 2011, spurred a lot of interest in creating an indicator to detect abnormal growth in prices in commodity and consumer markets, where advance warning of an impending food crisis can be critical. Sometimes market prices are the only source of information available to assess the severity of a market shock. Because prices summarize information held by a large number of economic agents, including their expectations regarding likely short-term developments in supply and demand, they are ideal to characterize the functioning of food commodity markets and may help to put in place policies that limit extreme price volatility."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The basis for the IFPA is a weighted sum of two compound growth rates (CGR). The use of two compound growth rates, quarterly and annual, aims to take into account the potential seasonal movements of food prices.\r\nA CGR is a geometric mean that assumes that a random variable grows at a steady rate, compounded over a specific period of time. Because it assumes a steady rate of growth the CGR smooths the effect of volatility of periodic price movements. The CGR is the growth in any random variable from time period t-0 to t-n, raised to the power of one over the length of the period of time being considered."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator cannot be used and is not suitable for forecasting of future events, it is only able to characterize previous events."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Step 1: Calculation of two compound growth rates, on a rolling quarterly and annual basis\r\nStep 2: Computing a weighted average and standard deviations for each of the compound growth rates. In the computation of both these moments of the distribution of the compound growth rates, declining time weights are used to make sure that more recent price dynamics are not overshadowed by past extreme events which could prevent the detection of significant market shocks on prices.\r\nStep 3: Identification of a price anomalies. First the normalized difference between the current months CGR from its historical mean for the quarterly and annual compound growths is calculated. Then the results for each CGR are summed using a weight of 0.6 for the results of the annual CGR and 0.4 for the quarterly CGR. When this sum exceeds one standard deviation, the change in price (positive or negative) is considered abnormal."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The IFPA at is most dis-aggregated level is reported at a country/market/commodity level. The IFPA can be aggregated to the national, sub-national and regional level depending on the availability of aggregated price series."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When missing values occur in a price series different techniques are used from using trend growth to fitting a simple auto-regressive model."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Not Applicable"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "At the moment there are no differences as the indicator is calculated by FAO. No country is calculating the IFPA at the moment"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The data for the calculation of the IFPA is compiled from national line-ministries, mostly agricultural ministries, and are available at: http://www.fao.org/giews/pricetool/"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The indicator has been calculated for 92 countries, for over 1600 series on a monthly basis since 2014. Results are reported to at least 2007 if not earlier."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data has been collected continuously on a monthly basis since 2009."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The results are published the 10th of each month at: http://www.fao.org/giews/food-prices/home/en/ "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The sources are numerous and are listed for each price series in the FPMA Price Tool, which can be found at: http://www.fao.org/giews/pricetool/"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "The data is compiled by FAO's Global Information and Early Warning System"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.fao.org/giews/food-prices/home/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://www.fao.org/giews/food-prices/research/detail/en/c/235685/"
+                }
+            }
+        }
+    ]
+}

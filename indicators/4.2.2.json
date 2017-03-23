@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.2",
+    "description": "Participation rate in organized learning (one year before the official primary entry age), by sex",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The participation rate in organized learning (one year before the official primary entry age), by sex as defined as the percentage of children in the given age range who participate in one or more organized learning programme, including programmes which offer a combination of education and care. Participation in early childhood and in primary education are both included. The age range will vary by country depending on the official age for entry to primary education."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator measures children�s exposure to organized learning activities in the year prior to the start of primary school. A high value of the indicator shows a high degree of participation in organized learning immediately before the official entrance age to primary education."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "An organized learning programme is one which consists of a coherent set or sequence of educational activities designed with the intention of achieving pre-determined learning outcomes or the accomplishment of a specific set of educational tasks. Early childhood and primary education programmes are examples of organized learning programmes. \r\nEarly childhood and primary education are defined in the 2011 revision of the International Standard Classification of Education (ISCED 2011). Early childhood education is typically designed with a holistic approach to support children�s early cognitive, physical, social and emotional development and to introduce young children to organized instruction outside the family context. Primary education offers learning and educational activities designed to provide students with fundamental skills in reading, writing and mathematics and establish a solid foundation for learning and understanding core areas of knowledge and personal development. It focuses on learning at a basic level of complexity with little, if any, specialisation. \r\nThe official primary entry age is the age at which children are obliged to start primary education according to national legislation or policies. Where more than one age is specified, for example, in different parts of a country, the most common official entry age (i.e. the age at which most children in the country are expected to start primary) is used for the calculation of this indicator at the global level."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Participation in learning programmes in the early years is not full time for many children, meaning that exposure to learning environments outside of the home will vary in intensity. The indicator measures the percentage of children who are exposed to organized learning but not the intensity of the programme, which limits the ability to draw conclusions on the extent to which this target is being achieved. More work is needed to ensure that the definition of learning programmes is consistent across various surveys and defined in a manner that is easily understood by survey respondents, ideally with complementary information collected on the amount of time children spend in learning programmes."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The number of children in the relevant age group who participate in an organized learning programme is expressed as a percentage of the total population in the same age range. The indicator can be calculated both from administrative data and from household surveys. If the former, the number of enrolments in organized learning programmes are reported by schools and the population in the age group one year below the official primary entry age is derived from population estimates. For the calculation of this indicator at the global level, population estimates from the UN Population Division are used. If derived from household surveys, both enrolments and population are collected at the same time.\r\nPROL0t1,AG(a-1) = E0t1,AG(a-1)\r\nSAPAG(a-1)\r\nwhere:\r\nPROL0t1,AG(a-1) = participation rate in organized learning one year before the official entry age a to primary education\r\nE0t1,AG(a-1) = enrolment in early childhood or primary education (ISCED levels 0 and 1) aged one year below the official entry age a to primary education\r\nSAPAG(a-1) = school-age population aged one year below the official entry age a to primary education"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "By age and sex from administrative sources, and by age, sex, location and income from household surveys. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The UIS estimates certain key items of data that may be missing or incomplete in order to have publishable estimates at the country level. Where this is not possible the UIS imputes missing values for use only for calculating regional and global aggregates.\r\nFor the purposes of calculating participation rates by age, the UIS may make one or more of the following:\r\n� An adjustment to account for over- or under-reporting, for example:\r\no To include enrolments in a type of education � such as private education or special education � not reported by the country; and/or \r\no To include enrolments in a part of the country not reported by the country.\r\n� An estimate of the number of enrolments in the given age group if the age distribution was not reported by the country\r\n� A redistribution of enrolments of unknown age (across known ages)\r\n� An estimate of the population in the official age group for small countries (if neither the UN Population Division nor the country itself can provide estimates of their own).\r\nIn all cases estimates are based on evidence from the country itself (eg information from the data provider on the size of the missing component, via correspondence, publications or data on the Ministry�s or National Statistical Office�s Webpage, or via surveys conducted by other organizations) or on data from the country for a previous year. These figures may be published: (i) as observed data if the missing items are found in a national source; (ii) as national estimates if the country is persuaded to produce estimates and submit them in place of missing data; or (iii) as UIS estimates, if the estimates are made by the UIS.\r\nThe age distribution of enrolments is most commonly estimated from the age distribution reported in a previous year. If the country has never reported the age distribution of enrolments, the age distribution reported in another survey, if available, is used (such as Multiple Indicator Cluster Surveys (MICS) or Demographic Health Surveys (DHS)).\r\nEnrolments of unknown age are redistributed across known ages if they constitute more than 5% of the total enrolments in that level of education. No estimation is made if they are 5% or less.\r\nPopulation estimates by age for countries with small population � produced only where there are no other suitable estimates available either from UNPD or from the country itself � are made only for countries which have reported education data to the UIS and for which population estimates from a reliable source are available in some years."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Regional and global aggregates are derived from both publishable and imputed national data. Publishable data are the data submitted to the UIS by Member States or the result of an explicit estimation made by the Institute based on pre-determined standards. In both cases, these data are sent to Member States for review before they are considered publishable by the UIS. \r\nWhen data are not available for all countries, the UIS imputes national data for the sole purpose of calculating regional averages. These imputed data are not published nor otherwise disseminated. \r\nWhere data are available for a country for both an earlier and a more recent year than the missing year, a simple linear interpolation is made. Where data are only available for an earlier year, the most recent value is used as an estimate. Similarly, where data are only available for a more recent year, the last value is used as an estimate.\r\nWhere the relevant data are not available at all for a country, estimates may be based on another variable which is clearly linked to the item being estimated. For example, enrolments by age may be based on total enrolments.\r\nWhere no data are available for the country in any year that can inform the estimate, the unweighted average for the region in which the country lies is used."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates are calculated as weighted averages using the denominator of the indicator as the weight. As described previously, where publishable data are not available for a given country or year, values are imputed for the purpose of calculating the regional and global aggregates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Nationally-published figures may differ from the international ones because of differences between national education systems and the International Standard Classification of Education (ISCED); or differences in coverage (i.e. the extent to which different types of education � e.g. private or special education � are included in one rather than the other) and/or between national and the United Nations Population Division (UNPD) population estimates."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Administrative data from schools and other centres of organized learning or from household surveys on enrolment by single year of age in early learning programmes; population censuses and surveys for population estimates by single year of age (if using administrative data on enrolment); administrative data from ministries of education on the official entrance age to primary education."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The UNESCO Institute for Statistics produces time series based on enrolment data reported by Ministries of Education or National Statistical Offices and population estimates produced by the UN Population Division. The enrolment data are gathered through the annual Survey of Formal Education. Countries are asked to report data according to the levels of education defined in the International Standard Classification of Education (ISCED) to ensure international comparability of resulting indicators.\r\nThe data received are validated using electronic error detection systems that check for arithmetic errors and inconsistencies and trend analysis for implausible results. Queries are taken up with the country representatives reporting the data so that corrections can be made (of errors) or explanations given (of implausible but correct results). During this process countries are also encouraged to provide estimates for missing or incomplete data items.\r\nIn addition, countries also have an opportunity to see and comment on the main indicators the UIS produces in an annual \"country review\" of indicators."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "From administrative sources: 151 countries (at least once in the period 2010-2015) Developed regions 45, Caucasus and Central Asia 5, Northern Africa 3, Sub-Saharan Africa 34, Eastern Asia 2, South-Eastern Asia 9, Southern Asia 4, Western Asia 12, Latin America and the Caribbean 33, Oceania 4."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "1998-2015 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "June 2016 (developed regions) and January 2017 (developing regions) "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "November/December 2016."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Ministries of Education and/or National Statistical Offices."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "The Survey of Formal Education Instruction Manual http://www.uis.unesco.org/UISQuestionnaires/Documents/UIS_ED_M_2016.pdf and \r\nUIS Questionnaire on Students and Teachers (ISCED 0-4) http://www.uis.unesco.org/UISQuestionnaires/Pages/default.aspx.\r\nRelated indicators\r\n1.4, 4.5"
+                }
+            }
+        }
+    ]
+}

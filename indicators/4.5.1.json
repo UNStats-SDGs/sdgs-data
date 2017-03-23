@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.5",
+    "description": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Parity indices require data for the specific groups of interest. They represent the ratio of the indicator value for one group to that of the other. Typically, the likely more disadvantaged group is placed in the numerator. A value of exactly 1 indicates parity between the two groups."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "To measure the general level of disparity between two sub-populations of interest with regard to a given indicator. The further from 1 the parity index lies, the greater the disparity between the two groups of interest."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "See metadata for relevant underlying indicator."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator is not symmetrical about 1 but a simple transformation can make it so (by inverting ratios that exceed 1 and subtracting them from 2). This will make interpretation easier."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator value of the likely more disadvantaged group is divided by the indicator value of the other sub-population of interest. \r\nDPI = [Indi]d\r\n[Indi]a\r\nwhere:\r\nDPI = the Dimension (Gender, Wealth, Location, etc.) Parity Index\r\nIndi = the Education 2030 Indicator i for which an equity measure is needed.\r\nd = the likely disadvantaged group (e.g. female, poorest, etc.)\r\na = the likely advantaged group (e.g. male, richest, etc.)"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "None because the parity indices directly compare two sub-populations of interest."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The same as the underlying indicator."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The same as the underlying indicator."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The same as the underlying indicator."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The same as the underlying indicator."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The sources are the same as for the underlying indicators for this goal."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The same as the underlying indicator."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Depends on underlying indicator "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Depends on underlying indicator. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Depends on underlying indicator. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The same as the underlying indicator."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "See references for each underlying indicator.\r\nRelated indicators\r\nAll equity targets and targets associated with the underlying indicators."
+                }
+            }
+        }
+    ]
+}

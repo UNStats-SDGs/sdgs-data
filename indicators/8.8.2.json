@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.8",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator is defined according to ILO Conventions 87 on Freedom of Association and Protection of the Right to Organize and 98 on Right to Organize and Collective Bargaining and related ILO jurisprudence. This indicator is based on coding the findings of selected sources and compiling this information in a readily accessible and concise manner. It builds on five basic elements: the premises of definitional validity, reproducibility and transparency; the 108 evaluation criteria used to code violations in law and practice (each with their own specific detailed definitions); the textual sources selected for coding; the general and source-specific coding rules; and the rules to convert the coded information into normalized indicators."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator represents a tool to monitor compliance of labour rights. Its goal is to provide reliable and concise data on the status of freedom of association and collective bargaining rights in law and practice in the world today."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Freedom of association represents the right of workers and employers to form and join organizations of their own choosing, an integral part of a free and open society. In many cases, these organizations have played a significant role in their countries� democratic transformation. Collective bargaining refers to all negotiations which take place between an employer, a group of employers or one or more employers' organisations, on the one hand, and one or more workers' organisations, on the other, for: (a) determining working conditions and terms of employment; and/or (b) regulating relations between employers and workers; and/or (c) regulating relations between employers or their organisations and a workers' organisation or workers' organisations."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The coding is based on violations reliably reported on trustworthy textual sources, which means that the indicator does not take into account all other violations. This indicator should always be analysed along with information on the national context and the national legal framework, since it is highly dependent on these. Now, the coding has been done along a period which goes beyond the year and therefore more efforts to code and make the information available from ILO sources should be carried out."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Scores are assigned based on coding of freedom of association and collective bargaining rights violations in ILO textual sources according to the 108 evaluation criteria. Weights for these evaluation criteria are assigned based on the use of the Delphi survey method of expert consultation. Indicator are normalized to range zero to 10 (best to worst possible score) with breakdowns for overall freedom of association and collective bargaining rights as well as these rights in law and in practice. The database for the indicators is constructed such that coding of any given violations can be quickly traced back to the full text on which the coding is based, for each of the individual textual sources. The rules used for coding and the underlying methodology can be found at http://labour-rights-indicators.la.psu.edu/about. A Methodological paper is currently available in the IAEG-SDG metadata already submitted."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator should be disaggregated by both sex and migrant status. However, now the coding is not complying with this but with further work it will be possible to have information on foreign migrant workers and on sex."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Alternative sources are compiled by Penn University in cases of missing data from ILO sources. However, for comparison reasons, it would be more accurate to code as many countries as possible from ILO sources on a more timely way in order to avoid using proxies at the national level which could lead to conflict."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The computation of this indicator is done jointly by the ILO and the Penn University. It is based on textual ILO sources containing reliable information on violations of freedom of association and collective bargaining. The main textual sources used are reports of the ILO Committee of Experts on the Application of Conventions and Recommendations, reports of the ILO Conference Committee on the Application of Standards, country baselines under the ILO Declaration Annual Review, representations under Article 24 of the ILO Constitution, complaints under Article 26 of the ILO Constitution, reports of the Committee on Freedom of Association, as well as national legislation. These sources are all ILO sources coming from the ILO supervisory mechanisms and their databases. The coding is being done by a joint group of the ILO and Penn University. The indicator currently compiled by Penn University include additional sources which will not be used for the SDG indicator. However, in the database it is now already possible only to use ILO sources."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Reliable data are currently available on the web for 182 countries. Data is also available for 9 other countries but with a warning regarding the considerable information bias underlying their scores."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 2005 to 2012 and 2015 will be soon available (From 2005 to 2015)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "This indicator has been computed for 2000, 2005, 2009, 2012. It is planned to be computed annually as from its final adoption as an SDG indicator. Currently, the computation for 2015 is being undertaken. Data for 2000 and 2009 will be public in 2017. There is a need to schedule an annual regular reporting. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "ILO will provide the data working jointly with Penn University."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO will compile the data working jointly with Penn University."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://labour-rights-indicators.la.psu.edu/ \r\n(Please note that this website is only transitional and may soon change.)"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ILO Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87):\r\nhttp://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C087\r\nILO C098 - Right to Organise and Collective Bargaining Convention, 1949 (No. 98): \r\nhttp://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312243:NO\r\nDecent Work Indicators Manual: \r\nhttp://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nKucera and Sari, New \"Labour Rights Indicators\": Method and Results: \r\nhttp://labour-rights-indicators.la.psu.edu/docs/Method%20Paper.pdf \r\nKucera and Sari, New \"Labour Rights Indicators\": Coding Rules and Definitions:\r\nhttp://labour-rights-indicators.la.psu.edu/docs/Coding%20Rules.pdf\r\nRelated indicators\r\n1"
+                }
+            }
+        }
+    ]
+}

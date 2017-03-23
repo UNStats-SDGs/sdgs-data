@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.18",
+    "description": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Partnership in Statistics for Development in the 21st Century (PARIS21)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator Number of countries with a national statistical plan that is fully funded and under implementation is based on the annual Status Report on National Strategies for the Development of Statistics (NSDS). In collaboration with its partners, PARIS21 reports on country progress in designing and implementing national statistical plans. The indicator is a count of countries that are either (i) implementing a strategy, (ii) designing one or (iii) awaiting adoption of the strategy in the current year."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "NA"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Simple count of countries that are either (i) implementing a strategy, (ii) designing one or (iii) awaiting adoption of the strategy in the current year."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator can be disaggregated by geographical area."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional-level aggregates are based on the total count of national strategies."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data is provided by the National Statistical Offices. The information is collected annually and verified by direct email correspondence with the national focal point for the country's NSDS (National Strategy for Development of Statistics)."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "National Statistical Offices"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The current time series for 2007-2015 covers 121 developing countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 2007 to 2015"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Jan-17"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "01-Feb-17"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nPARIS21"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "PARIS21"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.paris21.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "PARIS21 (2016). NSDS Status Report. Available at http://www.paris21.org/nsds-status\r\nRelated indicators\r\n17.19.1:\r\nDollar value of all resources made available to strengthen statistical capacity in developing countries"
+                }
+            }
+        }
+    ]
+}

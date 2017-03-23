@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.2",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Office on Drugs and Crime (UNODC)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator is defined as the ratio between the total number of victims of trafficking in persons detected or living in a country and the population resident in the country, expressed per 100,000 populations.\r\nAccording to Article 3, paragraph (a) of the UN Trafficking in Persons Protocol, trafficking in persons is defined as \"the recruitment, transportation, transfer, harbouring or receipt of persons, by means of the threat or use of force or other forms of coercion, of abduction, of fraud, of deception, of the abuse of power or of a position of vulnerability or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation. Exploitation shall include, at a minimum, the exploitation of the prostitution of others or other forms of sexual exploitation, forced labour or services, slavery or practices similar to slavery, servitude or the removal of organs\".\r\nArticle 3, (b) states \"the consent of a victim of trafficking in persons to the intended exploitation set forth in subparagraph (a) of this article shall be irrelevant where any of the means set forth in subparagraph (a) have been used\";\r\nArticle 3, (c) states \"the recruitment, transportation, transfer, harbouring or receipt of a child for the purpose of exploitation shall be considered trafficking in persons even if this does not involve any of the means set forth in subparagraph (a);\""
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The rationale is measuring the prevalence of the number of victims of trafficking according to the victims profile and the forms of exploitation."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "According to the definition given in the Trafficking in Persons Protocol, trafficking in persons has three constituent elements; The Act (Recruitment, transportation, transfer, harbouring or receipt of persons), the Means\r\n(Threat or use of force, coercion, abduction, fraud, deception, abuse of power or of a position of vulnerability, or giving payments or benefits to a person in control over another person) and the Purpose (at minimum exploiting the prostitution of others, sexual exploitation, forced labour, slavery or similar practices and the removal of organs).\r\nThe definition implies that the exploitation does not need to be in place, as the intention by traffickers to exploit the victim is sufficient to define a trafficking offence. Furthermore, the list of exploitative forms is not limited, which means that other forms of exploitation may emerge and they could be considered to represent additional forms of trafficking offences."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The count of detected victims of trafficking has the benefit of referring to victims as defined by the UN Protocol where the act, the mean and the purpose of trafficking have been identified by the national authorities. However it does not cover the dark number of crime, i.e. the number of victims non detected by the authorities. While information on detected victims can provide valuable information to monitor sex and age profile of detected victims, as well as on forms of exploitation ,trafficking flows, the number of detected victims per se doesn�t monitor the level of trafficking of persons so interpretation of trends should be done with caution, as changes in detected victims of trafficking can be due to multiple factors such as intensity of trafficking flows but also to changes of law enforcement practices, changes in legislation, or changes in victims attitudes,."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "This numerator of this indicator is composed of two parts: detected and undetected victims of trafficking in persons. The detected part of trafficking victims, as resulting from investigation and prosecution activities of criminal justice system, is counted and reported by national law enforcement authorities.\r\nThe indicator will be calculated as the ratio between the sum of detected and undetected victims of trafficking and the population resident in the country, multiplied by 100,000"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Recommended disaggregations for this indicator are:\r\n- sex and age of victims\r\n- form of exploitation"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Data on detected victims of trafficking are not estimated, if not provided by national authorities.\r\nMethods to estimate undetected victims of trafficking are currently being tested by UNODC."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are not imputed."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates of number of victims of trafficking are currently not produced."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Data on detected victims of trafficking used at international level correspond to those produced at national level."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data on detected victims of trafficking are typically provided by national authorities competent in detecting trafficking victims, law enforcement institutions, or services assisting the victims. Data are collected by UNODC through a questionnaire sent to national authorities through their Permanent Missions to the United Nations in Vienna (or any other competent authority designated by the Ministry of Foreign Affairs) and published in the UNODC Global Report on Trafficking in Persons every two years."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNODC collects data from national authorities competent in detecting victims of trafficking through a common questionnaire. Once consolidated, before publication data are shared with countries to check their accuracy."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Currently UNODC has regular data collection on detected victims of trafficking in persons for about 130 countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Information available since 2003 (limited to detected victims of trafficking)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data collection is conducted every year, starting in the II quarter. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The next edition of the Global Report on Trafficking in Persons, with most up-to date data until 2014, is scheduled on November 2016. The Report is published every two years. ( November 2016)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "UNODC collects data from national authorities (normally designated by the Ministry of Foreign Affairs) competent in detecting victims of trafficking, either law enforcement institutions or national agencies responsible for assisting victims of trafficking"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNODC"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unodc.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "www.unodc.org/glotip.html\r\nUNODC, Global Report on Trafficking in Persons, 2014\r\nRelated indicators\r\nTarget 5.2 and 8.7 refer to trafficking in persons:\r\nUnemployment rate, by sex, age and persons with disabilities\r\nComments:\r\nTarget 5.2 and 8.7 refer to trafficking in persons"
+                }
+            }
+        }
+    ]
+}

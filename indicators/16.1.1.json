@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.1",
+    "description": "Number of victims of intentional homicide per 100,000 population, by sex and age",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Office on Drugs and Crime (UNODC)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator is defined as the total count of victims of intentional homicide divided by the total population, expressed per 100,000 population.\r\nIntentional homicide is defined as the unlawful death inflicted upon a person with the intent to cause death or serious injury (Source: International Classification of Crime for Statistical Purposes, ICCS 2015); population refers to total resident population in a given country in a given year."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator is widely used at national and international level to measure the most extreme form of violent crime and it also provides a direct indication of lack of security. Security from violence is a pre-requisite for individuals to enjoy a safe and active life and for societies and economies to develop freely. Intentional homicides occur in all countries of the world and this indicator has a global applicability.\r\nMonitoring intentional homicides is necessary to better assess their causes, drivers and consequences and, in the longer term, to develop effective preventive measures. If data are properly disaggregated (as suggested in the ICCS), the indicator can identify the different type of violence associated with homicide: inter-personal (including partner and family-related violence), crime (including organized crime and other forms of criminal activities) and socio-political (including terrorism, hate crime)."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "In the ICCS intentional homicide is defined as the ��Unlawful death inflicted upon a person with the intent to cause death or serious injury\". This definition contains three elements characterizing the killing of a person as intentional homicide:\r\n1. The killing of a person by another person (objective element);\r\n2. The intent of the perpetrator to kill or seriously injure the victim (subjective element);\r\n3. The unlawfulness of the killing, which means that the law considers the perpetrator liable for the unlawful death (legal element).\r\nThis definition states that, for statistical purposes, all killings corresponding to the three criteria above should be considered as intentional homicides, irrespective of definitions provided by national legislations or practices."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The ICCS provides important clarifications on the definition of intentional homicide. In particular, it states that the following killings are included in the count of homicide:\r\n- Murder\r\n- Honour killing\r\n- Serious assault leading to death\r\n- Death as a result of terrorist activities\r\n- Dowry-related killings\r\n- Femicide\r\n- Infanticide\r\n- Voluntary manslaughter\r\n- Extrajudicial killings\r\n- Killings caused by excessive force by law enforcement/state officials\r\nFurthermore, the ICCS provides indications on how to distinguish between intentional homicides, killings directly related to war/conflict and other killings that amount to war crimes.\r\nThe fact that homicide data are typically produced by two separate and independent sources at national level (criminal justice and public health) represents a specific asset of this indicator, as the comparison of the two sources is a tool to assess accuracy of national data. Usually, for countries where data from both sources exist, a good level of matching between the sources is recorded (see UNODC Global Study on Homicide, 2013).\r\nData on homicides produced by public health authorities are guided by the International classification of diseases (ICD-10), which provides a definition of �Death by assault� that is very close to the definition of intentional homicide of the ICCS."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is calculated as the total number of victims of intentional homicide recorded in a given year divided by the total resident population in the same year, multiplied by 100,000.\r\nIn several countries, two separate sets of data on intentional homicide are produced, respectively from criminal justice and public health/civil registration systems. When existing, figures from both data sources are reported. Population data are derived from annual estimates produced by the UN Population Division."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Recommended disaggregation for this indicator are:\r\n- sex and age of the victim and the perpetrator (suspected offender)\r\n- relationship between victim and perpetrator (intimate partner, other family member, acquaintance, etc.)\r\n- means of perpetration (firearm, blunt object, etc.)\r\n- situational context/motivation (organized crime, intimate partner violence, etc.)"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "WHO produces estimates for countries where national data on homicide are not available from neither criminal justice nor from public health/civil registration. These estimates are used when compiling the global dataset and produce estimates of missing values (for information on the methodology, see WHO-UNDP-UNODC, Global Status Report on Violence Prevention 2014)."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "WHO produces estimates for countries where national data on homicide are not available from neither criminal justice nor from public health/civil registration. These estimates are used when compiling the global dataset and produce estimates of missing values (for information on the methodology, see WHO-UNDP-UNODC, Global Status Report on Violence Prevention 2014).\r\nUNODC and WHO are working together to develop a common approach to produce joint UNODC-WHO homicide data series at country, regional and global level."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates are calculated as weighted averages of national data, with weights provided by the national resident population."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Discrepancies might exist between country produced and internationally reported counts of intentional homicides as national data might refer to national definition of intentional homicide while data reported by UNODC aim to comply with the definition provided by the ICCS (approved in 2015 by Member States in the UN Statistical Commission and the UN Commission on Crime Prevention and Criminal Justice). UNODC makes special efforts to count all killings falling under the ICCS definition of intentional homicide, while national data may still be compiled according to national legal systems rather than the statistical classification. . The gradual implementation of ICCS by countries should improve quality and consistency of national and international data.\r\nIntentional homicide rates may also differ due to the use of different population figures."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Two separate sources exist at country level: a) criminal justice system; b) public health/civil registration. UNODC collects and publishes data from criminal justice systems through its long-lasting annual data collection mandated by the UN General Assembly (UN Crime Trends Survey, UN-CTS); WHO collects and publishes data produced by public health/civil registration. The data collection through the UN-CTS is facilitated by a network of over 130 national Focal Points appointed by responsible authorities.\r\nCurrently, when national data on homicide are not available from neither of the two types of source above, estimates produced by WHO are used.\r\nUNODC and WHO are working together to develop a common approach to produce joint UNODC-WHO homicide data series at country, regional and global level."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "At international level, data on intentional homicides are routinely collected by UNODC through the annual UN-CTS data collection. As requested by the UN Commission on Crime Prevention and Criminal Justice, over 130 Member States have already appointed a UN-CTS national focal point that delivers UN-CTS data to UNODC. In most cases these focal points are national institutions responsible for data production in the area of crime and criminal justice (National Statistical Offices, Ministry of Interior, Ministry of Justice, etc.). For countries that have not appointed a focal point, the request for data is sent to permanent missions in Vienna. When a country does not report to UNODC, other official sources such as authoritative websites, publications, or other forms of communication are used. Homicide estimates from WHO are currently used when no other source on homicide is available. Once consolidated, data are shared to countries to check their accuracy.\r\nWhen data and related metadata are available, some adjustments are made to data in order to assure compliance with the definition of intentional homicide as provided by the ICCS. National data on types of killings that are considered as intentional homicide by the ICCS, while being classified under a different crime at country level, are added to national figures of intentional homicide. This can be done only when detailed data on such types of killings (e.g. serious assault leading to death, honor killing, etc.) are available.\r\nAs for UNODC data dissemination policy, data for SDG monitoring will be sent to countries for consultation prior to publication."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Considering data collected by both UNODC and WHO, national data on homicide are available for 174 countries (at least one data point between 2009-2013) . Time series data on homicide suitable for monitoring are available for 141 countries (at least 3 data points, the most recent between 2011-2013)."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2010-2014 "
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "III-IV quarter 2016 "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Second quarter 2017 (data for 2015)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nData on intentional homicide are sent to UNODC by member states, usually through national UN-CTS Focal Points which in most cases are national institutions responsible for data production in the area of crime and criminal justice (National Statistical Offices, Ministry of Interior, Ministry of Justice, etc.). The primary source on intentional homicide is usually an institution of the criminal justice system (Police, Ministry of Interior, general Prosecutor Office, etc.). Data produced by public health/civil registration system are sent to WHO through national health authorities.\r\nDescription:\r\nData on intentional homicide are sent to UNODC by member states, usually through national UN-CTS Focal Points which in most cases are national institutions responsible for data production in the area of crime and criminal justice (National Statistical Offices, Ministry of Interior, Ministry of Justice, etc.). The primary source on intentional homicide is usually an institution of the criminal justice system (Police, Ministry of Interior, general Prosecutor Office, etc.). Data produced by public health/civil registration system are sent to WHO through national health authorities."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nUnited Nations Office on Drugs and Crime (UNODC),WHO\r\nDescription:\r\nAt international level, data on intentional homicides are routinely collected and disseminated by the United Nations Office on Drugs and Crime (UNODC) through the annual UN-Crime Trend Survey (CTS) data collection. UNODC partners with regional organizations in the collection and dissemination of homicide data, respectively with Eurostat in Europe and with the Organisation of American States in the Americas. WHO collects data on intentional homicide in the framework of regular data collection on causes of death . In this context, data on deaths by assault are considered as intentional homicides."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unodc.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "UNODC Homicide Database (https://data.unodc.org/), UNODC, Global Study on Homicide 2013; WHO-UNDP-UNODC, Global Status Report on Violence Prevention 2014); UNODC, International Classification of Crime for Statistical Purposes - ICCS, 2015\r\nRelated indicators\r\nTarget 5.2 and Goal 11:\r\nUnemployment rate, by sex, age and persons with disabilities"
+                }
+            }
+        }
+    ]
+}

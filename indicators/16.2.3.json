@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.2",
+    "description": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18"
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Sexual violence is one of the most unsettling of children's rights violations. Experiences of sexual violence in childhood hinder all aspects of development: physical, psychological/emotional and social. Apart from the physical injuries that can result, researchers have consistently found that the sexual abuse of children is associated with a wide array of mental health consequences and adverse behavioural outcomes in adulthood. \r\nThe issue is universally relevant and the indicator captures one of the gravest forms of violence against children. The right of children to protection from all forms of violence is enshrined in the Convention on the Rights of the Child (CRC) and its Optional Protocols."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Definition from General Comment No. 13 on the Convention of the Rights of the Child (CRC):\r\nSexual violence comprises any sexual activities imposed by an adult on a child against which the child is entitled to protection by criminal law. This includes: (a) The inducement or coercion of a child to engage in any unlawful or psychologically harmful sexual activity; (b) The use of children in commercial sexual exploitation; (c) The use of children in audio or visual images of child sexual abuse; and (d) Child prostitution, sexual slavery, sexual exploitation in travel and tourism, trafficking for purposes of sexual exploitation (within and between countries), sale of children for sexual purposes and forced marriage. Sexual activities are also considered as abuse when committed against a child by another child if the offender is significantly older than the victim or uses power, threat or other means of pressure. Consensual sexual activities between children are not considered as sexual abuse if the children are older than the age limit defined by the State Party."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The availability of comparable data remains a serious challenge in this area as many data collection efforts have relied on different study methodologies and designs, definitions of sexual violence, samples and questions to elicit information. A further challenge in this field is underreporting, especially when it comes to reporting on experiences of sexual violence among boys and men."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of young women and men aged 18-29 years who report having experienced any sexual violence by age 18 divided by the total number of young women and men aged 18-29 years, respectively, in the population multiplied by 100."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex, age, income, place of residence, geographic location, marital status, education"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "When data for a country are entirely missing, UNICEF does not publish any country-level estimate."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only, but are not published as country-level estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Household surveys such as DHS have been collecting data on this indicator in low- and middle-income countries since the late 1990s."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF undertakes an annual process to update its global databases, called Country Reporting on Indicators for the Goals (CRING). This exercise is done in close collaboration with UNICEF country offices with the purpose of ensuring that UNICEF global databases contain updated and internationally comparable data. UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why. New data points that are accepted are then entered into UNICEF�s global databases and published in the State of the World�s Children statistical tables, as well as in all other data-driven publications/material. The updated databases are also posted online at data.unicef.org.\r\nUNICEF also searches throughout the year for additional sources of data that are vetted by the UNICEF country office before they are included in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Nationally representative and comparable data are currently available for women from 34 low- and middle-income countries and for men from 5 low- and middle-income countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices (for the most part) or line ministries/other government agencies that have conducted national surveys on sexual violence against women and men."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "data.unicef.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://data.unicef.org/child-protection/sexual-violence.html"
+                }
+            }
+        }
+    ]
+}

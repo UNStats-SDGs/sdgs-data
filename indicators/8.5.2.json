@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.5",
+    "description": "Unemployment rate, by sex, age and persons with disabilities",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The unemployment rate conveys the percentage of persons in the labour force who are unemployed."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The unemployment rate is a useful measure of the underutilization of the labour supply. It reflects the inability of an economy to generate employment for those persons who want to work but are not doing so, even though they are available for employment and actively seeking work. It is thus seen as an indicator of the efficiency and effectiveness of an economy to absorb its labour force and of the performance of the labour market. Short-term time series of the unemployment rate can\r\nbe used to signal changes in the business cycle; upward movements in the indicator often coincide with recessionary periods or in some cases with the beginning of an expansionary period as persons previously not in the labour market begin to test conditions through an active job search."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Persons in unemployment are defined as all those of working age (usually persons aged 15 and above) who were not in employment, carried out activities to seek employment during a specified recent period and were currently available to take up employment given a job opportunity, where: (a) \"not in employment\" is assessed with respect to the short reference period for the measurement of employment; (b) to \"seek employment\" refers to any activity when carried out, during a specified recent period comprising the last four weeks or one month, for the purpose of finding a job or setting up a business or agricultural undertaking; (c) the point when the enterprise starts to exist should be used to distinguish between search activities aimed at setting up a business and the work activity itself, as evidenced by the enterprise�s registration to operate or by when financial resources become available, the necessary infrastructure or materials are in place or the first client or order is received, depending on the context; (d) \"currently available\" serves as a test of readiness to start a job in the present, assessed with respect to a short reference period comprising that used to measure employment (depending on national circumstances, the reference period may be extended to include a short subsequent period not exceeding two weeks in total, so as to ensure adequate coverage of unemployment situations among different population groups).\r\nPersons in employment are defined as all those of working age (usually persons aged 15 and above) who, during a short reference period, were engaged in any activity to produce goods or provide services for pay or profit. They comprise: (a) employed persons \"at work\", i.e. who worked in a job for at least one hour; (b) employed persons \"not at work\" due to temporary absence from a job, or to working-time arrangements (such as shift work, flexitime and compensatory leave for overtime)\r\nThe labour force corresponds to the sum of persons in employment and in unemployment."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Even though in most developed countries the unemployment rate continues to prove its usefulness as an important indicator of labour market performance, and specifically, as a key measure of labourunderutilization, in many developing countries, however, the significance and meaning of the unemployment rate could be questioned. In the absence of unemployment insurance systems or social safety nets, persons of working age must avoid unemployment, resorting to engaging in some form of economic activity, however insignificant or inadequate. Thus, in this context, other measures should supplement the unemployment rate to comprehensively assess labour underutilization."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Unemployment rate = Unemployed persons / Persons in the labour force *100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator should, ideally, be disaggregated by sex, age group and disability status."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Multivariate regression techniques are used to impute missing values at the country level. For a more detailed methodological description, please refer to Trends Econometric Models: A Review of Methodology (ILO, Geneva, 2010), available at http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "To address the problem of missing data, the former ILO Employment Trends Team designed several econometric models which are actively maintained and used to produce estimates of labour market indicators in the countries and years for which real data are not available. The Global Employment Trends Model (GET Model) is used to produce estimates, in particular, on unemployment (among others). It uses multivariate regression techniques to impute missing values at the country level. The first step is to assemble every known piece of real information (i.e. every real data point), and keep only data that are national in coverage and comparable across countries and over time. This is an important selection criterion when GET Models are run, because they are designed to use the relationship between the various labour market indicators and their macroeconomic correlates � such as per capita GDP, GDP growth rates, demographic trends, country membership in the Heavily Indebted Poor Countries initiative (HIPC), geographical indicators, and country and time dummy variables � in order to produce estimates of the labour market indicators where no data exist. Thus, the comparability of the labour market data that are used as inputs in the imputation models is essential to ensure that the models accurately capture the relationship between the labour market indicators and the macroeconomic variables. The last step of the estimation procedure occurs once the datasets containing both real and imputed labour market data have been assembled. In this step, the data are aggregated across countries to produce the final world and regional estimates. For further information on the GET Models, please refer to the technical background papers available at the following website: http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The preferred official national data source for this indicator is a household-based labour force survey. The population census and/or other household surveys with an appropriate employment module may also be used to obtain the required data. Unemployment registers can serve as instruments to collect data on unemployment levels, and used to supplement the information obtained in household surveys."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The indicator is widely available both from actual data provided by countries and also by estimates carried out by the ILO yearly. However, the disaggregation by disability is not widely available. It is increasingly reported but coverage is still very low."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Mainly National Statistical Offices, and in some cases Labour Ministries or other related agencies."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Decent Work Indicators Manual: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nResolution concerning statistics of work, employment and labour underutilization, adopted by the 19th ICLS in 2013: http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm\r\nTrends Econometric Models: A Review of Methodology: http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_120382.pdf\r\nKey Indicators of the Labour Market, 9th edition, Tables KILM 9 and R5: www.ilo.org/ilostat/kilm"
+                }
+            }
+        }
+    ]
+}

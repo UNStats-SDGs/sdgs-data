@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.2",
+    "description": "Manufacturing value added as a proportion of GDP and per capita",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Industrial Development Organization (UNIDO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Manufacturing value added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita is the total value of goods and services net of intermediate consumption. It is generally compiled as the sum of the value added of all manufacturing activity units in operation in the reference period. For the purpose on comparability over time and across countries MVA is estimated in terms of  constant prices in USD. The current series are given at constant prices of 2010."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. MVA measures the contribution of manufacturing to economy. The indicator is exceptionally good for international comparison. Share of MVA in GDP establishes the role of manufacturing in the economy. In other words, this indicator specifies the contribution of the manufacturing sector to total production. MVA per capita is the basic indicator of a country�s level of industrialization adjusted for the size of the economy. And finally, the MVA growth provides insight into the general direction and magnitude of growth for the manufacturing sector. In practice, it is a measure of the rate of change that an economy's MVA goes through from one year to another at constant prices."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "MVA may differ from the industry value added which measures value added of a particular industrial sector at two-digit or at more detail level as per the International Standard for Industrial Classification (ISIC) or other classification compatible to it such as NACE or NAICS. Industry value added data is obtained from the annual industrial surveys, while MVA is obtained from the national accounts data."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "This is a widely used and a matured indicator."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "MVA proportion to GDP = MVA/GDP*100.\r\nMVA per capita = MVA/population"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data can be presented for country groups (LDCs, LLDC) and the world regions. Industry value added can also be presented by sector (ISIC)."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Boudt, Todorov, Upadhyaya (2009): Nowcasting manufacturing value added for cross-country comparison; Statistical Journal of IAOS"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional, global aggregation of direct summation of country values within the country groups. Although UNIDO uses its own country grouping methods; data are submitted as per IAEG-SDG agreed groups."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Minor differences may arise due to exchange rates for conversion to USD, different base years used for constant price data and methods for recent period estimation."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "UNIDO maintains MVA database which is updated every year. Figures for updates are obtained from national account estimates produced by NSOs and MVA data in USD are also taken from UN Statistics Division. National currency data are converted to USD by using IMF exchange rates."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "National Accounts estimates produced by NSOs; UNSD (MVA data); IMF (exchange rates)"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The country data are obtained from their official publication or official web-sites."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "For more than 200 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "1990 onwards"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are published in the International Yearbook of Industrial Statistics. MVA electronic database maintained by UNIDO updated every year around March - April that includes data for immediately past year. (From Mar-17 to Apr-17)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "MVA estimates up to 2016 will be published before 2017. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistical offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNIDO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unido.org/statistics"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "International Yearbook of Industrial Statistics; UNIDO"
+                }
+            }
+        }
+    ]
+}

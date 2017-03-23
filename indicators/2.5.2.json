@@ -1,0 +1,111 @@
+{
+    "goal_id": "2",
+    "target_id": "2.5",
+    "description": "Proportion of local breeds classified as being at risk, not-at-risk or at unknown level of risk of extinction",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator presents the percentage of livestock breeds classified as being at risk, not at risk or of unknown risk of extinctions at a certain moment in time, as well as the trends for those percentages."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator has a direct link to \"biodiversity\" as animal or livestock genetic resources represent an integral part of agricultural ecosystems and biodiversity as such. Further there are indirect links to \"malnutrition\": Animal genetic resources for food and agriculture are an essential part of the biological basis for world food security, and contribute to the livelihoods of over a thousand million people. A diverse resource base is critical for human survival and well-being, and a contribution to the eradication of hunger: animal genetic resources are crucial in adapting to changing socio-economic and environmental conditions, including climate change. They are the animal breeder�s raw material and amongst the farmer�s most essential inputs. They are essential for sustainable agricultural production.\r\nNo increase of the percentage of breeds being at risk or being extinct is directly related to \"halt the loss of biodiversity\"."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "This indicator was originally proposed for the Target 15.5, and it serves also as an indicator for the Aichi Target 13 \"Genetic Diversity of Terrestrial Domesticated Animals\" under the Convention on Biological Diversity (CBD). It is described on the webpage of the Biodiversity Indicators Partnership (BIP), a network of organizations, which have come together to provide the most up-to date biodiversity information possible for tracking progress towards the Aichi Targets (http://www.bipindicators.net/domesticatedanimals). Further, it is presented in the Global Biodiversity Outlook 4, page 91 (see http://www.cbd.int/gbo/gbo4/publication/gbo4-en-lr.pdf) which is an output of the processes under the CBD."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Breed-related information remains far from complete. For almost 60 percent of all reported breeds, risk status is not known because of missing population data or lack of recent updates.\r\nGenerally data collection should be possible in all countries. Updating of population size data at least each 10 years is needed for the definition of the risk classes."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is based on the most up to date data contained in FAO�s Global Databank for Animal Genetic Resources DAD-IS (http://dad.fao.org/) at the time of calculation. Risk classes are defined based on population sizes of breeds reported to DAD-IS. The risk class is considered to be \"unknown\" if (i) no population sizes are reported or (ii) the most recent population size reported refers to a year more than 10- years before the year of calculation (10 year cut off point).\r\nLinks to official definitions/descriptions of the indicator are reported below:\r\nThe indicator is one out of a set of 3 sub-indicators which are defined in the document CGRFA/WG-AnGR-7/12/7 \"Targets and indicators for animal genetic resources\" (http://www.fao.org/docrep/meeting/026/me514e.pdf) and that are endorsed in their current form by the Commission on Genetic Resources for Food and Agriculture at its the 14th Session (see par 28 CRRFA-14/13/Report at http://www.fao.org/docrep/meeting/028/mg538e.pdf). \r\nThe indicator serves to monitor the implementation of the Global Plan of Action for Animal Genetic Resources. In this respect the indicator is presented in the \"Status and Trends of Animal Genetic Rescources-2014\" (see http://www.fao.org/3/a-mm278e.pdf).\r\nRisk classes are defined as follows (see also FAO. 2007. The State of the World�s Animal Genetic Resources for Food and Agriculture, edited by Barbara Rischkowsky & Dafydd Pilling. Rome. Accessible at http://www.fao.org/docrep/010/a1250e/a1250e00.htm.):\r\n� Extinct: a breed is categorized as extinct when there are no breeding males or breeding females remaining. Nevertheless, genetic material might have been cryo-conserved which would allow recreation of the breed. In reality, extinction may be realized well before the loss of the last animal or genetic material.\r\n� Critical: a breed is categorized as critical if the total number of breeding females is less than or equal to 100 or the total number of breeding males is less than or equal to five; or the overall population size is less than or equal to 120 and decreasing and the percentage of females being bred to males of the same breed is below 80 percent, and it is not classified as extinct.\r\n� Critical-maintained: are those critical populations for which active conservation programmes are in place or populations are maintained by commercial companies or research institutions.\r\n� Endangered: a breed is categorized as endangered if the total number of breeding females is greater than 100 and less than or equal to 1 000 or the total number of breeding males is less than or equal to 20 and greater than five; or the overall population size is greater than 80 and less than 100 and increasing and the percentage of females being bred to males of the same breed is above 80 percent; or the overall population size is greater than 1 000 and less than or equal to 1 200 and decreasing and the percentage of females being bred to males of the same breed is below 80 percent, and it is not assigned to any of above categories.\r\n� Endangered-maintained: are those endangered populations for which active conservation programmes are in place or populations are maintained by commercial companies or research institutions.\r\n� Breed at risk: a breed that has been classified as either critical, critical-maintained, endangered, or endangered-maintained."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data are available by country."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The Global Databank for Animal Genetic Resources currently contains data from 182 countries and 38 species. The total number of national breed populations recorded in the Global Databank has increased dramatically since 1993 (from 2,716 national breed populations to 14,915 and from 131 countries to 182). \r\nThe total number of mammalian national breed populations recorded in February 2016 was 11,116. The total number of avian national breed populations recorded in 2016 was 3,799."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "Global Databank for Animal Genetic Resources"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "See the biannually reports to the Commission of Genetic Resources of Food and Agriculture. The most recent report is available at: http://www.fao.org/AG/AGAInfo/programmes/en/genetics/angrvent-docs.html"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The underlying data base DAD-IS is maintained by FAO/AGAG (see http://dad.fao.org/). Data entry is possible all over the year. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nNational Coordinators for the Management of Animal Genetic Resources (NCs)\r\nDescription:\r\nThe data are provided by the National Coordinators for the Management of Animal Genetic Resources (NCs). The NC is officially nominated by the country (usually by the Ministry of Agriculture). FAO provides the password for entering/updating the country�s data within the global data information system DAD-IS directly to the NC, but only after having received the official nomination letter."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "FAO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://dad.fao.org/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "The indicator is calculated by FAO/AGAG and reported biannually to the Commission of Genetic Resources of Food and Agriculture. The report from 2014 is available at: http://www.fao.org/3/a-mm278e.pdf. The links to the BIP and CBD are provided above. FAO is a partner in the BIP and provides information on the indicator directly to the partnership."
+                }
+            }
+        }
+    ]
+}

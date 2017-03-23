@@ -1,0 +1,111 @@
+{
+    "goal_id": "6",
+    "target_id": "6.1",
+    "description": "Proportion of population using safely managed drinking water services",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)\r\nUnited Nations Children's Fund (UNICEF)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of population using safely managed drinking water services is currently being measured by the proportion of population using an improved basic drinking water source which is located on premises and available when needed and free of faecal (and priority chemical) contamination. �Improved� source defined the same as used for MDG monitoring i.e. piped water into dwelling, yard or plot; public taps or standpipes; boreholes or tubewells; protected dug wells; protected springs and rainwater."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "MDG target 7C called for �sustainable access� to �safe drinking water�. At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of �improved� water sources, which was used as a proxy for �safe water�, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.\r\nThe above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of �safely managed drinking water services� is designed to address this."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Improved drinking water sources include the following: piped water into dwelling, yard or plot; public taps or standpipes; boreholes or tubewells; protected dug wells; protected springs and rainwater. Packaged drinking water is considered improved if households use an improved water source for other domestic purposes\r\nA water source is considered to be �located on premises� if the point of collection is within the dwelling, yard, or plot.\r\n�Available when needed�: households are able to access sufficient quantities of water when needed.\r\n�Free from faecal and priority chemical contamination�: water complies with relevant national or local standards. In the absence of such standards, reference is made to the WHO Guidelines for Drinking Water Quality (http://www.who.int/water_sanitation_health/dwq/guidelines/en/). \r\nE. coli or thermotolerant coliforms are the preferred indicator for microbiological quality, and arsenic and fluoride are the priority chemicals for global reporting."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data on availability and safety of drinking water is increasingly available through a combination of household surveys and administrative sources including regulators, but definitions have yet to be standardized. Data on faecal and chemical contamination, drawn from household surveys and regulatory databases, will not cover all countries immediately. However, sufficient data exist to make global and regional estimates of safely managed drinking water services from 2017."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Method of computation: Household surveys and censuses currently provide information on types of basic drinking water sources listed above, and also indicate if sources are on premises. These data sources often have information on the availability of water and increasingly on the quality of water at the household level, through direct testing of drinking water for faecal or chemical contamination. These data will be combined with data on availability and compliance with drinking water quality standards (faecal and chemical) from administrative reporting or regulatory bodies. \r\nThe WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation (JMP) estimates access to basic services for each country, separately in urban and rural areas, by fitting a regression line to a series of data points from household surveys and censuses. This approach was used to report on use of �improved water� sources for MDG monitoring. The JMP is evaluating the use of alternative statistical estimation methods as more data become available.\r\nThe accompanying Methodological Note describes in more detail how data on availability and quality from different sources, can be combined with data on use of different types of supplies, as recorded in the current JMP database to compute the proposed indicator. \r\nhttp://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Place of residence (urban/rural) and socioeconomic status (wealth, affordability) is possible for all countries. Disaggregation by other stratifiers of inequality (subnational, gender, disadvantaged groups, etc.) will be made where data permit. Drinking water services will be disaggregated by service level (including no services, basic, and safely managed services) following the JMP drinking water ladder."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The JMP method uses a simple regression model to generate time series estimates for all years including for years without data points. The JMP then shares all its estimates using its country consultation mechanism to get consensus from countries before publishing its estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The JMP doesn't publish estimates for countries for which national data are not available. Regional and global estimates are made as long as data are available for 50% of the population with the region, weighting by the latest UN Population Division population estimates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "For more details on JMP rules and methods, please consult the website: www.wssinfo.org."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "JMP estimates are based on national sources of data approved as official statistics. Differences between global and national figures arise due to differences in indicator definitions and methods used in calculating national coverage estimates. In some cases national estimates are based on the most recent data point rather than from regression on all data points as done by the JMP. In some cases national estimates draw on administrative sector data rather than the nationally representative surveys and censuses used by the JMP."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Access to water and sanitation are considered core socio-economic and health indicators, and key determinants of child survival, maternal, and children�s health, family wellbeing, and economic productivity. Drinking water and sanitation facilities are also used in constructing wealth quintiles used by many integrated household surveys to analyse inequalities between rich and poor. Access to drinking water and sanitation is therefore a core indicator for most household surveys. Currently the JMP database holds over 1,600 surveys, and for over 140 countries at least five data points are available which include information about basic water and sanitation for the period 1990-2015. In high-income countries where household surveys or censuses do not usually collect information on basic access, estimates are drawn from administrative records. \r\nData on availability and faecal and chemical quality of drinking water, and regulation by appropriate authorities will be collected by JMP through consultation with the government departments responsible for drinking water supply and regulation. JMP routinely conducts country consultations with national authorities before publishing country estimates. Data on availability and quality of water supplies are currently available from household surveys or administrative sources including regulators for over 70 high-income countries, and at least 30-40 low- and middle-income countries. Thus, data are currently available from ca. 100 countries, covering the majority of the global population. This number will rise as regulation becomes more widespread in low- and middle-income countries.\r\nThe population data used by JMP, including the proportion of the population living in urban and rural areas, are those routinely updated by the UN Population Division."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "WHO is required by World Health Assembly resolution to consult on all WHO statistics, and seek feedback from countries on data about countries and territories. Before publishing, all JMP estimates undergo rigorous country consultations facilitated by WHO and UNICEF country offices. Often these consultations give rise to in-country visits, and meetings about data reconciliations. JMP has been engaged with more than fifty countries over the last 10 years in explaining JMP estimates, and reasons for discrepancies if any. JMP has also developed an online tool to facilitate future data validation and expanded its online capabilities so that these reconciliations could be done in much more interactive and real time manner, reducing cost of reconciliations missions."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "From 2010 to present:\r\nAsia and Pacific: Most countries (at least 80% of the countries covering 90% of the population from the region)\r\nAfrica: Many countries (at least 60% of the countries covering 80% of the population from the region)\r\nLatin America and the Caribbean: Most countries (at least 80% of the countries covering 90% of the population from the region)\r\nEurope, North America, Australia, New Zealand and Japan: Most countries (at least 90% of the countries covering over 90% of the population from the region)\r\nNote: Data from 2000 to 2010 are available for roughly 50% of countries, covering at least 50% of the population in all regions. \r\nPreliminary estimates are available for 140 countries: \r\nhttp://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/11/090224b084172a75/1_0/Original/The0costs0of0m0iene000data0catalog.xlsx"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Time series data are available for the basic drinking water level of service over the period 1990-2015. These serve as the foundation for the safely managed drinking water service indicator. Some elements of safe management (e.g. water quality) were not collected during the MDG period and trend analysis will only be possible several years into the SDGs. (From 1990 to 2015)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The current biennial data collection cycle began in early 2016 and will run through the beginning of 2017. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The baseline SDG report is due mid-2017 to feed into the SG�s report to be released in July 2017. (The baseline SDG report is due mid-2017 to feed into the SG�s report to be released in July 2017.)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices, Ministries of water, sanitation, health, environment. Regulators of water and sanitation services."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Name:\r\nWHO/UNICEF\r\nDescription:\r\nWHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.wssinfo.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "JMP website: www.wssinfo.org.\r\nJMP Methodological Note:\r\nhttp://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf.\r\nWHO Guidelines for Drinking Water Quality:\r\nhttp://www.who.int/water_sanitation_health/dwq/guidelines/en/\r\nPreliminary estimates for 140 countries on the use of safely managed drinking water services were published in a recent report produced in collaboration between the World Bank and the JMP. The report and data sources are available here: http://www.worldbank.org/en/topic/water/publication/the-costs-of-meeting-the-2030-sustainable-development-goal-targets-on-drinking-water-sanitation-and-hygiene\r\nRelated indicators\r\n6:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n1.2:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n1.4:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n2.2:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n3.2:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n3.8:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n3.9:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n4a:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n5.4:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\n11.1:\r\n(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure\r\nComments:\r\nAll targets under Goal 6, as well as targets 1.2, 1.4, 2.2, 3.2, 3.8, 3.9, 4a, 5.4 and 11.1"
+                }
+            }
+        }
+    ]
+}

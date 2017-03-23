@@ -1,0 +1,111 @@
+{
+    "goal_id": "8",
+    "target_id": "8.2",
+    "description": "Annual growth rate of real GDP per employed person",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Annual growth rate of real GDP per employed person conveys the annual percentage change in real Gross Domestic Product per employed person."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The real GDP per employed person being a measure of labour productivity, this indicator represents a measure of labour productivity growth, thus providing information on the evolution, efficiency and quality of human capital in the production process.\r\nEconomic growth in a country can be ascribed either to increased employment or to more effective work by those who are employed. This indicator casts light on the latter effect, being therefore a key measure of economic performance. Labour productivity (and growth) estimates can support the formulation of labour market policies and monitor their effects. They can also contribute to the understanding of how labour market performance affects living standards."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Gross Domestic Product (GDP): It is the main measure of national output, representing the total value of all final goods and services produced in a particular economy (that is, the dollar value of all goods and services produced within a country�s borders in a given year). According to the System of National Accounts (SNA), \"GDP is the sum of gross value added of all resident producer units plus that part (possibly the total) of taxes on products, less subsidies on products, that is not included in the valuation of output � GDP is also equal to the sum of the final uses of goods and services (all uses except intermediate consumption) measured at purchasers� prices, less the value of imports of goods and services    GDP is also equal to the sum of primary incomes distributed by resident producer units.\" \r\nReal Gross Domestic Product (GDP): The real GDP refers to the GDP calculated at constant prices, that is, the volume level of GDP, excluding the effect of inflation and favouring comparisons of quantities beyond price changes. Constant price estimates of GDP are calculated by expressing values in terms of a base period. In theory, the price and quantity components of a value are identified and the price in the base period is substituted for that in the current period.\r\nEmployed persons: Persons of working age (usually defined as persons aged 15 and above) who, during a short reference period such as a day or a week, (i) did some work (even for just one hour) for pay, profit or family gain, in cash or in kind; or (ii) were attached to a job or had an enterprise from which they were �temporarily� absent during this period (for such reasons as illness, maternity, parental leave, holiday, training, industrial dispute)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Output measures are obtained from national accounts and represent, as much as possible, GDP at market prices for the aggregate economy. However, despite common principles that are mostly based on the United Nations System of National Accounts, there are still significant problems in international consistency of national accounts estimates, based on factors such as differences in the treatment of output in services sectors, differences in methods used to correct output measures for price changes (in particular, the use of different weighting systems to obtain deflators) and differences in the degree of coverage of informal economic activities.\r\nMoreover, data on employment used in the denominator of this indicator refer, as much as possible, to the average number of persons with one or more paid jobs during the year. That is, the reliability of the employment data is also dependent on the degree of coverage of informal activities by the statistical source used."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Real GDP per employed person = GDP at constant prices / Total number of employed persons\r\nwhere the numerator and denominator refer to the same reference period, for example, the same calendar year.\r\nIf we call the real GDP per employed person \"LabProd\", then the annual growth rate of real GDP per employed person is calculated as follows:\r\nAnnual growth rate of real GDP per employed person = (LabProd in year n � LabProd in year n-1) / LabProd in year n-1 *100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "No disaggregation required for this indicator."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Multivariate regression techniques are used to impute missing values at the country level.\r\nFor a detailed description of the methodology used, please refer to Trends Econometric Models: A Review of Methodology (ILO, Geneva, 2010), available at http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "To address the problem of missing data, the former ILO Employment Trends Team designed several econometric models which are actively maintained and used to produce estimates of labour market indicators in the countries and years for which real data are not available. The Global Employment Trends Model (GET Model) is used to produce estimates, in particular, on labour productivity (among others). It uses multivariate regression techniques to impute missing values at the country level. The first step is to assemble every known piece of real information (i.e. every real data point), and keep only data that are national in coverage and comparable across countries and over time. This is an important selection criterion when GET Models are run, because they are designed to use the relationship between the various labour market indicators and their macroeconomic correlates � such as per capita GDP, GDP growth rates, demographic trends, country membership in the Heavily Indebted Poor Countries initiative (HIPC), geographical indicators, and country and time dummy variables � in order to produce estimates of the labour market indicators where no data exist. Thus, the comparability of the labour market data that are used as inputs in the imputation models is essential to ensure that the models accurately capture the relationship between the labour market indicators and the macroeconomic variables. The last step of the estimation procedure occurs once the datasets containing both real and imputed labour market data have been assembled. In this step, the data are aggregated across countries to produce the final world and regional estimates. For further information on the GET Models, please refer to the technical background papers available at the following website: http://www.ilo.org/empelm/projects/WCMS_114246/lang--en/index.htm."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Output measures used in the nominator of this indicator (Gross Domestic Product) are best obtained from the production side of national accounts and represent, as much as possible, GDP at market prices for the aggregate economy (adjusted for inflation, in constant prices).\r\nEmployment data used in the denominator are preferably derived from labour force or other household surveys with an employment module. In the absence of a household survey, establishment surveys, administrative records or official estimates based on reliable sources can be used as well as population censuses. It is however important to note that employment data from establishment surveys will capture the number of jobs and not the number of persons employed as preferred for the denominator. Also, establishment surveys cover, in many cases, the formal sector and employers and employees only, not accounting for the whole economy.\r\nWhen calculating this indicator, it is important to ensure that the coverage of the employment data is consistent with that of the national accounts."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "ILO estimates are available for 191 countries on a regular basis; Conference Board estimates are available for 121 countries on a regular basis."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Mainly National Statistical Offices, in some cases Labour Ministries or other related agencies."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Decent Work Indicators Manual: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nKey Indicators of the Labour Market, 9th edition, Table 16 on Labour Productivity: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_422456.pdf\r\nResolution concerning statistics of work, employment and labour underutilization, adopted by the 19th ICLS in 2013: http://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm\r\nSystem of National Accounts 2008: http://unstats.un.org/unsd/nationalaccount/sna2008.asp\r\nTrends Econometric Models: A Review of Methodology: http://www.ilo.org/empelm/pubs/WCMS_120382/lang--en/index.htm."
+                }
+            }
+        }
+    ]
+}

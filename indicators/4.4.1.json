@@ -1,0 +1,111 @@
+{
+    "goal_id": "4",
+    "target_id": "4.4",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNESCO Institute for Statistics (UNESCO-UIS)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The proportion of youth and adults with information and communications technology (ICT) skills, by type of skill as defined as the percentage of youth (aged 15-24 years) and adults (aged 15 years and above) that have undertaken certain computer-related activities in a given time period (e.g. last three months)."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "ICT skills determine the effective use of information and communication technology. The lack of such skills continues to be one of the key barriers keeping people, and in particular women, from fully benefitting from the potential of information and communication technologies."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Computer-related activities to measure ICT skills include:\r\n- Copying or moving a file or folder\r\n- Using copy and paste tools to duplicate or move information within a document\r\n- Sending e-mails with attached files (e.g. document, picture, and video)\r\n- Using basic arithmetic formulae in a spreadsheet\r\n- Connecting and installing new devices (e.g. modem, camera, printer)\r\n- Finding, downloading, installing and configuring software\r\n-Creating electronic presentations with presentation software (including text, images, sound, video or charts)\r\n- Transferring files between a computer and other devices\r\n- Writing a computer program using a specialised programming language\r\nA computer refers to a desktop computer, a laptop (portable) computer or a tablet (or similar handheld computer). It does not include equipment with some embedded computing abilities, such as smart TV sets or cell phones."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "This indicator is relatively new but based on an internationally-agreed definition and methodology, which have been developed under the coordination of International Telecommunications Union (ITU), through its Expert Groups and following an extensive consultation process with countries. It is also one of the Partnerships on Measuring ICT for Development�s Core List of Indicators, which was endorsed by the UN Statistical Commission in 2014.\r\nThe indicator is based on the responses provided by interviewees regarding certain computer-related activities that they have carried out in a reference period of time. However, it is not a direct assessment of skills nor do we know if those activities were undertaken effectively.\r\nOne main issue is that the definition of IEA assessment does not include programming while ITU definition does. Although both have application meaning using computer and computer with internet connection as a tool in everyday life, IEA's assessment of ICT skills definition is more restricted as compare to ITU's definition. If a common framework is to be established the definition of both will need to be harmonized."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is calculated as the percentage of people in a given population who have responded �yes� to a selected number of variables e.g. the use of ICT skills in various subject areas or learning domains, the use of ICT skills inside or outside of school and/or workplace, the minimum amount of time spend using ICT skills inside and outside of school and/or workplace, availability of internet access inside or outside of school and/or workplace, etc.\r\nPICTa = ICTa\r\nPa\r\nwhere:\r\nPICTa,s = percentage of people in age group a who have ICT skill s\r\nICTa,s = number of people in age group a who have ICT skill s\r\nPa = population in age group a"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "By age or age-group of students, sex, location and socio-economic status if collected in the relevant survey. "
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "None by data compiler."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "None by data compiler. "
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global aggregates are not currently available for this indicator."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "None"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "School or household surveys which collect data on the use of selected ICT skills."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Data were provided by the respective organizations responsible for each survey (Eurostat and ITU)."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "42 countries "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2005-2014"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Various. Each survey has its own data collection cycle. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Jul-16"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nBodies responsible for conducting household surveys or learning assessments (including Ministries of Education, National Statistical Offices and other data providers) in which information on the use of ICT skills is collected. For cross-national purposes, data providers include Eurostat and the International Telecommunication Union (ITU)."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNESCO Institute for Statistics"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.uis.unesco.org/Pages/default.aspx"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "International Telecommunication Union:\r\nhttp://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf\r\nEurostat:\r\nhttps://circabc.europa.eu/sd/a/50760cae-348b-4a8a-9569-a96a6704fb70/Methodological_Manual_2015_ISS.zip\r\nRelated indicators\r\n4.5, 5.b, 8.5, 8.6, 8.b, 9.2, 9.c"
+                }
+            }
+        }
+    ]
+}

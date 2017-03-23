@@ -1,0 +1,111 @@
+{
+    "goal_id": "5",
+    "target_id": "5.4",
+    "description": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UN Statistics Division (UNSD)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Time spent on unpaid domestic and care work refers to the average time women and men spend on household provision of services for own consumption. Domestic and care work includes food preparation, dishwashing, cleaning and upkeep of a dwelling, laundry, ironing, gardening, caring for pets, shopping, installation, servicing and repair of personal and household goods, childcare, and care of the sick, elderly or disabled household members, among others. \r\nTime spent on unpaid domestic and care work as well as on community or volunteer work constitutes the overall time spent on \"unpaid work\". Community or volunteer work includes volunteer services for organizations, unpaid community work, and informal help to other households, among other activities. Activities included in unpaid work are not included within the SNA production boundary but are part of the SNA General Production Boundary.\r\nAs much as possible, data compiled by UNSD are based on the International Classification of Activities for Time Use Statistics (ICATUS), according to which paid and unpaid work are delineated by the SNA production boundary."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "NA"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Relevant concepts include the SNA production boundary and SNA general production boundary, as well as the International Classification of Activities for Time Use Statistics (ICATUS). \r\nThe production boundary of the SNA includes the following activities (Source: System of National Accounts 2008, United Nations)\r\n-The production of all goods or services that are supplied to units other than their producers, or intended to be so supplied, including the production of goods or services used up in the process of producing such goods or services;\r\n-The own-account production of all goods that are retained by their producers for their own final consumption or gross capital formation; \r\n- The own-account production of knowledge-capturing products that are retained by their producers for their own final consumption or gross capital formation but excluding (by convention) such products produced by households for their own use; \r\n-The own-account production of housing services by owner occupiers; \r\n-The production of domestic and personal services by employing paid domestic staff\r\nThe SNA general production boundary includes all activities under the SNA production boundary and activities undertaken by households that produce services for their own use. (Source: System of National Accounts 2008, United Nations)\r\nThe International Classification of Activities for Time Use Statistics (ICATUS) classifies activities taken by persons during the survey period (currently under revision, will be finalized in 2016)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Time use statistics have been used for: (a) the measurement and analysis of quality of life or general well-being; (b) a more comprehensive measurement of all forms of work, including unpaid and volunteer work; and (c) for the improvement of estimates on the production of goods and services with particular emphasis on increasing visibility of women�s work through better statistics on their contribution to the economy and the development of satellite accounts.\r\nInternational comparability of time-use statistics is limited by a number of factors, including: \r\n(a) diary versus stylized time-use survey. Data on time-use can be collected through a 24-hour diary (light diary) or stylized questionnaire. With diaries, respondents are asked to report on what activity they were performing when they started the day, what activity followed, and the time that activity began and ended, and so forth through the 24 hours of the day. Stylized time-use questions ask respondents to recall the amount of time they allocated to a certain activity over a specified period, such as a day or week. Often, stylized time-use questions are attached as a module to a multipurpose household survey. The 24-hour diary method yields better results than the stylized method but is a more expensive mode of data collection. Data obtained from these two different data collection methods are not comparable. \r\n(b) Time-use activity classification. Regional and national classifications of time-use activities may differ from the trial ICATUS, resulting in data that are not comparable across countries. \r\n(c) Time-use data presented refer to the \"main activity\" only. Any \"secondary activity\" performed simultaneously with the main activity is not reflected in the average times shown. For instance, a woman may be cooking and looking after a child simultaneously. For countries reporting cooking as the main activity, time spent caring for children is not accounted for and reflected in the statistics. This may affect international comparability of data on time spent caring for children; it may also underestimate the time women spend on this activity. \r\n(d) The different age groups presented by countries for their data also makes time use data incomparable across countries."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Proportion of time spent on unpaid domestic and care work is calculated by dividing the average number of hours spent on unpaid domestic and care work each day by 24 hours. \r\nAverage number of hours spent on unpaid domestic work derives from time use statistics that is collected through stand-alone time-use surveys or a time-use module in multi-purpose household surveys. Data on time-use may be summarized and presented as either (1) average time spent for participants only or (2) average time spent for all population of certain age. In the former type of averages, the total time spent by the individuals who performed an activity is divided by the number of persons who performed it (participants). In the latter type of averages, the total time is divided by the total relevant population (or a sub-group thereof), regardless of whether people performed the activity or not. All statistics presented in the Minimum Set on Gender Indicators on time spent in various activities are averages based on all total relevant population. This type of averages can be used to compare groups and assess changes over time. Differences among groups or over time may be due to a difference (or change) in the proportion of those participating in the specific activity or a difference (or change) in the amount of time spent by participants, or both. \r\nData presented for this indicator are expressed as an average per day. It is averaged over seven days of the week (weekdays and weekends are not differentiated)."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data are disaggregated by sex."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "We do not produce estimates for missing values at this time"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "No imputation is done"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "As the number of countries conducting such surveys has not yet reached a level that regional aggregates could be computed, we are not computing regional aggregates at this time."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Do not apply"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data on time use are collected through dedicated time use surveys or from time-use modules integrated in multi-purpose household surveys, conducted at national level.\r\nData on time-use can be collected through a 24-hour diary (light diary) or stylized questionnaire. With diaries, respondents are asked to report on what activity they were performing when they started the day, what activity followed, and the time that activity began and ended, and so forth through the 24 hours of the day. Stylized time-use questions ask respondents to recall the amount of time they allocated to a certain activity over a specified period, such as a day or week. Often, stylized time-use questions are attached as a module to a multipurpose household survey. The 24-hour diary method yields better results than the stylized method but is a more expensive mode of data collection."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The official counterpart at the country level is national statistical offices. Data are collected and validated. If there are inconsistencies or issues with the data, our counterpart at the national statistical offices will be consulted. The data are, as much as possible, in line with the international standards. They include:\r\n- Guide to Producing Statistics on Time-Use: Measuring Paid und Unpaid Work\r\n- The International Classification of Activities for Time Use Statistics (ICATUS)"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "80 countries with data between 2000 and 2015\r\nBy Year:\r\nFrom 2000 � 2004: 42 countries\r\nFrom 2005 � 2009: 39 countries\r\nFrom 2010: 43 countries\r\nBy Region (2000 � 2015)\r\nAfrica: 13 countries\r\nAmericas: 16 countries\r\nAsia: 21 countries\r\nEurope: 28 countries\r\nOceania: 2 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 2000 to 2015"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "National surveys that time use data are conducted in various intervals. Once a survey is conducted, new data point will be added to the UNSD database. (From NA to NA)"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "April/May 2017"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "United Nations Statistics Division"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://unstats.un.org/unsd/gender/default.html"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "- Guide to Producing Statistics on Time-Use: Measuring Paid and Unpaid Work (http://unstats.un.org/unsd/pubs/gesgrid.asp?id=347)\r\n- Minimum Set of Gender Indicators (http://genderstats.un.org) \r\n- Data and metadata portal for time use indic"
+                }
+            }
+        }
+    ]
+}

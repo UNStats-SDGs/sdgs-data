@@ -1,0 +1,111 @@
+{
+    "goal_id": "7",
+    "target_id": "7.1",
+    "description": "Proportion of population with primary reliance on clean fuels and technology",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Proportion of population with primary reliance on clean fuels and technology  is calculated as the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting, expressed as percentage. \"Clean\" is defined by the emission rate targets and specific fuel recommendations (i.e. against unprocessed coal and kerosene) included in the normative guidance WHO guidelines for indoor air quality: household fuel combustion."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Cooking, lighting and heating represent a large share of household energy use across the low- and middle-income countries. For cooking and heating, households typically rely on solid fuels (such as wood, charcoal, biomass) or kerosene paired with inefficient technologies (e.g. open fires, stoves, space heaters or lamps). It is well known that reliance on such inefficient energy for cooking, heating and lighting is associated with high levels of household (indoor) air pollution. The use of inefficient fuels for cooking alone is estimated to cause over 4 million deaths annually, mainly among women and children. This is more than TB, HIV and malaria combined. These adverse health impacts can be avoided by adopting clean fuels and technologies for all main household energy end-or in some circumstances by adopting advanced combustion cook stoves (i.e. those which achieve the emission rates targets provided by the WHO guidelines) and adopting strict protocols for their safe use. Given the importance of clean and safe household energy use as a human development issue, universal access to energy among the technical practitioner community is currently taken to mean access to both electricity and clean fuels and technologies for cooking, heating and lighting. For this reason, clean cooking forms part of the universal access objective under the UN Secretary General�s Sustainable Energy for All initiative."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Current global data collection focuses on the primary fuel used for cooking, categorized as solid or non-solid fuels, where solid fuels are considered polluting and non-modern, while non-solid fuels are considered clean. This single measure captures a good part of the lack of access to clean cooking fuels, but fails to collect data on type of device or technology is used for cooking, and also fails to capture other polluting forms of energy use in the home such as those used for lighting and heating.\r\nNew evidence-based normative guidance from the WHO (i.e. WHO Guidelines for indoor air quality guidelines: household fuel combustion), highlights the importance of addressing both fuel and the technology for adequately protecting public health. These guidelines provide technical recommendations in the form of emissions targets for as to what fuels and technology (stove, lamp, and so on) combinations in the home are clean. These guidelines also recommend against the use of unprocessed coal and discourage the use kerosene (a non-solid but highly polluting fuel) in the home. They also recommend that all major household energy end uses (e.g. cooking, space heating, lighting) use efficient fuels and technology combinations to ensure health benefits.\r\nFor this reason, the technical recommendations in the WHO guidelines, access to modern cooking solution in the home will be defined as \"access to clean fuels and technologies\" rather than \"access to non-solid fuels.\" This shift will help ensure that health and other \"nexus\" benefits are better counted, and thus realized."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator uses the type of primary fuels and technologies used for cooking, heating, and lighting as a practical surrogate for estimating human exposure to household (indoor) air pollution and its related disease burden, as it is not currently possible to obtain nationally representative samples of indoor concentrations of criteria pollutants, such as fine particulate matter and carbon monoxide. However epidemiological studies provide a science-based evidence for establishing those estimates using these surrogates.\r\nThe indicator is based on the main type of fuel and technology used for cooking as cooking occupies the largest share of overall household energy needs. However, many households use more than one type of fuel and stove for cooking and, depending on climatic and geographical conditions, heating with polluting fuels can also be a contributor to household (indoor) air pollution levels. In addition, lighting with kerosene, a very polluting and hazardous fuel is also often used, and in some countries is the main fuel used for cooking.\r\nWhile the existing global household survey evidence base provides a good starting point for tracking household energy access for cooking fuel, it also presents a number of limitations that will need to be addressed over time. Currently there is a limited amount of available data capturing the type of fuel and devices used in the home for heating and lighting. Accordingly WHO in cooperation with World Bank, and the Global Alliance for Clean Cook stoves, is leading a survey enhancement process with representatives from country statistical offices and national household surveying agencies (e.g. Demographic and Health Survey, Multiple Indicator Cluster Survey, Living Standards Measurement Survey) to better gather efficiently and harmoniously information on the fuels and technologies for cooking, heating and lighting. This process is currently in the piloting phase with expected rollout of the final household surveys questions (~6 questions in total) expected in the coming year. These few questions will replace and slightly expand the current set of questions commonly used on national multipurpose surveys to assess household energy.\r\nSubstantial progress has already been made toward developing and piloting a new methodology known as the Multi-Tier Framework for Measuring Energy Access (World Bank) which is able to capture the affordability and reliability of energy access explicitly referenced in the language of SDG7 and harnesses the normative guidance in the WHO guidelines to benchmark tiers of energy access. The methodology for the Multi-Tier Framework for Measuring Energy Access has already been published based on a broad consultative exercise and represents a consensus view across numerous international agencies working in the field. A first Global Energy Access Survey using this methodology has already been launched and is underway expecting to yield results by early 2017."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is modelled with household survey data compiled by WHO. The information on cooking fuel use and cooking practices comes from about 800 nationally representative survey and censuses. Survey sources include Demographic and Health Surveys (DHS) and Living Standards Measurement Surveys (LSMS), Multi-Indicator Cluster Surveys (MICS), the World Health Survey (WHS), and other nationally developed and implemented surveys.\r\nEstimates of primary cooking energy for the total, urban and rural population for a given year are obtained separately using a multilevel model. The model only accounts for regions, countries and time as a spline function, and estimates are restricted to values ranging from zero to one. More details on the model are published elsewhere (Bonjour et al, 2013).\r\nEstimates for countries with no available surveys were obtained as follows:\r\nWhen survey data is available for a country, the regional population- weighted mean is used to derive aggregate estimates at a regional or global level, however no country point estimate is given for that country is reported\r\nCountries classified as high-income with a Gross National Income (GNI) of more than US$ 12,746.- per capita are assumed to have made a complete transition to using clean fuels and technologies as the primary domestic energy source for cooking and the primary reliance on polluting (unclean) fuels and technologies use is reported to be less than 5% and assumed as zero for regional and global estimates.\r\nFor estimating the fraction of the population relying on clean fuels and technologies for heating and lighting, the same methodology using survey data to derive country estimates for a particular year will be used using the same above mentioned assumptions."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregated estimates for different end-uses (i.e. cooking, heating and lighting; with expected improvements in household surveys, this will be possible for heating and lighting for all countries.\r\nDisaggregation of access to clean fuel and technologies for cooking by rural or urban place of residence is possible for all countries.\r\nGender disaggregation by main user (i.e. cook) of cooking energy will be available with expected improvements in household surveys\r\nGender disaggregation of head of household for cooking, lighting and heating is available\r\nGender equality\r\nEnergy is a service provided at the household, rather than individual level.\r\nNonetheless, it is used differentially by men and women and has different impacts on their health and well-being. What will be possible, in principle, is to report energy access disaggregated by the main user of cooking energy.\r\nIn addition, WHO's Household energy database includes country data from thirty countries on the time spent by children collecting fuelwood and water disaggregated by sex. With the improvements in data collection via the below mentioned survey harmonization process, data will be available reporting time spent exclusively on fuel collection rather than in combination with water collection."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "No reporting for low- and middle-income countries with no data. \r\nHigh income countries with no data are assumed to have transitioned to clean fuels and technologies, and are therefore assumed to have >95% of their population using clean fuels and technologies."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "For low- and middle-income countries with no data, population-weighted regional averages estimates are used to derive the regional and global estimates.\r\nHigh income countries with no data are assumed to have transitioned to clean fuels and technologies, and are therefore assumed to have >95% of their population using clean fuels and technologies."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global estimates are population-weighted; i.e. the country estimates (e.g. 56%) is multiplied by its population, this figure is summed (by region or for all countries) and divided by the sum of the population of the countries included."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "There may be discrepancies between internationally reported and nationally reported figures. The reasons are the following:\r\n- Modelled estimates versus survey data point.\r\n- Use of different definitions of polluting (or previously solid) fuels (wood only or wood and any other biomass, e.g. dung residues; kerosene included or not as polluting fuels).\r\n- Use of different total population estimate\r\n- Estimates are expressed as percentage of population using polluting (or solid) fuels (as per SDG indicator) as compared to percentage of household using polluting (or solid) fuels (as assessed by surveys such as DHS or MICS).\r\n- In the estimates presented here, values above 95% polluting fuel use are reported as \">95%\", and values below 5% as \"<5"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Primary household fuels and technologies, particularly for cooking, is routinely collected at the national levels in most countries using censuses and surveys. Household surveys used include: United States Agency for International Development (USAID)-supported Demographic and Health Surveys (DHS); United Nations Children�s Fund (UNICEF)-supported Multiple Indicator Cluster Surveys (MICS); WHO-supported World Health Surveys (WHS); and other reliable and nationally representative country surveys.\r\nThe World Health Organization is the agency that has taken responsibility for compiling a database of statistics on access to clean and polluting fuels and technologies harvested from the full global body of household surveys for cooking, heating and lighting. Currently, the WHO Database covers cooking energy for 157 countries and one territory for the period 1970-2015 and is updated regularly and publicly available. For lighting, the WHO database includes data for 76 countries for the period 1963-2014. For heating, the WHO database includes data for 16 countries for the period 1986 � 2012.\r\nPresently WHO is working with national surveying agencies, country statistical offices and other stakeholders (e.g. researchers) to enhance multipurpose household survey instruments to gather data on the fuels and technologies used for heating and lighting."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "For cooking fuels, coverage of 157 countries is available through the WHO Global Household Energy Database.\r\nFor lighting fuels, the WHO database includes data for 76 countries.\r\nFor heating fuels, the WHO database includes data for 16 countries."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 1980 to 2014"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Summer/Fall 2016. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "01-May-17"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nNational Statistical Offices\r\nDescription:\r\nNational Statistical Offices or any national providers of household surveys and censuses."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO, Public health, Social and Environmental Determinants of health Department (PHE)."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.who.int/gho/phe"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Global Tracking Framework report (2013)\r\nhttp://trackingenergy4all.worldbank.org/\r\nGlobal Tracking Framework Report (2015)\r\nhttp://trackingenergy4all.worldbank.org/\r\nGlobal Tracking Framework database (2015)\r\nhttp://data.worldbank.org/data-catalog/sustainable-energy-for-all\r\nMulti-Tier Framework for Measuring Energy Access,\r\nhttps://www.esmap.org/node/55526\r\nWHO Guidelines for indoor air quality: Household Fuel Combustion, WHO (2014) http://www.who.int/indoorair/guidelines/hhfc/en/\r\nBonjour S, Adair-Rohani H, Wolf J, Bruce NG, Mehta S, Pr�ss-Ust�n A, Lahiff M, Rehfuess EA, Mishra V, Smith KR. Solid Fuel Use for Household Cooking: Country and Regional Estimates for 1980-2010. Environ Health Perspect (2013): .doi:10.1289/ehp.1205987.)\r\nPopulation using solid fuels meta-data, WHO\r\nhttp://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318\r\nRelated indicators\r\n3.9.1:\r\nMortality rate attributed to household and ambient air pollution"
+                }
+            }
+        }
+    ]
+}

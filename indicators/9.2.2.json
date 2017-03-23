@@ -1,0 +1,111 @@
+{
+    "goal_id": "9",
+    "target_id": "9.2",
+    "description": "Manufacturing employment as a proportion of total employment",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Industrial Development Organization (UNIDO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Employment is defined as a work performed for pay or profit. The value is obtained by summing up the number of employed in all manufacturing activities. The manufacturing employment indicator is presented in absolute terms as well as relative to total employment."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator represents the contribution of manufacturing in job creation. It is universally important indicator. For industrialized countries it represents sustained growth, for developing countries it shows the ability of manufacturing to absorb surplus labour from traditional sectors. Compared to the indicator 9.2.1 it measures the labour productivity � another key indicator for measuring technological progress."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Definition recommended in International Recommendations for Industrial Statistics is strictly followed."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Industrial surveys in some country uses cut-off point implying that small manufacturing units that are not in register are not included in the survey. It underestimates the employment data."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Number of persons employed in manufacturing activities / Total number of employment in all activities � 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Data can be presented for country groups and the world regions. Gender disaggregated data are available."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Employment data generally come from 2-3 years time lag. A system is being put on place to provide more recent estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "There exists a methodological guideline on imputation method which can be shared with data users."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Data are aggregated by summing up the country values to produce regional values."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Difference at manufacturing employment at aggregate level is rare. At industry level disaggregated data the difference may arise due to ISIC combination used by a country to suppress the value where number of observation was too small."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Employment in manufacturing is reported in annual industrial surveys. Total employment data is obtained from the census and employment surveys including household surveys."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "Annual industrial surveys (employment in manufacturing); Census, employment surveys including household surveys (total employment)"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Data are collected through General Industrial Statistics Questionnaire which is distributed to NSOs every year. In case of Organisation for Economic Co-operation and Development (OECD) member countries data are obtained from OECD."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "For around 140 countries"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "1990 onwards"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Employment data are updated annually in UNIDO database."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "UNIDO releases its database around April/May. Employment data generally come from 2-3 years time lag. A system is being put on place to provide more recent estimates. (April/May 2017)"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistical offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNIDO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unido.org/statistics"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "International Yearbook of Industrial Statistics\r\nhttp://stat.unido.org/"
+                }
+            }
+        }
+    ]
+}

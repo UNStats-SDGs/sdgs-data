@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.3",
+    "description": "Number of people requiring interventions against neglected tropical diseases",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Number of people requiring treatment and care for any one of the neglected tropical diseases (NTDs) targeted by the WHO NTD Roadmap and World Health Assembly resolutions and reported to WHO."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The average annual number of people requiring treatment and care for NTDs is the number that is expected to decrease toward \"the end of NTDs\" by 2030 (target 3.3), as NTDs are eradicated, eliminated or controlled. The number of people requiring other interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are expected to need to be maintained beyond 2030 and are therefore to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation.\r\nThis number should not be interpreted as the number of people at risk for NTDs. It is in fact a subset of the larger number of people at risk. Mass treatment is limited to those living in districts above a threshold level of prevalence; it does not include all people living in districts with any risk of infection. Individual treatment and care is for those who are or have already been infected; it does not include all contacts and others at risk of infection. This number can better be interpreted as the number of people at a level of risk requiring medical intervention � that is, treatment and care for NTDs."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care. In particular, it includes both:\r\n1) Average annual number of people requiring mass treatment known as preventive chemotherapy (PC) for at least one PC-NTD; and\r\n2) Number of new cases requiring individual treatment and care for other NTDs.\r\nOther key interventions against NTDs (e.g. vector management, veterinary public health, water, sanitation and hygiene) are to be addressed in the context of other targets and indicators, namely Universal Health Coverage (UHC) and universal access to water and sanitation."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Country reports may not be perfectly comparable over time. Improved surveillance and case-finding may lead to an apparent increase in the number of people known to require treatment and care. Some further estimation may be required to adjust for changes in surveillance and case-finding. Missing country reports may need to be imputed for some diseases in some years."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Some estimation is required to aggregate data across interventions and diseases. There is an established methodology that has been tested and an agreed international standard. [http://www.who.int/wer/2012/wer8702.pdf?ua=1]\r\n1) Average annual number of people requiring mass treatment known as PC for at least one PC-NTD: People may require PC for more than one PC-NTD. The number of people requiring PC is compared across the PC-NTDs, by age group and implementation unit (e.g. district). The largest number of people requiring PC is retained for each age group in each implementation unit. The total is considered to be a conservative estimate of the number of people requiring PC for at least one PC-NTD. Prevalence surveys determine when an NTD has been eliminated or controlled and PC can be stopped or reduced in frequency, such that the average annual number of people requiring PC is reduced.\r\n2) Number of new cases requiring individual treatment and care for other NTDs: The number of new cases is based on country reports, whenever available, of new and known cases of Buruli ulcer, Chagas disease, cysticercosis, dengue, guinea-worm disease, echinococcosis, human African trypanosomiasis (HAT), leprosy, the leishmaniases, rabies and yaws. Where the number of people requiring and requesting surgery for PC-NTDs (e.g. trichiasis or hydrocele surgery) is reported, it can be added here. Similarly, new cases requiring and requesting rehabilitation (e.g. leprosy or lymphoedema) can be added whenever available.\r\nPopulations referred to under 1) and 2) may overlap; the sum would overestimate the total number of people requiring treatment and care. The maximum of 1) or 2) is therefore retained at the lowest common implementation unit and summed to get conservative country, regional and global aggregates. By 2030, improved co-endemicity data and models will validate the trends obtained using this simplified approach."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation by disease is required; ending the epidemic of NTDs requires a reduction in the number of people requiring interventions for each NTD. \r\nDisaggregation by age is required for PC: pre-school-aged children (1-4 years), school-aged (5-14 years) and adults (= 15 years)."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "We do not impute missing values for countries that have never reported data for any NTD. For countries that have reported data in the past, we impute missing values only for those NTDs that have been reported in the past but that have not been reported in the current year.\r\nFor reproducibility, we employ multiple imputation techniques using the freely available Amelia package in R. We impute 100 complete datasets using all available cross-sectional data (countries and years), applying a square root transformation to exclude negative values of incidence, as well as categorical variables denoting regions and income groups, and allowing for country-specific linear time effects. We aggregate across diseases and extract the mean and 2.5th and 97.5th centile values to report best estimates and uncertainty intervals for each country."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Using the 100 imputed datasets, we aggregate across diseases and regions, extract the mean and 2.5th and 97.5th centile values to report best estimates and uncertainty intervals at the regional and global levels."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates are simple aggregates of the country values, with no particular weighting. There is no further adjustment for global and regional estimates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Countries do not typically aggregate their data across NTDs, but if they applied the aggregation method as described above, they would obtain the same number. The only exceptions would be countries with one or more missing values for individual NTDs. In these exceptional cases, internationally estimated aggregates will be higher than country produced aggregates that assume missing values are nil. We present best estimates with uncertainty intervals to highlight those missing values that have a significant impact on country aggregates, until such time that missing values are reported."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The number of people requiring treatment and care for NTDs is measured by existing country systems, and reported through joint request and reporting forms for donated medicines, the integrated NTD database, and other reports to WHO.\r\nhttp://www.who.int/neglected_diseases/preventive_chemotherapy/reporting/en/ \r\nhttp://www.who.int/neglected_diseases/data/ntddatabase/en/ \r\nCountry data are published via the WHO Global Health Observatory and Preventive Chemotherapy Databank.\r\nhttp://www.who.int/gho/neglected_diseases/en/ \r\nhttp://www.who.int/neglected_diseases/preventive_chemotherapy/databank/en/"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "As part of global efforts to accelerate expansion of preventive chemotherapy for elimination and control of lymphatic filariasis (LF), schistosomiasis (SCH) and soil-transmitted helminthiases (STH), WHO facilitates the supply of the following medicines donated by the pharmaceutical industry: diethylcarbamazine citrate, albendazole, mebendazole, and praziquantel. WHO also collaborates to supply ivermectin for onchocerciasis (ONCHO) and lymphatic filariasis elimination programmes.\r\nA joint mechanism and a set of forms have been developed to facilitate the process of application, review and reporting as well as to improve coordination and integration among different programmes.\r\nJoint Request for Selected PC Medicines (JRSM) � designed to assist countries in quantifying the number of tablets of the relevant medicines required to reach the planned target population and districts in a coordinated and integrated manner against multiple diseases during the year for which medicines are requested.\r\nJoint Reporting Form (JRF) � designed to assist countries in reporting annual progress on integrated and coordinated distribution of medicines across diseases in the reporting year in a standardized format.\r\nPC Epidemiological Data Reporting Form (EPIRF) � designed to standardize national reporting of epidemiological data on lymphatic filariasis, onchocerciasis, soil-transmitted helminthiases and schistosomiasis. National authorities are encouraged to complete this form and submit it to WHO on a yearly basis, together with the JRF.\r\nThe reports generated in the JRSM and in the JRF (SUMMARY worksheets) must be printed and signed by the NTD coordinator or a Ministry of Health representative to formally endorse the country�s request for these medicines and the reported annual progress of the national programme(s). The date of signature must also be included. Once signatures have been obtained, the scanned copies of the two worksheets, together with the full Excel versions of the JRSM, the JRF and the EPIRF can be jointly submitted to WHO.\r\nThe forms are submitted to the WHO Representative of the concerned WHO Country office with electronic copies to PC_JointForms@who.int and the concerned Regional focal point, no later than 15 August of the year preceding the year for which medicines are intended to be used (e.g. at the latest by 15 August 2015 for implementation of preventive chemotherapy in 2016) but at least 6-8 months before the planned PC intervention(s) to allow time for reviewing and approval of the request, placing order, manufacturing PC medicines and shipment to the country.\r\nhttp://www.who.int/neglected_diseases/preventive_chemotherapy/reporting/en/"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are currently being reported by 185 countries, with good coverage of all regions."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "2015 data is being collected throughout Q2 and Q3 of 2016. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Q1 2017 for 2015 data. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National NTD programmes within Ministries of Health"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/neglected_diseases/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Global plan to combat neglected tropical diseases, 2008�2015. Geneva: World Health Organization; 2007 (http://whqlibdoc.who.int/hq/2007/who_cds_ntd_2007.3_eng.pdf, accessed 29 March 2015).\r\nAccelerating work to overcome the global impact of neglected tropical diseases: A Roadmap for Implementation. Geneva: World Health Organization; 2012 (http://www.who.int/neglected_diseases/NTD_RoadMap_2012_Fullversion.pdf, accessed 29 March 2015).\r\nInvesting to overcome the global impact of neglected tropical diseases. Geneva: World Health Organization; 2015 (http://www.who.int/neglected_diseases/9789241564861/en/, accessed 29 March 2015)."
+                }
+            }
+        }
+    ]
+}

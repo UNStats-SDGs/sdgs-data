@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.1",
+    "description": "Proportion of births attended by skilled health personnel",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "UNICEF  (UNICEF)\r\nWorld Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The proportion of births attended by skilled health personnel as defined as the percentage of live births attended by skilled health personnel during a specified time period, generally up to the past five years."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The proportion of birth attended by skilled health personnel provides an indicator of access by pregnant women to appropriate delivery care that can provide quality management of labor and delivery, assess obstetric risks, treat and refer appropriately. When disaggregated by relevant socio-economic and geographic stratifiers, the indicator helps identified areas and groups that are not being reached with appropriate delivery care. The indicator, however, indicates only contact with a qualified health personnel and does not provide an indication of the quality of care provided or whether women receive all necessary interventions."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The joint Statement by WHO/ICM/FIGO defines the skilled birth attendant as \"an accredited health professional � such as a midwife, doctor or nurse � who has been educated and trained to proficiency in the skills needed to manage normal (uncomplicated) pregnancies, childbirth and the immediate postnatal period, and in the identification, management and referral of complications in women and newborns\"."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Although the indicator has been measured and reported on for decades at country, regional and global level, data to measure it remain challenged with many limitations. Most data from low and middle income countries are from household surveys and therefore based on women�s recall of the health worker who mainly assisted with delivery and their perception of the type of cadre (whether doctor, nurse, midwife or other). In addition, definition of skilled health personnel varies largely across countries, and includes non-standard list of cadres of health workers, which can lead to serious misclassification in terms of skills. Furthermore, categories of cadres of health workers used in survey questions are not standard but vary across surveys and between countries. Finally, the indicator only provides an indication of level of contact with the health system. It does not indicate level of quality of care, nor receipt of all necessary high impact interventions."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator is computed as the number of live births attended by skilled health personnel (generally doctors, nurses or midwives) out of total number of live births in a specified reference period. Data generally come from household surveys or health information system.\r\nIn national household surveys, such as DHS and MICS, women aged 15-49 who report live births in a specified recent period (up to five years before the interview), are asked about the person who assisted the delivery of each of the live births reported. Information collected is used to determined births attended by a skilled health personnel. Service/facility records could be used where a high proportion of births occur in health facilities and are recorded in the health information system"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "When measured from household surveys, the indicator is usually disaggregated by wealth quintile, residence, age, and geographic location. Disaggregation of data from health facility records is limited."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Global and regional weighted averages produced by UNICEF use a range of year (e.g. 2010-2015) and exclude countries for which data are missing. However, for global estimate or region � specific estimates are reported only when the proportion of births in countries with available data is larger than 50%."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional averages are computed as weighted arithmetic average of country specific values, using a range of years to allow capturing as many country data as possible. Weights used are the total country specific births in the most recent year of the reference period. UNICEF/WHO are not developing plans for modelling the indicator in order to generate comparable time series. Once modelled estimate become available, the process of generating global and regional estimates will still use weighted averages using country specific annual births as weights."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Sources of difference may come from differences in definition and cadres considered as skilled health personnel."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data sources for measuring this indicator are nationally representative household surveys and health facility records. Nationally representative household surveys include surveys such as the UNICEF-supported Multiple Indicator Cluster Surveys (MICS, mics.unicef.org) and the USAID-funded Demographic and Health Surveys (DHS, dhsprogram.com). These surveys use nationally representative samples based on a two-stage cluster sampling, generally using a population census frame of enumeration areas. Final sample size includes several thousand households. Interviews are carried out with head of households, all women of reproductive age (generally 15-49) and, in the case of MICS, mothers/caretakers of children under-five. Denominator for the indicator is based on all live births reported by women of reproductive age on period up to five years preceding the survey. Despite slight variation in the determination of the denomination between surveys (for example, MICS uses last live births in the past two years while DHS uses all lives births in the past five years), the level of the indicator has been fairly comparable across surveys and overtime. \r\nData from health facility records are reliable only in countries where almost all deliveries occur in health facilities, resulting in generally very high level of births attended by skilled health personnel."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "UNICEF has established a web-based data source identification and data compilation system working with all countries offices. Data reported through nationally representative surveys (e.g. DHS and MICS) are compiled and carefully reviewed to ensure sound survey methodology, consistency definition, and accurate method of computation. The web-based system is complemented by an online search carried out by WHO of survey reports and data published in countries. Adjustment may be made to the reported value of the indicator to ensure consistency with the definition. In these cases, data presented in survey reports may be different from those reported in the global databases."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "139 countries have data since 2010"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Global database are updated as country data become available. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Global database are updated as country data become available. UNICEF and WHO are now developing plans for producing annual modelled estimates of this indicator, starting from 2017. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices, Health Information System Department of Ministry of Health"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNICEF / WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://data.unicef.org/maternal-health/delivery-care.html"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "www.data.unicef.org\r\nwww.mics.unicef.org\r\nwww.dhsprogram.com\r\nWHO, 2016. World health Statistics. Monitoring health for the SDGs. http://www.who.int/gho/publications/world_health_statistics/en/\r\nUNICEF. 2015. State of World's Children 2015. Reimagine the future. Innovation for every child"
+                }
+            }
+        }
+    ]
+}

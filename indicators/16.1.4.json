@@ -1,0 +1,111 @@
+{
+    "goal_id": "16",
+    "target_id": "16.1",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Office on Drugs and Crime (UNODC)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This indicator refers to the proportion of the population (adults) who feel safe walking alone in their neighbourhood."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The concept of �fear of crime� has been used in dozens of crime victimization surveys and the standard formulation used here has been seen as effective in different cultural contexts. It is important to understand that �fear of crime� is a phenomenon that is separate from the prevalence of crime and that may be even largely independent from actual experience, as the perception of crime and the resulting fear of it is mediated by a number of factors, such as the awareness of crime, the public discussion and the media and personal circumstances. Nevertheless, the �fear of crime� is an important indicator in itself as a high level of fear can negatively influence well-being and lead to reduced contacts with the public, reduced trust and activities and thus an obstacle to development."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The question measures the feeling of fear of crime in a context outside the house and refers to the immediate experience of this fear by the respondent by limiting the area in question to the \"neighbourhood\" or \"your area\" (various formulations depending on cultural, physical and language context)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "While the measurement of fear of crime is widely applied in crime victimization surveys around the world, different practices exist in the operationalization of this indicator � for example, by not requiring the person to \"walk alone\" or limiting the walking to \"at night\". Further guidance on measuring the indicator are currently elaborated by UNODC in collaboration with victimization survey experts.\r\nIn 2010 UNODC-UNECE published a Manual on Victimization Surveys that provides technical guidance on the implementation of such surveys, on the basis of good practices developed at country level. UNODC-UNECE Manual on Victimization Surveys (2010), available at: https://www.unodc.org/documents/data-and-analysis/Crime-statistics/Manual_on_Victimization_surveys_2009_web.pdf\r\nVictimization surveys (as dedicated surveys or as modules of household surveys) are usually restricted to the general population living in households above a certain age (typically 15 or 18 years of age), while sometimes an upper age limit is also applied (typically 65, 70 or 75 years of age)."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The question used in victimization surveys is: How safe do you feel walking alone in your area/neighbourhood? Answer: Very safe/fairly safe/bit unsafe/very unsafe/ I never walk alone after dark/don�t know. The proportion of population that feel safe is calculated by summing up the number of respondents who feel \"very safe\" and \"fairly safe\" and dividing the total by the total number of respondents."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "By age and sex"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing values are left blank"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are left blank. Global estimates are not made on the basis of national reporting rates."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "No global estimates have been made on the basis of national reporting rates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "UNODC only compiles data from national sources, therefore no differences among the values should exist."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are collected through sample surveys among the general population, most often through crime victimization surveys.\r\nUNODC collects data on crime and criminal justice through its annual data collection (UN-CTS). The data collection through the UN-CTS is facilitated by a network of over 130 national Focal Points appointed by responsible authorities. Data on �fear of crime� are not yet collected in the UN-CTS, however, it is expected that data collection on this indicator can be included in the next major revision of the UN-CTS planned for 2017."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "There is a consolidated system of annual data collection on crime and criminal justice (UN- Crime Trends Survey, UN-CTS) managed by UNODC. The UN-CTS data collection is largely based on the network of national Focal Points, which are institutions/officials appointed by countries and having the technical capacity and role to produce data on crime and criminal justice (around 130 appointed Focal Points as of 2016). As decided in a recent meeting of Focal Points, the UN-CTS will be reviewed to include indicator 16.1.4"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Reference is made to (non-official) data from the International Crime Victimization Survey � ICVS\r\nCountries have at least 1 data point between 2000 and 2010 for this indicator\r\nAsia and Pacific: 6\r\nAfrica: 14\r\nLatin America and the Caribbean: 6\r\nEurope, North America, Australia, New Zealand and Japan: 37\""
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "III-IV quarter 2017 "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "II quarter 2018 "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices, Police, Ministry of Justice, Ministry of Interior, Prosecutor�s Office"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNODC"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.unodc.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "UNODC collects data on the prevalence of crime and violence in its annual data collection on crime and criminal justice (UN- Crime Trends Survey, UN-CTS). In close consultation with national UN-CTS Focal Points, a major revision process for the UN-CTS has is planned for 2017 allowing for the inclusion of new indicators such as 16.1.4. on the perception of safety."
+                }
+            }
+        }
+    ]
+}

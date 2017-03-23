@@ -1,0 +1,111 @@
+{
+    "goal_id": "11",
+    "target_id": "11.6",
+    "description": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The mean annual concentration of fine suspended particles of less than 2.5 microns in diameters (PM2.5) is a common measure of air pollution. The mean is a population-weighted average for urban population in a country."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Air pollution consists of many pollutants, among other particulate matter. These particles are able to penetrate deeply into the respiratory tract and therefore constitute a risk for health by increasing mortality from respiratory infections and diseases, lung cancer, and selected cardiovascular diseases."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "NA"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Urban/rural data: while the data quality available for urban/rural population is generally good for high-income countries, it can be relatively poor for some low- and middle income areas. Furthermore, the definition of urban/rural may greatly vary by country."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The annual urban mean concentration of PM2.5 is estimated with improved modelling using data integration from satellite remote sensing, population estimates, topography and ground measurements (WHO, 2016 forthcoming)"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator is available by 0.1� x 0.1� grid size for the world."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Missing values are left blank."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Missing values are excluded from the regional and global averages."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The regional and global aggregates are population -weighted figures of the national estimates. \r\nCagg=SUM (Cnat * Pnat)/ SUM (Pnat)\r\nwhere Cagg is the regional/global estimate, Cnat is the national estimate, Pnat is the country population. The sum is done over the countries in the region (regional aggregate) or all countries (global aggregate)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "The source of differences between global and national figures: Modelled estimates versus annual mean concentrations obtained from ground measurements."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Sources of data include ground measurements from monitoring networks, collected for 3,000 cities and localities (WHO 2016a) around the world, satellite remote sensing, population estimates, topography, information on local monitoring networks and measures of specific contributors of air pollution."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "The indicator is available for 178 countries. Missing countries include mostly small states islands in the Western Pacific and in the Latin American and the Caribbean regions. "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Ministry of Health, Ministry of the Environment"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.who.int/gho/phe"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "WHO (2016). WHO Urban ambient air quality database, WHO Geneva.\r\nWHO (2016, forthcoming). Air pollution: a global assessment of exposure and burden of disease, WHO Geneva.\r\nRelated indicators\r\n3.9.1:\r\nMortality rate attributed to household and ambient air pollution"
+                }
+            }
+        }
+    ]
+}

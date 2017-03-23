@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.7",
+    "description": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Population Division, Department of Economic and Social Affairs (DESA)\r\nUnited Nations Population Fund (UNFPA )"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Annual number of births to females aged 10-14 or 15-19 years per 1,000 females in the respective age group."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Reducing adolescent fertility and addressing the multiple factors underlying it are essential for improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are subject to higher risks of complications or even death during pregnancy and birth and their children are also more vulnerable. Therefore, preventing births very early in a woman�s life is an important measure to improve maternal health and reduce infant mortality. Furthermore, women having children at an early age experience a curtailment of their opportunities for socio-economic improvement, particularly because young mothers are unlikely to keep on studying and, if they need to work, may find it especially difficult to combine family and work responsibilities. The adolescent birth rate also provides indirect evidence on access to pertinent health services since young people, and in particular unmarried adolescent women, often experience difficulties in access to sexual and reproductive health services."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The adolescent birth rate represents the risk of childbearing among females in the particular age group. The adolescent birth rate among women aged 15-19 years is also referred to as the age-specific fertility rate for women aged 15-19."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Discrepancies between the sources of data at the country level are common and the level of the adolescent birth rate depends in part on the source of the data selected. \r\nFor civil registration, rates are subject to limitations which depend on the completeness of birth registration, the treatment of infants born alive but die before registration or within the first 24 hours of life, the quality of the reported information relating to age of the mother, and the inclusion of births from previous periods. The population estimates may suffer from limitations connected to age misreporting and coverage.\r\nFor survey and census data, both the numerator and denominator come from the same population. The main limitations concern age misreporting, birth omissions, misreporting the date of birth of the child, and sampling variability in the case of surveys.\r\nWith respect to estimates of the adolescent birth rate among females aged 10-14 years, comparative evidence suggests that a very small proportion of births in this age group occur to females below age 12. Other evidence based on retrospective birth history data from surveys indicates that women aged 15-19 years are less likely to first births before age 15 than women from the same birth cohort when asked five years later at ages 20�24 years. \r\nThe adolescent birth rate is commonly reported as the age-specific fertility rate for ages 15-19 years in the context of calculation of total fertility estimates. It has also been called adolescent fertility rate. A related measure is the proportion of adolescent fertility measured as the percentage of total fertility contributed by women aged 15-19."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The adolescent birth rate is computed as a ratio. The numerator is the number of live births to women aged 15-19 years, and the denominator an estimate of exposure to childbearing by women aged 15-19 years. The computation is the same for the age group 10-14 years. The numerator and the denominator are calculated differently for civil registration, survey and census data.\r\nIn the case of civil registration data, the numerator is the registered number of live births born to women aged 15-19 years during a given year, and the denominator is the estimated or enumerated population of women aged 15-19 years.\r\nIn the case of survey data, the numerator is the number of live births obtained from retrospective birth histories of the interviewed women who were 15-19 years of age at the time of the births during a reference period before the interview, and the denominator is person-years lived between the ages of 15 and 19 years by the interviewed women during the same reference period. The reported observation year corresponds to the middle of the reference period. For some surveys without data on retrospective birth histories, computation of the adolescent birth rate is based on the date of last birth or the number of births in the 12 months preceding the survey.\r\nWith census data, the adolescent birth rate is computed on the basis of the date of last birth or the number of births in the 12 months preceding the enumeration. The census provides both the numerator and the denominator for the rates. In some cases, the rates based on censuses are adjusted for under-registration based on indirect methods of estimation. For some countries with no other reliable data, the own-children method of indirect estimation provides estimates of the adolescent birth rate for a number of years before the census.\r\nIf data are available, adolescent fertility at ages 10-14 years can also be computed. \r\nFor a thorough treatment of the different methods of computation, see Handbook on the Collection of Fertility and Mortality Data, United Nations Publication, Sales No. E.03.XVII.11, (http://unstats.un.org/unsd/publication/SeriesF/SeriesF_92E.pdf). Indirect methods of estimation are analyzed in Manual X: Indirect Techniques for Demographic Estimation, United Nations Publication, Sales No. E.83.XIII.2. (http://www.un.org/esa/population/publications/Manual_X/Manual_X.htm)."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Age, education, number of living children, marital status, socioeconomic status, geographic location and other categories, depending on the data source and number of observations."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "There is no attempt to provide estimates for individual countries or areas when country or area data are not available."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "The regional or global aggregates of the adolescent birth rate for the age group 15-19 years are from the latest revision of World Population Prospects produced by the Population Division. Given cases when data are missing or assessed as unreliable, estimates for individual countries or areas are generated either through expert-based opinion reviewing and weighting each observation analytically, or, in more recent years, using automated statistical methods, or by using a bias-adjusted data model to control for systematic biases between different types of data. See United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, Methodology of the United Nations Population Estimates and Projections, Working Paper No. ESA/P/WP.242. https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The adolescent birth rates reported for global and regional aggregates are based on the average of estimated adolescent birth rates for two, contiguous five-year periods (e.g., 2010-2015 and 2015-2020 for year 2015) published in United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, DVD Edition. http://esa.un.org/unpd/wpp/ \r\nThe age-specific fertility rates for global and regional aggregates from World Population Prospects (WPP) are based on population reconstruction at the country level and provide a best estimate based on all the available demographic information. WPP considers potentially as many types and sources of empirical estimates as possible (including retrospective birth histories, direct and indirect fertility estimates), and the final estimates are derived to ensure as much internal consistency as possible with all other demographic components and intercensal cohorts enumerated in successive censuses."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Estimates based on civil registration are only provided when the country reports at least 90 per cent coverage and when there is reasonable agreement between civil registration estimates and survey estimates. Small discrepancies might arise due to different denominators or the inclusion of births to women under 15 years of age. Survey estimates are only provided when there is no reliable civil registration. There might be discrepancies on the dating and the actual figure if a different reference period is being used. In particular, many surveys report rates both for a three-year and a five-year reference period. For countries where data are scarce, reference periods located more than five years before the survey might be used."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Civil registration is the preferred data source. Census and household survey are alternate sources when there is no reliable civil registration.\r\nData on births by age of mother are obtained from civil registration systems covering 90 per cent or more of all live births, supplemented eventually by census or survey estimates for periods when registration data are not available. For the numerator, the figures reported by National Statistical Offices to the United Nations Statistics Division have first priority. When they are not available or present problems, use is made of data from the regional statistical units or directly from National Statistical Offices. For the denominator, first priority is given to the latest revision of World Population Prospects produced by the Population Division, Department of Economic and Social Affairs, United Nations. In cases where the numerator does not cover the complete de facto population, an alternative appropriate population estimate is used if available. When either the numerator or denominator is missing, the direct estimate of the rate produced by the National Statistics Office is used. Information on sources is provided at the cell level. When the numerator and denominator come from two different sources, they are listed in that order.\r\nIn countries lacking a civil registration system or where the coverage of that system is lower than 90 per cent of all live births, the adolescent birth rate is obtained from household survey data and census data. Registration data regarded as less than 90 per cent complete are exceptionally used for countries where the alternative sources present problems of compatibility and registration data can provide an assessment of trends. In countries with multiple survey programmes, large sample surveys conducted on an annual or biennial basis are given precedence when they exist.\r\nFor information on the source of each estimate, see United Nations, Department of Economic and Social Affairs, Population Division (2015). World Fertility Data 2015 (POP/DB/Fert/Rev2015). http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2015.shtml"
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "For civil registration data, data on births or the adolescent birth rate are obtained from country-reported data from the United Nations Statistics Division or regional Statistics Divisions or statistical units (ESCWA, ESCAP, CARICOM, SPC). The population figures are obtained from the last revision of the United Nations Population Division World Population Prospects and only exceptionally from other sources.\r\nSurvey data are obtained from national household surveys that are internationally coordinated�such as the Demographic and Health Surveys (DHS), the Reproductive Health Surveys (RHS), and the Multiple Indicator Cluster Surveys (MICS)�and other nationally-sponsored surveys. Other national surveys conducted as part of the European Fertility and Family Surveys (FFS) or the Pan-Arab Project for Family Health (PAPFAM) may be considered as well. The data are taken from published survey reports or, in exceptional cases, other published analytical reports. Whenever the estimates are available in the survey report, they are directly taken from it. If clarification is needed, contact is made with the survey sponsors or authoring organization, which occasionally may supply corrected or adjusted estimates in response. In other cases, if microdata are available, estimates are produced by the Population Division based on national data.\r\nFor census data, the estimates are preferably directly obtained from census reports. In such cases, adjusted rates are only used when reported by the National Statistical Office. In other cases, the adolescent birth rate is computed from tables on births in the preceding 12 months by age of mother, and census population distribution by sex and age. \r\nIn addition to obtaining data and estimates directly from the websites of National Statistical Offices, the following databases and websites are utilized: the Demographic and Health Surveys (DHS) (http://api.dhsprogram.com/#/index.html), Demographic Yearbook database of the Statistics Division of the Department of Economic and Social Affairs of the United Nations Secretariat (http://data.un.org), internal databases of the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat (see latest public release here: http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2015.shtml), Eurostat (http://ec.europa.eu/eurostat/data/database), the Human Fertility Database (http://www.humanfertility.org), the Human Fertility Collection (http://www.fertilitydata.org), and the Multiple Indicator Cluster Surveys (MICS) (http://mics.unicef.org/). Survey databases (e.g., the Integrated Household Survey Network (IHSN) database) are also consulted in addition to searches for data on websites of National Statistical Offices and ad hoc queries."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data for the adolescent birth rate for women aged 15-19 years are available for 219 countries or areas for the 2000-2014 time period. For 216 countries or areas, there are at least two available data points. \r\nThe regional breakdown of data availability is as follows:\r\nBetween 2000 and 2014\r\nWorld and SDG regions At least one data point (first number) Two or more data points (second number)\r\nWORLD 219 216\r\nDeveloping Regions 167 164\r\nNorthern Africa 5 5\r\nSub-Saharan Africa 51 51\r\nLatin America and the Caribbean 44 43\r\nEastern Asia 6 5\r\nSouthern Asia 9 9\r\nSouth-eastern Asia 11 11\r\nWestern Asia 13 13\r\nOceania 20 19\r\nCaucasus and Central Asia 8 8\r\nDeveloped regions 52 52\r\nLeast developed countries (LDCs) 48 48\r\nLandlocked developing countries (LLDCs) 32 32\r\nSmall island developing States (SIDS) 50 49\""
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Data are compiled and updated annually in the first quarter of the year. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Updated data on the adolescent birth rate are released by the Population Division in the second quarter of each year. The next release is expected in the second quarter of 2017. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nFor civil registration data, data on births or the adolescent birth rate are obtained from country-reported data from the United Nations Statistics Division or regional Statistics Divisions or statistical units (ESCWA, ESCAP, CARICOM, SPC). The population figures are obtained from the last revision of the United Nations Population Division World Population Prospects and only exceptionally from other sources. Survey data are obtained from national household surveys that are internationally coordinated�such as the Demographic and Health Surveys (DHS), the Reproductive Health Surveys (RHS), and the Multiple Indicator Cluster Surveys (MICS)�and other nationally-sponsored surveys. Data from censuses are obtained from country-reported data from the United Nations Statistics Division or regional Statistics Divisions or statistical units (ESCWA, ESCAP, CARICOM, SPC) or directly from census reports."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "This indicator is produced at the global level by the Population Division, Department of Economic and Social Affairs, United Nations in collaboration with the United Nations Population Fund (UNFPA)."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.un.org/en/development/desa/population/; www.UnfpaOpendata.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "World Fertility Data 2015 (POP/DB/Fert/Rev2015), United Nations Publication, (http://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2015.shtml)\r\nWorld Population Prospects: The 2015 Revision, DVD Edition United Nations Publication, (http://esa.un.org/unpd/wpp/)\r\nWorld Population Prospects: The 2015 Revision, Methodology of the United Nations Population Estimates and Projections, Working Paper No. ESA/P/WP.242, United Nations Publication, (https://esa.un.org/unpd/wpp/Publications/Files/WPP2015_Methodology.pdf)\r\nHandbook on Indicators for Monitoring the Millennium Development Goals, United Nations, http://mdgs.un.org/unsd/mi/wiki/MainPage.ashx\r\nHandbook on the Collection of Fertility and Mortality Data, United Nations Publication, Sales No. E.03.XVII.11, (http://unstats.un.org/unsd/publication/SeriesF/SeriesF_92E.pdf) \r\nManual X: Indirect Techniques for Demographic Estimation, United Nations Publication, Sales No. E.83.XIII.2. (http://www.un.org/esa/population/publications/Manual_X/Manual_X.htm)\r\nIndicator and Monitoring Framework for the Global Strategy for Women�s, Children�s and Adolescents� Health (2016-2030), http://www.everywomaneverychild.org/images/content/files/EWEC_INDICATOR_MONITORING_FRAMEWORK_2016.pdf\r\nRelated indicators\r\nIndicator is linked to Target 5.6 (Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences) because reductions in adolescent childbearing that can be brought about by increasing access to sexual and reproductive health-care services are also reflective of improvements in sexual and reproductive health and reproductive rights per se. Indicator is linked to Target 17.19 (By 2030 build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product and support statistical capacity-building in developing countries) because the adolescent birth rate draws on in part birth registration and census data. Strengthened civil registration and vital statistics systems in countries that can reach 100 per cent registration coverage of births and timeliness of census data are relevant for measuring progress on target 3.7."
+                }
+            }
+        }
+    ]
+}

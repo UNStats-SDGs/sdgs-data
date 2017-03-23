@@ -1,0 +1,111 @@
+{
+    "goal_id": "11",
+    "target_id": "11.7",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Human Settlements Programme (UN-Habitat)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Average share of the built-up area of cities that is open space for public use for all\r\nThe �Built-up area� of a city is defined as the contiguous area occupied by buildings and other impervious surfaces including the urban vacant areas in and around them but excluding rural areas beyond the urban fringe. The �population� of a city is defined as the sum of the population in the set of administrative districts that together encompass the �built-up area� of that �city� in the year that measurements are taken."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "This indicator provides information about the amount of open public areas in a city. Cities that improve and sustain the use of public space, including streets, enhance community cohesion, civic identity, and quality of life. Having access to open public spaces does not only improve the quality of life: it is also a first step toward civic empowerment and greater access to institutional and political spaces. \r\nCities function in an efficient, equitable, and sustainable manner only when private and public spaces work in a symbiotic relationship to enhance each other. In optimal conditions, they need to be secured and laid out in advance of urbanization to ensure orderly urban expansion. In existing cities, there is a need to revise and expand the ratio of public space in cities to make them more efficient, prosperous and sustainable. And they are needed in adequate amounts. Uncontrolled rapid urbanization creates disorderly settlement patterns with dangerously low shares of public space. Many cities in developed countries are also experiencing a dramatic reduce of public space.\r\nThe road network is the integrative tissue that binds cities together. It organizes the geographic space of cities, integrates them both as job markets and as local political spaces.\r\nCities that are walkable and transit-friendly require a highly connected network of paths and streets around small, permeable blocks. A tight network of paths and streets offering multiple routes to many destinations also make walking and cycling trips varied and enjoyable. This has clear implications in making cities more energy efficient.\r\nAdequate public spaces in cities contribute to the achievement of other targets of Goal 11 and have positive implications in various Sustainable Development Goals. Notably public spaces increase social cohesion, networks and human exchange."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The method to estimate the area of public space is based on three steps: a) spatial analysis to delimit the built-up area of the city; b) estimation of the total open public space and; c) estimation of the total area allocated to streets.\r\na. Spatial analysis to delimit the built-up area. Delimit the built-up area of the urban agglomeration and calculate the total area (square kilometers). Land use maps, inventories to be locally generated to identify public spaces if possible complemented by fieldwork.\r\nb. Computation of total area of open public space. Map and calculate the total areas of open public space within the defined urban boundaries based on the built-up area. The inventory of open public spaces is digitalized and vectorised using GIS software to allow computation of surfaces. The total of open public area is divided by the total built-up area of the city to obtain the proportion of land allocated to public spaces.\r\nc. Estimation of the land allocated to streets. Calculation of the total area allocated to streets based on sampling techniques with a random sample of 10 hectares locales is selected out of a complete listing of the all hectares locales that form the city, using the built-up area definition indicated above."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Cities vary considerably in size, history, development patterns, designs, shapes and citizen�s attitudes towards public spaces. Measuring how much public space a city has is only one part of measuring whether residents actually benefit from the space.\r\nGaps in the currently available data for monitoring target 11.7 along with some recommendations of upcoming opportunities for filling such gaps are provided below. As a new and innovative indicator, data availability may be scarce. Many cities do not have an inventory of public space, or have one that is not up-to date. Efforts should be done to expand the availability of data in the developing world. UN-Habitat has developed tools, programmes and guidelines to assist cities in measuring, and expanding the availability of public space in cities. Some cities in the developing world lack of formal recognized public space that are publicly maintained. Innovative tools like the use of satellite imagery, and community-based mapping can support the identification of open space in public use.\r\nThe indicator quantifies the amount of open space in public use in cities, but does not capture the quality of the space that may impede its proper use. However, it is a precondition that open space is existing, and that its public use is guaranteed, to allow city authorities and other stakeholders to further improve its quality and increase its use."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The sampling relies on a Halton Sequence of coordinates that, when repeated, always selects the same points.\r\nLocales are defined as a set of city blocks surrounded by streets, and bounded by the medians of all blocks that intersect the randomly selected 10-hectare circle. Blocks are considered built-up if more than half of the block is built-up.\r\nThe share of the land in streets in the locale is then calculated as the ratio of the area of the locale in streets and boulevards and the total built-up area in the locale.\r\nThe share of the land occupied streets in the locale is then calculated as the ratio of the area of the locale occupied by streets and boulevards and the total built-up area in the locale.\r\nThe average share of land in streets in a given city is then calculated by sampling more and more locales until the variance between the shares of land in streets declines below an agreed-upon value. Using this stopping rule, it becomes possible to obtain a statistically reliable average value. \r\nShare of the built up area of the city that is open space in public use (%)\r\n= (Total surface of open public space + Total surface of land allocated to streets) / (Total surface of built up area of the urban agglomeration)"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Disaggregation by location (intra-urban)\r\n- Disaggregation by qualities of the open public space (safe, inclusive, accessible, green)\r\n- Using qualitative data tagged to the public spaces it will be possible to disaggregate information by the share of built-up area is safe open space in public use\r\n- The share of built-up area is green open space in public use\r\n- The share of built-up area is universally accessible open space in public use, particularly for disable persons."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "All countries are expected to fully report on this indicator more consistently following implementation of several technical workshops where the methodological guide and tools will be introduced. In majority of the cases, missing values will be available to reflect a non-measurement of the indicator for the city. However, because national statistical agencies will report national figures from a sample of cities, we expect fewer missing values at the national level over the years. Global figures will be derived from nationally reported estimates."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "Most cities lack a clear protocol or standard guide for how they might measure public spaces, let alone an existing inventory or understanding of the public agencies involved in public space (e.g. cities can have both city-owned parks and national parks). Google maps might have a better inventory of a city�s public space than the city itself. These differences in knowledge and understanding are expected to create some inconsistencies in reporting."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global estimates will be derived from national figures with an appropriate disaggregation level. Specialized tools will be developed and agreed upon with local and international stakeholders. Systems of quality assurance on the use of the tools, analysis and reporting will be deployed regionally, and globally to ensure that standards are uniform and that definitions are universally applied."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Applying the proposed methodology to an entire globe of different cities will be challenging, but there are some basic principles that cities can use to measure public space. Cities can inventory the spectrum of spaces, from natural areas to small neighborhood parks owned by different government entities. For example, in some cities, cemeteries are publicly available spaces run by the city park and recreation department. The team will work on a basic methodological guide and tools that will enable national statistical agencies apply these methods with a standard and define and collect information on an inventory of spaces that will be used for reporting on this indicator for all cities."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Satellite imagery (open sources), legal documents outlining publicly owned land, and community-based maps are the main sources of data.\r\nFor estimating the total Surface of Built-up area. Satellite imagery: Use of existing layers of satellite imagery ranging from open sources such as Google Earth and US Geological Survey/NASA imagery Landsat to more sophisticated and higher resolution land cover data sets. Images are to be analyzed for the latest available year.\r\nFor the Inventory of open public space. Information can be obtained from legal documents outlining publicly owned land and well-defined land use plans. In some cases where this information is lacking, incomplete or out-dated, open sources, informants in the city and community-based maps, which are increasingly recognized as a valid source of information, can be a viable alternative.\r\nThe share of land in public open spaces cannot be obtained directly from the use of high-resolution satellite imagery, because it is not possible to determine the ownership or use of open spaces by remote sensing. But additional meta-data that helps to describe the land use patterns in the locale is additionally required to map out land that is for public and non-public use."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "It is expected that investments in improved data collection and monitoring at country level will produce incentives for governments to improve monitoring of the public spaces in cities and also offer more opportunities to engage with multiple stakeholders in data collection and analysis and in achieving better understanding of the strengths and weaknesses of existing public space management policies and practices. This will ensure that internationally comparable data for global monitoring improved over time in terms of quality and timeliness of reporting. Where applicable, appropriate population weighting schemes will be used at the stage of computing regional and global estimates for this indicator. This will include catering for adjustments where public space definitions are different."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data for this indicator is already available for 200 cities which are part of the UN-Habitat�s city prosperity initiative. More cities are joining this initiative and hence data is expected to be available for over 300 cities by the end of 2016. The indicator is classified as Tier 2, and hence more work in the first year will go into refining the methodology and providing technical support to national statistical agencies to build the capacity to collect, analyze and report on this indicator."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Available time series runs at the city and national level for selected countries"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The monitoring of the indicator can be repeated at regular intervals of 5 years, allowing for three reporting points until the year 2030. Monitoring in 5-years intervals will allow cities to determine whether the shares of open public space in the built-up areas of cities is increasing significantly over time, as well as deriving the share of the global urban population living in cities where the open public space is below the acceptable minimum. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "Every five years around April."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Name:\r\nUN-Habitat\r\nDescription:\r\nUN-Habitat will take the lead in global reporting which will follow efforts of directly working with national statistical agencies for reporting at national levels. UN-Habitat and other partners including other private and regional commissions will lead the efforts of building national capacities to monitor and report on this indicator."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UN-Habitat"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://unhabitat.org/urban-knowledge/global-urban-observatory-guo/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Axon Johnson Foundation, Public Spaces and Place making, Future of Places, http://futureofplaces.com/\r\nUN-Habitat (2013) Streets as Public Spaces and Drivers of Urban Prosperity, Nairobi\r\nUN-Habitat (2014) Methodology for Measuring Street Connectivity Index\r\nUN-Habitat (2015) Spatial Capital of Saudi Arabian Cities, Street Connectivity as part of City Prosperity Initiative\r\nRelated indicators\r\n3.9.1:\r\nMortality rate attributed to household and ambient air pollution\r\n6.1.1:\r\nProportion of population using safely managed drinking water services\r\n6.2.1:\r\nProportion of population using safely managed sanitation services, including a hand-washing facility with soap and water\r\n6.3.1:\r\nProportion of wastewater safely treated\r\n7.1.1:\r\nProportion of population with access to electricity\r\n11.1.1:\r\nProportion of urban population living in slums, informal settlements or inadequate housing\r\n11.2.1:\r\nProportion of population that has convenient access to public transport, by sex, age and persons with disabilities\r\n11.3.1:\r\nRatio of land consumption rate to population growth rate\r\n11.5.1:\r\nNumber of deaths, missing persons and persons affected by disaster per 100,000 people [a]\r\n11.6.1:\r\nProportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities\r\n11.6.2:\r\nAnnual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)\r\n11.7.2:\r\nProportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months\r\n15.1.2:\r\nProportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+                }
+            }
+        }
+    ]
+}

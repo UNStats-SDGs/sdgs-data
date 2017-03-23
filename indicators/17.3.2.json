@@ -1,0 +1,111 @@
+{
+    "goal_id": "17",
+    "target_id": "17.3",
+    "description": "Volume of remittances (in United States dollars) as a proportion of total GDP",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Bank (WB)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Personal remittances received as proportion of GDP is the inflow of personal remittances expressed as a percentage of Gross Domestic Product (GDP). "
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "NA"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Personal remittances comprise of personal transfers and compensation of employees. Personal transfers consist of all current transfers in cash or in kind made or received by resident households to or from non-resident households. Personal transfers thus include all current transfers between resident and non-resident individuals. Compensation of employees refers to the income of border, seasonal, and other short-term workers who are employed in an economy where they are not resident and of residents employed by non-resident entities. Data are the sum of two items defined in the sixth edition of the IMF's Balance of Payments Manual: personal transfers and compensation of employees.\r\nThe concepts used are in line with the Sixth Edition of the IMF's Balance of Payments and International Investment Position Manual (BPM6)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "NA"
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Personal remittances are the sum of two items defined in the sixth edition of the IMF's Balance of Payments Manual: personal transfers and compensation of employees. World Bank staff estimates on the volume of personal remittances data are used for gap-filling purposes. GDP data, sourced from the World Bank�s World Development Indicators (WDI) database, are then used to express the indicator as a percentage of GDP."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "None"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "World Bank staff estimates for personal remittances data are based on data from IMF Balance of Payments Statistics database and data releases from central banks, national statistical agencies, and World Bank country desks."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Regional and global estimates are calculated as the GDP weighted average."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Volume of personal remittances data are sourced from IMF�s Balance of Payments Statistics database and then gap-filled with World Bank staff estimates. \r\nGDP data, sourced from the World Bank�s World Development Indicators (WDI) database is used as the denominator. GDP data collection is conducted from national and international sources through an annual survey of economists in the Bank�s country office network � the World Bank�s principal mechanism for gathering quantitative macroeconomic information on its member countries."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data for 207 countries are already currently available on a regular basis for this indicator.\r\nThis is done on an annual basis."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "NA"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "NA"
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The national data provider of personal remittances is the institution in charge of the collection and compilation of the Balance of Payments statistics. This responsibility varies and is country specific (i.e. Central Bank). World Bank staff estimates for personal remittances data are used for gap-filling purposes. Personal remittances data are not reported directly to the World Bank from the national data provider. They are reported to the International Monetary Fund (IMF), which is the institution in charge of overseeing balance of payment stability as part of its institutional mandate. \r\nGDP data are sourced from the World Bank�s World Development Indicators (WDI) database and are compiled in accordance to the System of National Accounts, 2008 (2008 SNA) methodology. GDP data collection is conducted through the Unified Survey process, the World Bank�s principal mechanism for gathering quantitative macroeconomic information on its member countries."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "The government agency in charge of the collection and compilation of the Balance of Payments statistics is the responsible organization for compilation and reporting of the personal remittances data. This information gets reported by the countries� government agencies to the International Monetary Fund. The World Bank is the responsible agency for compilation and reporting of the GDP data."
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.worldbank.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "Data are compiled in accordance with the sixth edition of the Balance of Payments and International Investment Position Manual (BPM6). The manual is available at: https://www.imf.org/external/pubs/ft/bop/2007/bopman6.htm\r\nGDP data are compiled in accordance to the System of National Accounts, 2008 (2008 SNA) methodology. The manual is available at: http://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf. \r\nMetadata also available at:\r\nhttp://databank.worldbank.org/data/reports.aspx?source=2&type=metadata&series=BX.TRF.PWKR.DT.GD.ZS"
+                }
+            }
+        }
+    ]
+}

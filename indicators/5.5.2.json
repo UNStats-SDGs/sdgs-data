@@ -1,0 +1,111 @@
+{
+    "goal_id": "5",
+    "target_id": "5.5",
+    "description": "Proportion of women in managerial positions",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "International Labour Organization (ILO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "This indicator refers to the proportion of females in the total number of persons employed in senior and middle management. For the purposes of this indicator, senior and middle management correspond to major group 1 in both ISCO-08 and ISCO-88 minus category 14 in ISCO-08 (hospitality, retail and other services managers) and minus category 13 in ISCO-88 (general managers), since these comprise mainly managers of small enterprises. If statistics are not disaggregated at the sub-major level, then major group 1 of ISCO-88 and ISCO-08 could be used as a proxy."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator provides information on the proportion of women who are employed in decision-making and management roles in government, large enterprises and institutions, thus providing some insight into women�s power in decision making and in the economy (especially compared to men's power in those areas)."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The International Standard Classification of Occupations (ISCO) organizes jobs into a clearly defined set of groups according to the tasks and duties undertaken in the job. The first version of ISCO was published in 1958 and since then, ISCO has been revised in 1968, 1988 and 2008. Employed persons are all persons of working age who during a specified brief period, such as one week or one day, were in the following categories: a) paid employment (whether at work or with a job but not at work); or b) self-employment (whether at work or with an enterprise but not at work). For more detailed information, please refer to the Resolution concerning statistics of work, employment and labour underutilization, adopted by the Nineteenth International Conference of Labour Statisticians (October 2013): http://ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "This indicator's main limitation is that it does not reflect differences in the levels of responsibility of women in these high and middle level positions or the importance of the enterprises and organizations in which they are employed.\r\nIts quality is also heavily dependent on the reliability of the employment statistics by occupation at the two-digit level of the ISCO."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "Proportion of women in managerial positions = (Women employed in ISCO-08 category 1 - Women employed in ISCO-08 category 14) / (All persons employed in ISCO-08 category 1 - all persons employed in ISCO-08 category 14) * 100\r\nor\r\nProportion of women in managerial positions = (Women employed in ISCO-88 category 1 - Women employed in ISCO-88 category 13) / (All persons employed in ISCO-88 category 1 - all persons employed in ISCO-88 category 13) * 100"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "This indicator requires no disaggregation per se, although employment statistics both by sex and by occupation are needed to calculate it.\r\nIf statistics are available and the sample size permits, it may be of interest to cross-tabulate this indicator by economic activity (ISIC) or disaggregate further to observe the share of women across more detailed occupational groups."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "NA"
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The recommended source for this indicator is a labour force survey or, if not available, other similar types of household surveys, including a module on employment. In the absence of any labour-related household survey, establishment surveys or administrative records may be used to gather information on the female share of employment by the required ISCO groups. In cases where establishment surveys or administrative records are used, the coverage is likely to be limited to formal enterprises or enterprises of a certain size. Information on the enterprises covered should be provided with the figures. When comparing figures across years, any changes in the versions of ISCO that are used should be taken into account."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "NA"
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "NA "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The ILO Department of Statistics sends out its annual questionnaire on labour statistics every year, usually in the 2nd quarter, with a view to receiving the requested statistics by the 3rd quarter or the end of the year at most. Indicator 5.5.2 is calculated from statistics submitted to the ILO Department of Statistics via this questionnaire. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "The ILO Department of Statistics' online database ILOSTAT is continuously updated to reflect statistics compiled and processed every week. In general, statistics for EUROSTAT and OECD countries are available around the 2nd or 3rd quarter of the year following the year of reference, whereas they are usually available around the 3rd or 4th quarter of the year following the year of reference for the other countries. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National Statistical Offices"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "ILO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.ilo.org/ilostat"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "ILOSTAT database: www.ilo.org/ilostat\r\nDecent work indicators - ILO Manual: http://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_223121.pdf\r\nISCO-08: http://www.ilo.org/public/english/bureau/stat/isco/isco08/\r\nResolution concerning statistics of work, employment and labour underutilization, adopted by the 19th ICLS: http://ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm\r\nRelated indicators\r\n8.5"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.9",
+    "description": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services) as defined as the number of deaths from unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe WASH services) in a year, divided by the population, and multiplied by 100,000."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator expresses the number of deaths from inadequate water, sanitation and hygiene (with focus on WASH services) which could be prevented by improving those services and practices. It is based on both the WASH service provision in the country, as well as the related health outcomes, and therefore provides important information on the actual disease caused by the risks measured in 6.1, 6.2 and 6.3."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Deaths attributable to unsafe water, sanitation and hygiene focusing on inadequate WASH services, expressed per 100,000 population; The included diseases are the WASH attributable fractions of diarrhoea (ICD-10 code A00, A01, A03, A04, A06-A09), intestinal nematode infections (ICD-10 code B76-B77, B79) and protein-energy malnutrition (ICD-10 code E40-E46)."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Data rely on (a) statistics on WASH services (6.1, 6.2 and 6.3), which are well assessed in almost all countries, and (b) data on deaths. Data on deaths are also widely available from countries from death registration data or sample registration systems, which are certainly feasible systems. Such data are crucial for improving health and reducing preventable deaths in countries. The main limitation is that not all countries do have such registration systems to date, and data need to be completed with other type of information."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The methods with agreed international standard have been developed, reviewed and published in various documents:\r\nhttp://www.who.int/water_sanitation_health/gbd_poor_water/en/\r\nhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC4255749/"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Since this indicator is population-based, geographic location is the most natural disaggregation. Data also exists for age group and sex. Similar to JMP�s work on disaggregation by income groups (wealth quintile), data can further be disaggregated by wealth quintile."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "Data are available for practically all countries. They are, however, sometimes based on health statistics provided by international agencies as the national data are incomplete, which have been interpolated/ extrapolated, adjusted, and completed by additional data and cause-of-death models. A more detailed description of the methods is provided in http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Country estimates of number of deaths by cause are summed to obtain regional and global aggregates."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "WHO is required by World Health Assembly resolution to consult on all WHO statistics, and seek feedback from countries on data about countries and territories. Before publishing, all estimates undergo country consultations."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data is compiled mainly from country and other databases directly. To maximize the data for robust estimates, as well as to reduce duplication of data collection to avoid further data reporting burden on countries, complementary data are used from various databases."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "WHO conducts a formal country consultation process before releasing its cause-of-death estimates."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are available for practically all countries. They are, however, sometimes based on health statistics provided by international agencies as the national data are incomplete. \r\nActual country data for 2010 onwards period\r\nAsia and Pacific - 27% of countries (16 out of 59 countries, including China and India sample systems)\r\nAfrica - 6% of countries (3 out of 54 countries)\r\nLatin America and the Caribbean - 56% of countries (19 out of 34 countries)\r\nEurope, North America, Australia, New Zealand and Japan - \r\n94% of countries (44 out of 47 countries, missing are mainly very small countries)\r\nFor the period 2000-2009\r\nAsia and Pacific - 27% of countries (16 out of 59 countries, including China and India sample systems)\r\nAfrica - 6% of countries (3 out of 54 countries)\r\nLatin America and the Caribbean - 56% of countries (19 out of 34 countries)\r\nEurope, North America, Australia, New Zealand and Japan - 94% of countries (44 out of 47 countries, missing are mainly very small countries)\r\nWeb link to the database: \r\nhttp://apps.who.int/gho/data/node.home \r\nThe indicator has been established and available for more than a decade. http://apps.who.int/gho/data/node.main.INADEQUATEWSH?lang=en\r\nhttp://www.who.int/water_sanitation_health/gbd_poor_water/en/\r\nWHO has been collating country figures and has been using these to produce global and regional estimates against this indicator. "
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "Limited time series data is available (comparable series for years 2012 and soon 2015; data for 2002 are also available but have more limited comparability)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "Ongoing "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "2017, first quarter "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices, Various line ministries and databases covering civil registration with complete coverage and medical certification of cause of death."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/water_sanitation_health/gbd_poor_water/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "1. WHO indicator definition http://apps.who.int/gho/data/node.imr.SDGWSHBOD?lang=en\r\nhttp://www.who.int/water_sanitation_health/gbd_poor_water/en/\r\n2. WHO methods and data sources for global causes of death, 2000�2012 (http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf?ua=1).\r\nRelated indicators\r\n6.1:\r\nProportion of population with primary reliance on clean fuels and technology\r\n6.2:\r\nProportion of population with primary reliance on clean fuels and technology\r\n6.3:\r\nProportion of population with primary reliance on clean fuels and technology\r\n3.2:\r\nProportion of population with primary reliance on clean fuels and technology"
+                }
+            }
+        }
+    ]
+}

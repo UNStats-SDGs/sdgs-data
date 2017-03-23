@@ -1,0 +1,111 @@
+{
+    "goal_id": "15",
+    "target_id": "15.4",
+    "description": "",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The Green Cover Index is meant to measure the changes of the green vegetation in mountain areas - i.e. forest, shrubs, trees, pasture land, crop land, etc. � in order to monitor progress on the mountain target. \r\nThe index, will provide information on the changes in the vegetation cover and, as such, will provide an indication of the status of the conservation of mountain environments."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The scientific mountain community recognizes that there is a direct correlation between the green coverage of mountain areas and their state of health, and as a consequence their capacity of fulfilling their ecosystem roles. Monitoring mountain vegetation changes over time provides an adequate measure of the status of conservation of mountain ecosystems. Monitoring the mountain \"Green Cover Index\" over time can provide information on the forest, woody and vegetal cover in general. For instance, its reduction will be generally linked to overgrazing, land clearing, urbanization, forest exploitation, timber extraction, fuelwood collection, fire. Its increase will be due to vegetation growth possibly linked to land restoration, reforestation or afforestation programmes."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Mountains are defined according to the UNEP-WCMC classification that identifies them according to altitude, slope and local elevation range as described by Kapos et al. 2000: \r\nClass 1: elevation > 4,500 meters\r\nClass 2: elevation 3,500�4,500 meters\r\nClass 3: elevation 2,500�3,500 meters\r\nClass 4: elevation 1,500�2,500 meters and slope > 2\r\nClass 5: elevation 1,000�1,500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters\r\nClass 6: elevation 300�1,000 meters and local elevation range (7 kilometer radius) > 300 meters"
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The indicator is based on Collect Earth, the most modern technology available. Its user friendliness and smooth learning curve make it a perfect tool for performing fast, accurate and cost-effective assessments. It is free, open source and highly customizable for the specific data collection needs and methodologies. It builds upon very high resolution multi-temporal images from Google Earth and Bing Maps and Landsat 7 and 8 datasets from Google Earth Engine. Data and images are stored and globally available for any year from 2000, making possible the monitoring of the change over time. \r\nThe indicator has a global accuracy of 99%, but at national level for small countries the degree of accuracy is lower. This will be improved over time as more countries expand the data collection within their territory. \r\nData on mountain coverage are provided by the 2015 FAO/MPS global map of mountains."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "The indicator results from the juxtaposition of land cover data extracted from FAO Collect Earth tool and the global map of mountains produced by FAO/MPS in 2015 based on the UNEP-WMCM mountain classification. \r\nCollect Earth (http://www.openforis.org/tools/collect-earth.html) is a free and open source tool that enables data collection through Google Earth for a wide variety of purposes, including:\r\n- Support multi-phase National Forest Inventories\r\n- Land Use, Land Use Change and Forestry (LULUCF) assessments\r\n- Monitoring agricultural land and urban areas\r\n- Validation of existing maps\r\n- Collection of spatially explicit socio-economic data\r\n- Quantifying deforestation, reforestation and desertification"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The indicator is disaggregated by mountain elevation class."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "NA"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "The estimate will generated through a probabilistic sampling approach. The sampling design has been developed in order to achieve an uncertainty on the forest and vegetation cover parameters of +-2% at global level and +-4 at regional level. Remote sensing data systematically collected from 2000 will be used to generate annual series from 2000 to 2015. The satellite data will be analyzed using Collect Earth.\r\nCollect Earth is a tool that enables data collection through augmented visual interpretation of high resolution imagery using Google Earth. In conjunction with Google Earth, Bing Maps and Google Earth Engine, users can analyze high and very high resolution satellite imagery and historical trends in vegetation. It can be used to collect data at the local, regional and global level and has been successfully used by many country partners (Papua New Guinea, Tunisia, Uruguay, others)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "NA"
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The source of data is FAO Collect Earth."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "The estimate will be generated through regional assessment carried out by circa 30 partners all around the world. The data will be collected in with the same methodology in order to guarantee data consistency. The methodology enables intensification of the sampling in order to obtain same level of uncertainties at regional and sub regional levels. The data collection will be also harmonized according to the Forest Resources Assessment definition schemes."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "All"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "By the end of 2016"
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "FAO Collect Earth is constantly updated; the mountain map doesn�t need any update. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "As data are all already available, the analysis will be conducted by MPS/FAO and data will be validated by countries."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "FAO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.fao.org; www.mountainpartnership.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://www.mountainpartnership.org/\r\nhttp://www.mountainpartnership.org/our-work/focusareas/foodsecurity/en/ (GIS raster of mountains is available for download from the right-side bar)\r\nhttp://www.openforis.org/tools/collect-earth.html\r\nhttp://www.fao.org/3/a-i5175e.pdf \r\nhttp://www.fao.org/\r\nRelated indicators\r\n6.6, 15.1"
+                }
+            }
+        }
+    ]
+}

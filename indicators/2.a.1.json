@@ -1,0 +1,111 @@
+{
+    "goal_id": "2",
+    "target_id": "2.a",
+    "description": "The agriculture orientation index for government expenditures",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "Food and Agriculture Organization of the United Nations (FAO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. The measure in a currency-free index, calculated as the ratio of these two shares. National governments are requested to compile Government Expenditures according to the international Classification of Functions of Government (COFOC), and Agriculture Share of GDP according to the System of National Accounts (SNA)."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government�s orientation to the agriculture sector.\r\nGovernment spending in Agriculture includes spending on sector policies and programs; soil improvement and soil degradation control; irrigation and reservoirs for agricultural use; animal health management, livestock research and training in animal husbandry; marine/freshwater biological research; afforestation and other forestry projects; etc.\r\nSpending in these agricultural activities helps to increase sector efficiency, productivity and income growth by increasing physical or human capital and /or reducing inter-temporal budget constraints. \r\nHowever, the private sector typically under-invests in these activities due to the presence of market failure (e.g. the public good nature of research and development; the positive externalities from improved soil and water conditions; lack of access to competitive credit due to asymmetric information between producers and financial institutions, etc.). Similarly, the high risk faced by agricultural producers, particular smallholders unable to hedge against risk, often requires government intervention in terms of income redistribution to support smallholders in distress following crop failures and livestock loss from pests, droughts, floods, infrastructure failure, or severe price changes. \r\nGovernment spending in agriculture is essential to address these market failures and the periodic need for income redistribution. This leads to several potential indicators for the SDGs, which include: a) the level of Government Expenditures in Agriculture (GEA); b) the Agriculture share of Government Expenditures, and c) the AOI for Government Expenditures.\r\nAn indicator that measures GEA levels fails to take into account the size of an economy. If two countries, A and B, have the same level of GEA, and the same agriculture contribution to GDP, but country A�s economy is 10 times that of country B, setting the same target levels for GEA fails to take economic size into account. \r\nAn indicator that measures the Agriculture share of Government Expenditures fails to take into account the relative contributions of the agricultural sector to a country�s GDP. Consider two countries with the same economic size, C and D, where agriculture contributes 2 per cent to C�s GDP, and 10 per cent to country D�s GDP. If total Government Expenditures were equal in both countries, C would experience greater relative investment in Agriculture than D. If total Government Expenditures differed, the result could be magnified or diluted.\r\nThe AOI index takes into account a country�s economic size, Agriculture�s contribution to GDP, and the total amount of Government Expenditures. As such, it allows for the setting of a universal and achievable target. Nonetheless, it is useful to interpret the AOI in combination with its numerator and denominator separately: the Agriculture share of Government Expenditures and the Agriculture Share of GDP"
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Agriculture refers to the agriculture, forestry, fishing and hunting sector, or Division A of ISIC Rev 4 (equal to Division A+B of ISIC Rev 3.2). Government Expenditures are based on the Classification of the Functions of Government (COFOG) developed by the OECD and published by the United Nations Statistics Division (UNSD), found at http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4&Top=1&Lg=1. \r\nGovernment Expenditures are all outlays or expenses associated with supporting a particular sector, including compensation of employees, and subsidies and grants paid as transfers to individuals or corporations in that sector. For a full description, see the Government Finance Statistics Manual (GFSM) 2001, developed by the International Monetary Fund (IMF), found at http://www.imf.org/external/pubs/ft/gfs/manual/.\r\nThe Agriculture Share of GDP is measured by the ratio of Agriculture Value Added over GDP, based on official data reported by countries to the United Nations Statistics Division."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.\r\nThe key limitation with this indicator is that it takes into account only central government expenditures. To the extent that some countries may have heavier intervention in Agriculture by sub-national governments, this will not be taken into account."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP),\r\nwhere \r\n1) Agriculture Share of Government Expenditures = (Central Government Expenditures on Agriculture) / (Total Central Government Outlays); and \r\n2) Agriculture Share of GDP = (Agriculture Value-Added) / GDP\r\nAgriculture refers to the Division A of ISIC Rev 4 (Agriculture, forestry, fishing and hunting), equal to Division A+B of ISIC Rev 3.2."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Since this indicator is based on national accounts data and total central government expenditures, it does not allow for disaggregation by demographic characteristics or geographic location."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "There is currently no treatment of missing values."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "There is currently no treatment of missing values, so regional and global aggregates are based solely on those countries for which data are available. This may result in users interpreting these aggregates as pertaining to all countries in the region, which is the equivalent of treating countries with missing data as if they were the same as those for which data are available."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Global and regional estimates are compiled by first separately summing across countries the four individual components of the index: government expenditures on agriculture, total government expenditures, agriculture value-added, and GDP. These are added only for those countries in a region (or globally) for which all components are available, and the index then calculated for this larger region."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "Since FAO does not alter government expenditure data reported by countries, and uses the national accounts estimates published by the UN Statistics Division (where some national data may be imputed), there should be no difference between data reported by FAO and national figures."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data on government expenditures is collected from countries using an annual questionnaire administered by FAO. Since countries typically compile government expenditure data based on their financial systems, and is administrative data covering the entirely of government expenditures, particularly at the central government level, there is no sampling issue and no possibility of sampling error. For some countries that do not report such data to FAO, data may be obtained from the IMF (which collects similar data but covering more sectors, and with less disaggregation of ISIC Rev 4 Division A) or from official national governmental websites. \r\nData on agriculture value-added and GDP are based on the system of national accounts, which is an analytical framework that compiles national data from a mix of survey, census and administrative (e.g. tax) sources. This data is obtained from the UN Statistics Division, which provides national accounts estimates for 220 countries and territories."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Data on government expenditures (total and on agriculture) are collected from countries using a questionnaire issued by FAO, developed in collaboration with the IMF. Data from countries may be supplemented, for missing countries, with data collected by the IMF, or published on official national governmental websites. The official counterpart(s) at country level are, depending on the country, from the national statistics office, the ministry of finance (or other central planning agency), or the ministry of agriculture. Validation and consultation were conducted through various FAO commissions and committees, including its two agricultural statistics commissions in Africa and the Asia and Pacific, its Committee on Agriculture and Livestock Statistics in Latin America and the Caribbean, and its Committee on Agriculture."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Data are available for about 100 countries on a regular basis. However, differences in timeliness of data collection, compilation and reporting mean that this coverage is rarely available for year T-1 or T-2 where T is the current year."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "From 1991 to 2014"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "The 2016 data collection of Government Expenditures in Agriculture is currently underway, with data release planned for October 2016. Due to time required to collect, compile and publish national data, very few countries will be able to provide 2015 reference year data for the FAO Spring 2016 data collection cycle."
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "As this data is largely compiled annually, the next release for this indicator is planned for October 2016, covering data up to reference year 2015 (for the countries for which data collection, compilation, release is more timely)."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "Department of Finance (or other central planning agency), National Statistics Office, and/or Ministry of Agriculture"
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "Food and Agriculture Organization of the UN (FAO)"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "www.fao.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "http://faostat3.fao.org/mes/methodology_list/E."
+                }
+            }
+        }
+    ]
+}

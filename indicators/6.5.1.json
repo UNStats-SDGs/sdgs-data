@@ -1,0 +1,111 @@
+{
+    "goal_id": "6",
+    "target_id": "6.5",
+    "description": "Degree of integrated water resources management implementation (0-100)",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "United Nations Environment Programme (UNEP)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "The indicator degree of implementation of Integrated Water Resources Management (IWRM), measured in per cent (%) from 0 (implementation not yet started) to 100 (fully implemented) is currently being measured in terms of different stages of development and implementation of Integrated Water Resources Management (IWRM). \r\nThe definition of IWRM is based on an internationally agreed definition, and is universally applicable. IWRM was officially established in 1992 and is defined as \"a process which promotes the coordinated development and management of water, land and related resources in order to maximise economic and social welfare in an equitable manner without compromising the sustainability of vital ecosystems.\" (GWP 2010). \r\nThe method builds on official UN IWRM status reporting, from 2008 and 2012, of the Johannesburg Plan of Implementation from the UN World Summit for Sustainable Development (1992)."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "The indicator provides a direct progress measurement of the first part of Target 6.5 \"�implement integrated water resources management at all levels �\". The percentage score provides an easy and understandable way of measuring progress towards the target, with �0� interpreted as no implementation of IWRM, and �100� interpreted as IWRM being fully implemented. \r\nTo further aid interpretation and comparison, the indicator results can be categorized in a similar way to the survey questions: Degree of implementation = \r\nNot relevant: Very low (0-9.9)\r\nUnder development: Low (10-29.9)\r\nDeveloped, not implemented: Medium-low (30-49.9)\r\nImplementation started: Medium-high (50-69.9)\r\nImplemented, advanced: High (70-89.9)\r\n Fully implemented: Very high (90-100)\r\nThe concept of the survey is that it provides sufficient information to be of real value to the countries in determining their progress towards the target, and through this, various aspects of IWRM. A balance has been sought between providing sufficient information to cover the core principles of IWRM, and thus providing a robust indicator value, and not overburdening countries with unnecessary reporting requirements. \r\nCountries are encouraged to provide additional information on each question, which may help to qualify their choice of score, and/or put that score into their national context. \r\nIndicator 6.5.1 is supported by indicator 6.5.2 \"Proportion of transboundary basin area with an operational arrangement for water cooperation\", which directly addresses the portion of Target 6.5 \"�, including through transboundary cooperation as appropriate.\"."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "The concept of IWRM is measured in 4 main components: \r\n1. Enabling environment: this includes the policies, laws, plans and strategies which create the �enabling environment� for IWRM. \r\n2. Institutions: includes the range and roles of political, social, economic and administrative institutions that help to support the implementation of IWRM. \r\n3. Management Instruments: The tools and activities that enable decision-makers and users to make rational and informed choices between alternative actions. \r\n4. Financing: Budgeting and financing made available and used for water resources development and management from various sources.\r\nThe indicator is based on a national survey structured around these four main components (UNEP 2016). Each component is split into two parts: questions concerning the �National level� and �Other levels� respectively. �Other levels� includes sub-national (including provinces/states for federated countries), basin level, and the transboundary level as appropriate. These two parts address the wording of Target 6.5 �implement [IWRM] at all levels ��."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "The challenge of subjectivity in responses associated with this type of survey is being addressed in a number of ways: \r\na) draft responses are reviewed by a number of governmental and non-governmental stakeholders in an open, inclusive and transparent process. \r\nb) Countries are encouraged to provide further information to qualify their responses and/or set them in the national context. \r\nc) Guidelines are provided for each of the four main components, each question, and each of the six thresholds for every single question, to ensure responses are as objective as possible, and are comparable both between countries, and between reporting periods. \r\nTo achieve robust indicator results requires a country process involving a wide range of stakeholders which will require a certain amount of time and resources. The advantage of this is that it puts in place a process that addresses the integrated and indivisible nature of the SDG targets, as well as stressing the importance of \"leaving no on behind\"."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "1. The survey contains 32 questions divided into the four main components described above. \r\n2. Each question is given a score between 0 and 100, in increments of 10, based on the following 6 main categories:\r\n� Very low (0)\r\n� Low (20)\r\n� Medium-low (40)\r\n� Medium-high (60)\r\n� High (80)\r\n� Very high (100)\r\nNote that guidance is provided for each threshold for each question, to ensure objective and comparable results. \r\n3. The un-weighted average of the question scores within each of the four components is calculated to give a score of 0 � 100 for each component. \r\n4. The component scores are averaged (un-weighted) to give the indicator score, expressed as a percentage between 0 and 100."
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "The strength of the indicator lies in the potential for disaggregating the country score into the four main components of IWRM, and further to the questions in the survey. This provides countries with a quick assessment of which aspects of IWRM are progressing well, and which aspects require increased efforts to obtain the target. \r\nThe nature of the target, indicator and survey does not lend itself to disaggregation by sex, age group, income etc. However, social equality is an integral part of IWRM, and there are questions which directly address issues such as gender, vulnerable groups, geographic coverage and broad stakeholder participation in water resources development and management. These questions provide an indication of the national and sub-national situation regarding social equality."
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "The indicator and survey have been designed for all countries to be able to submit an indicator value. A number of countries that did not submit a survey during the last round of data collection included fragile states / countries in conflict, or small island developing states. It is therefore estimated that the number of country responses under the SDG process will be in excess of 90%. Estimates for countries not responding to the survey will therefore not be made."
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "It is estimated that the number of country responses will be in excess of 90%. This coverage of data will be deemed to be representative of global aggregates. Estimates for countries not responding to the survey will therefore not be made."
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Following the Agenda 2030 principle of \"leaving no one behind\", regional and global values will be based on simple, un-weighted averages of country scores. The country scores will be presented as a percentage, and regional and global averages will also be presented as a percentage. Global averages will be based on country values, not regional averages. \r\nRegional values may be assembled by regional bodies responsible for water resources in the region, such as the African Ministerial Council on Water (AMCOW), and the European Environment Agency (EEA)."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "As described in section 11, there will be no internationally estimated data, with all data to be produced by countries."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "Monitoring progress on meeting SDG 6.5 is owned by and is the responsibility of the national government. The government will assign a ministry with the primary responsibility for overseeing this survey, which will be asked to take on the responsibility of coordinating the national IWRM monitoring and reporting process. As water issues, and water management issues in particular, cut across a wide number of sectors, often overseen by different ministries and other administrative bodies at national or other levels, the process should be inclusive. Major stakeholders should be involved in order to contribute to well informed and objective answers to the questionnaire. \r\nThe ministry may wish to nominate a national \"IWRM focal point\", who may or may not be a government official. The UN will provide support where needed and possible. The following steps are suggested as guidance only, as it is up to countries to decide which process or processes would best serve their needs. It should also be noted that the following steps represent a �ladder� approach, in that completing all the steps will generally lead to a more robust indicator. However, it may not be possible or necessary for all countries to complete all steps. \r\n1) The responsible ministry or IWRM focal point contacts other relevant ministries/agencies to compile responses to the questionnaire. Each possible response option has a score which will be used to calculate the overall indicator score, \r\n2) The completed draft questionnaire is reviewed by government stakeholders. These stakeholders could include those involved in water-relevant sectors, such as agriculture, energy, water supply and environment, as well as water management at different administrative levels. This process may be electronic (e.g. via email) and/or through workshops. \r\n3) The revised draft questionnaire is validated at a multi-stakeholder workshop. Apart from government representatives these stakeholders could include water user associations, private sector, interest groups concerned with e.g. environment, agriculture, poverty, and academia. The suggested process is through a workshop but alternative means of consultation e.g. email, online call for public submissions could be considered. Note that steps 2 and 3 could be combined if desired. \r\n4) The responsible ministry or IWRM focal point discusses with relevant officials and consolidates the input into a final version. This version will be the basis for calculating the degree of IWRM implementation (0-100) for global reporting. Countries can enter responses electronically into an online version of the survey, which will automatically calculate the degree of IWRM implementation score, and also generate graphs and automatic reports to help countries identify areas for attention. \r\n5) The responsible ministry submits the final indicator score to the national statistics office responsible for compiling all national SDG target data. \r\nBased on the national survey, UN-Water will periodically prepare synthesis reports for regional and global levels to provide overall progress on meeting SDG target 6.5. \r\nTemporal Coverage: A reporting cycle of three years is recommended."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "Official counterparts at the country level and the validation and consultation process. \r\nThe survey has been designed so that the indicator is comparable between countries and time periods. No adjustments are foreseen."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Total number of countries: 133 (69% of UN Member States) (UN-Water 2012) \r\nThe following covers the region (MDG regional groupings): followed by the number of countries with data (/total countries in region) (as of 2012); followed by the percentage of countries with data\r\nOceania: 5/12; 42%\r\nEastern Asia: 4/4; 100%\r\nSouthern Asia: 5/9; 56%\r\nSouth-Eastern Asia: 9/11; 82%\r\nWestern Asia: 5/12; 42%\r\nCaucasus and Central Asia: 5/8; 63%\r\nLatin America & the Caribbean: 22/33; 67%\r\nDeveloped regions: 38/50; 76%\r\nSub-Saharan Africa: 35/49; 71%\r\nNorthern Africa: 5/5; 100%\r\nWorld: 133/193; 69%"
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "2008, 2012 (UN-Water 2008, 2012, IWRM Data Portal)"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "December 2016 � August 2017 (9 months). "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "1st quarter 2018."
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "The information required to complete the survey is expected to be held by government officials responsible for water resources management in the country, supported by official documentation. E.g. Ministry of Water in coordination with Ministry of Environment, Ministry of Finance, Ministry of Planning, Ministry of Lands and Agriculture, Ministry of Industry and Mining etc. See also section 6 above. As a minimum, a small group of officials may be able to complete the survey. However, these government officials may belong to various government authorities, and coordination will be required to determine and validate the responses to each question. Increased government and non-government stakeholder participation in validating the question scores will lead to a more robust indicator score and facilitate tracking progress over time."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "UNEP and UN-Water partners, under GEMI (Integrated Monitoring of Water and Sanitation Related Targets)"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.unepdhi.org"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "- AMCOW 2012 : Status Report on Water Resources Management in Africa, http://www.amcow-online.org/index.php?option=com_content&view=article&id=262&Itemid=141&lang=en \r\n- GEMI � Integrated Monitoring of Water and Sanitation-related SDG Targets. "
+                }
+            }
+        }
+    ]
+}

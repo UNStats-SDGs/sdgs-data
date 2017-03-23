@@ -1,0 +1,111 @@
+{
+    "goal_id": "3",
+    "target_id": "3.4",
+    "description": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+    "sources": [
+        {
+            "institutional_information": {
+                "label": "Organization(s)",
+                "content": "World Health Organization (WHO)"
+            },
+            "concepts_and_definitions": {
+                "definition": {
+                    "label": "Definition",
+                    "content": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease. \r\nProbability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetes or chronic respiratory diseases, defined as the per cent of 30-year-old-people who would die before their 70th birthday from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g., injuries or HIV/AIDS). This indicator is calculated using life table methods (see further details in section 3.3)."
+                },
+                "rationale": {
+                    "label": "Rationale",
+                    "content": "Disease burden from non-communicable diseases (NCDs) among adults is rapidly increasing in developing countries due to ageing. Cardiovascular diseases, cancer, diabetes and chronic respiratory diseases are the four main causes of NCD burden. Measuring the risk of dying from these four major causes is important to assess the extent of burden from premature mortality due NCDs in a population."
+                },
+                "concepts": {
+                    "label": "Concepts",
+                    "content": "Probability of dying: The likelihood that an individual would die between two ages given current mortality rates at each age, calculated using life table methods. The probability of death between two ages may be called a mortality rate.\r\nLife table: A table showing the mortality experience of a hypothetical group of infants born at the same time and subject throughout their lifetime to a set of age-specific mortality rates.\r\nCardiovascular disease, cancer, diabetes or chronic respiratory diseases: ICD-10 underlying causes of death I00-I99, COO-C97, E10-E14 and J30-J98."
+                },
+                "comments_and_limitations": {
+                    "label": "Comments and limitations",
+                    "content": "Cause of death estimates have large uncertainty ranges for some causes and some regions. Data gaps and limitations in high-mortality regions reinforce the need for caution when interpreting global comparative cause of death assessments, as well as the need for increased investment in population health measurement systems. The use of verbal autopsy methods in sample registration systems, demographic surveillance systems and household surveys provides some information on causes of death in populations without well-functioning death registration systems, but there remain considerable challenges in the validation and interpretation of such data, and in the assessment of uncertainty associated with diagnoses of underlying cause of death."
+                }
+            },
+            "methodology": {
+                "computation_method": {
+                    "label": "Computation Method",
+                    "content": "There are 4 steps involved in the calculation of this indicator:\r\n1. Estimation of WHO life tables, based on the UN World Population Prospects 2012 revision. \r\n2. Estimation of cause-of-death distributions. \r\n3. Calculation of age-specific mortality rates from the four main NCDs for each five-year age range between 30 and 70. \r\n4. Calculation of the probability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetes or chronic respiratory diseases.\r\nThe methods used for the analysis of causes of death depend on the type of data available from countries:\r\nFor countries with a high-quality vital registration system including information on cause of death, the vital registration that member states submit to the WHO Mortality Database were used, with adjustments where necessary, e.g. for under-reporting of deaths.\r\nFor countries without high-quality death registration data, cause of death estimates are calculated using other data, including household surveys with verbal autopsy, sample or sentinel registration systems, special studies and surveillance systems. In most cases, these data sources are combined in a modelling framework.\r\nThe probability of dying between ages 30 and 70 years from the four main NCDs was estimated using age-specific death rates of the combined four main NCD categories. Using the life table method, the risk of death between the exact ages of 30 and 70, from any of the four causes and in the absence of other causes of death, was calculated using the equation below. The ICD codes used are: Cardiovascular disease: I00-I99, Cancer: C00-C97, Diabetes: E10-E14, and Chronic respiratory disease: J30-J98 \r\nFormulas to (1) calculate age-specific mortality rate for each five-year age group between 30 and 70, (2) translate the 5-year death rate into the probability of death in each 5-year age range, and (3) calculate the probability of death from age 30 to age 70, independent of other causes of death, can be found on page 6 of this document:\r\nNCD Global Monitoring Framework: Indicator Definitions and Specifications. Geneva: World Health Organization, 2014 (http://www.who.int/nmh/ncd-tools/indicators/GMF_Indicator_Definitions_FinalNOV2014.pdf?ua=1)"
+                },
+                "disaggregation": {
+                    "label": "Disaggregation",
+                    "content": "Sex"
+                },
+                "treatment_of_missing_values_at_country_level": {
+                    "label": "Treatment of missing values at country level",
+                    "content": "For countries with high-quality cause-of-death statistics, interpolation/extrapolation was done for missing country-years; for countries with only low-quality or no data on causes of death, modelling was used. Complete methodology may be found here: \r\nWHO methods and data sources for global causes of death, 2000�2012 (http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf?ua=1)"
+                },
+                "treatment_of_missing_values_at_regional_and_global_levels": {
+                    "label": "Treatment of missing values at regional and global levels",
+                    "content": "NA"
+                },
+                "regional_aggregates": {
+                    "label": "Regional aggregates",
+                    "content": "Aggregation of estimates of deaths by cause, age and sex by country."
+                },
+                "sources_of_discrepancies": {
+                    "label": "Sources of discrepancies",
+                    "content": "In countries with high quality vital registration systems, point estimates sometimes differ primarily for two reasons: 1) WHO redistributes deaths with ill-defined cause of death; and 2) WHO corrects for incomplete death registration."
+                }
+            },
+            "data_sources": {
+                "description": {
+                    "label": "Description",
+                    "content": "The preferred data source is death registration systems with complete coverage and medical certification of cause of death. Other possible data sources include household surveys with verbal autopsy, and sample or sentinel registration systems."
+                },
+                "list": {
+                    "label": "List",
+                    "content": "NA"
+                },
+                "collection_process": {
+                    "label": "Collection process",
+                    "content": "WHO conducts a formal country consultation process before releasing its cause-of-death estimates."
+                }
+            },
+            "data_availability": {
+                "description": {
+                    "label": "Description",
+                    "content": "Around 70 countries currently provide WHO with regular high-quality data on mortality by age, sex and causes of death, and another 40 countries submit data of lower quality. However, comprehensive cause-of-death estimates are calculated systematically by WHO for all of its Member States (with a certain population threshold) every 3 years."
+                },
+                "time_series": {
+                    "label": "Time series",
+                    "content": "NA"
+                }
+            },
+            "calendar": {
+                "data_collection": {
+                    "label": "Data collection",
+                    "content": "WHO sends an e-mail two times per year requesting tabulated death registration data (including all causes of death) from Member States. Countries submit annual cause-of-death statistics to WHO on an ongoing basis. "
+                },
+                "data_release": {
+                    "label": "Data release",
+                    "content": "End of 2016. "
+                }
+            },
+            "partners": {
+                "data_providers": {
+                    "label": "Data providers",
+                    "content": "National statistics offices and/or ministries of health."
+                },
+                "data_compilers": {
+                    "label": "Data compilers",
+                    "content": "WHO"
+                }
+            },
+            "references": {
+                "url": {
+                    "label": "URL",
+                    "content": "http://www.who.int/gho/en/"
+                },
+                "other": {
+                    "label": "Other",
+                    "content": "NCD Global Monitoring Framework: Indicator Definitions and Specifications. Geneva: World Health Organization, 2014 (http://www.who.int/nmh/ncd-tools/indicators/GMF_Indicator_Definitions_FinalNOV2014.pdf?ua=1)\r\nWHO indicator definition (http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=3354)\r\nWHO methods and data sources for global causes of death, 2000�2012 (http://www.who.int/healthinfo/global_burden_disease/GlobalCOD_method_2000_2012.pdf?ua=1)\r\nWorld Health Assembly Resolution, WHA66.10 (2014): Follow-up to the Political Declaration of the High-level Meeting of the General Assembly on the Prevention and Control of Non-communicable Diseases. Including Appendix 2: Comprehensive global monitoring framework, including 25 indicators, and a set of nine voluntary global targets for the prevention and control of noncommunicable diseases. (http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R10-en.pdf?ua=1) \r\nWHO Global Action Plan for the Prevention and Control of Noncommunicable Diseases 2013-2020 (http://apps.who.int/iris/bitstream/10665/94384/1/9789241506236_eng.pdf?ua=1)"
+                }
+            }
+        }
+    ]
+}
